@@ -1,3 +1,144 @@
 <!doctype html>
+<head>
 <title>University of Hertfordshire Mathematical Physics Seminars</title>
-<body>Saluton, mondo!</body>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.collapsible:after {
+  content: '\002B';
+  color: white;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.content {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: #f1f1f1;
+}
+</style>
+</head>
+<body>
+<h1>Herts mathematical physics seminar</h1>
+<p>For queries please contact <a href="mailto:h.kim2@herts.ac.uk">Dr Hyungrok Kim</a> or <a href="https://fridrichvalach.com/">Fridrich Valach</a>.</p>
+
+<h2>Upcoming seminars for the academic year 2024/2025:</h2>
+<button class="collapsible">25 Sep — <b>Kymani Armstrong-Williams</b> (Queen Mary University of London)</button>
+<div class="content">
+  <p>Title: tba</p>
+  <p>Abstract: tba</p>
+</div>
+
+<button class="collapsible">02 Oct — <b>tbd</b></button>
+<div class="content">
+  <p>Title: tba</p>
+  <p>Abstract: tba</p>
+</div>
+
+<button class="collapsible">09 Oct — <b>Sonja Klitsch</b> (University of Edinburgh)</button>
+<div class="content">
+  <p>Title: tba</p>
+  <p>Abstract: tba</p>
+</div>
+
+<button class="collapsible">16 Oct — <b>tbd</b></button>
+<div class="content">
+  <p>Title: tba</p>
+  <p>Abstract: tba</p>
+</div>
+
+<button class="collapsible">23 Oct — <b>tbd</b></button>
+<div class="content">
+  <p>Title: tba</p>
+  <p>Abstract: tba</p>
+</div>
+
+<button class="collapsible">30 Oct — <b>Mario Garcia-Fernandez</b> (Instituto de Ciencias Matemáticas, Madrid)</button>
+<div class="content">
+  <p>Title: tba</p>
+  <p>Abstract: tba</p>
+</div>
+
+<button class="collapsible">06 Nov — <b>Nivedita</b> (Oxford)</button>
+<div class="content">
+  <p>Title: tba</p>
+  <p>Abstract: tba</p>
+</div>
+
+<button class="collapsible">13 Nov — <b>tbd</b></button>
+<div class="content">
+  <p>Title: tba</p>
+  <p>Abstract: tba</p>
+</div>
+
+<button class="collapsible">20 Nov — <b>tbd</b></button>
+<div class="content">
+  <p>Title: tba</p>
+  <p>Abstract: tba</p>
+</div>
+
+<button class="collapsible">27 Nov — <b>tbd</b></button>
+<div class="content">
+  <p>Title: tba</p>
+  <p>Abstract: tba</p>
+</div>
+
+<button class="collapsible">04 Dec — <b>tbd</b></button>
+<div class="content">
+  <p>Title: tba</p>
+  <p>Abstract: tba</p>
+</div>
+
+<button class="collapsible">08 Jan — <b>tbd</b></button>
+<div class="content">
+  <p>Title: tba</p>
+  <p>Abstract: tba</p>
+</div>
+
+<button class="collapsible">15 Jan — <b>tbd</b></button>
+<div class="content">
+  <p>Title: tba</p>
+  <p>Abstract: tba</p>
+</div>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
+</script>
+
+</body>
+</html>
