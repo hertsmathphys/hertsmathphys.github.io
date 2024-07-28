@@ -1,9 +1,39 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241106T000000
-DTEND;VALUE=DATE:20241106T000000
-SUMMARY:Nivedita, TBA
+DTSTART;VALUE=DATE:20241106T150000
+DTEND;VALUE=DATE:20241106T160000
+SUMMARY:Nivedita (University of Oxford), TBA
+DESCRIPTION:TBA
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241113T150000
+DTEND;VALUE=DATE:20241113T160000
+SUMMARY:Yang-Hui He (University of Oxford; City, University of London), The AI Mathematician: From Physics, to Geometry, to Number Theory
+DESCRIPTION:We summarize how AI can approach mathematics in three ways: theorem-proving, conjecture formulation, and language processing. Inspired by initial experiments in geometry and string theory, we present a number of recent experiments on how various standard machine‐learning algorithms can help with pattern detection across disciplines ranging from algebraic geometry to representation theory, to combinatorics, and to number theory. At the heart of the programme is the question: how does AI help with mathematical discovery?
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240925T150000
+DTEND;VALUE=DATE:20240925T160000
+SUMMARY:Kymani Tieral Keden Armstrong‐Williams (Queen Mary University of London), TBA
+DESCRIPTION:TBA
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241002T150000
+DTEND;VALUE=DATE:20241002T160000
+SUMMARY:Martina Bártová and Samuel Valach (Coláiste na Tríonóide, Baile Átha Cliath), TBA
+DESCRIPTION:TBA
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241009T150000
+DTEND;VALUE=DATE:20241009T160000
+SUMMARY:Sonja Klitsch (Oilthigh Dhùn Èideann), TBA
+DESCRIPTION:TBA
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241030T150000
+DTEND;VALUE=DATE:20241030T160000
+SUMMARY:Mario García-Fernández (Instituto de Ciencias Matemáticas, Universidad Autónoma de Madrid), TBA
 DESCRIPTION:TBA
 END:VEVENT
 END:VCALENDAR
