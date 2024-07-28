@@ -1,15 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20241106T000000
-DTSTART:20241106T000000
-DTEND:20241106T000000
+DTSTART;VALUE=DATE:20241106T000000
+DTEND;VALUE=DATE:20241106T000000
 SUMMARY:Nivedita, TBA
 DETAILS:TBA
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:2024-11-13
-SUMMARY:Yang-Hui He, The AI Mathematician: From Physics, to Geometry, to Number Theory
-DETAILS:We summarize how AI can approach mathematics in three ways: theorem-proving, conjecture formulation, and language processing. Inspired by initial experiments in geometry and string theory, we present a number of recent experiments on how various standard machine‐learning algorithms can help with pattern detection across disciplines ranging from algebraic geometry to representation theory, to combinatorics, and to number theory. At the heart of the programme is the question: how does AI help with mathematical discovery?
 END:VEVENT
 END:VCALENDAR
