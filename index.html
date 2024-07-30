@@ -12,13 +12,17 @@
   font-family: "Open Sans", sans;
 }
 body{
-  margin:40px auto;
-  max-width:80%;
   line-height:1.6;
-  font-size:18px;
   color:#444;
   padding:0 10px
 }
+@media screen and (min-width: 80rem) {
+  body {
+    max-width:80%;
+    margin:40px auto;
+  }
+}
+
 h1,h2,h3{ line-height:1.2 }
 summary {
   border: 4px solid transparent;
