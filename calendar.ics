@@ -9,7 +9,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241113T150000
 DTEND;VALUE=DATE:20241113T160000
-SUMMARY:Yang-Hui He (University of Oxford; City, University of London), The AI Mathematician: From Physics, to Geometry, to Number Theory
+SUMMARY:Yang-Hui He 何杨辉 (University of Oxford; City, University of London), The AI Mathematician: From Physics, to Geometry, to Number Theory
 DESCRIPTION:We summarize how AI can approach mathematics in three ways: theorem-proving, conjecture formulation, and language processing. Inspired by initial experiments in geometry and string theory, we present a number of recent experiments on how various standard machine‐learning algorithms can help with pattern detection across disciplines ranging from algebraic geometry to representation theory, to combinatorics, and to number theory. At the heart of the programme is the question: how does AI help with mathematical discovery?
 END:VEVENT
 BEGIN:VEVENT
@@ -35,5 +35,11 @@ DTSTART;VALUE=DATE:20241030T150000
 DTEND;VALUE=DATE:20241030T160000
 SUMMARY:Mario García-Fernández (Instituto de Ciencias Matemáticas, Universidad Autónoma de Madrid), TBA
 DESCRIPTION:TBA
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240716T150000
+DTEND;VALUE=DATE:20240716T160000
+SUMMARY:Joost Nuiten (Université Toulouse Ⅲ Paul Sabatier), The Van Est isomorphism for higher stacks
+DESCRIPTION:A classical theorem of Van Est relates the differentiable cohomology of a Lie group to the cohomology of its Lie algebra. I will discuss a version of this result for homotopy-theoretic variants of Lie group(oid)s, such as the string group, relating their cohomology to the cohomology of their (higher) Lie algebroids. The main challenge is to provide a well-behaved analogue of Lie differentiation for higher groupoids; I will discuss how one can use ideas from Lurie and Pridham to provide such a construction.
 END:VEVENT
 END:VCALENDAR

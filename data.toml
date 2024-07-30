@@ -29,3 +29,10 @@ name = "Mario García-Fernández"
 institution = "Instituto de Ciencias Matemáticas, Universidad Autónoma de Madrid"
 date = 2024-10-30
 
+[e0]
+name = "Joost Nuiten"
+institution = "Université Toulouse Ⅲ Paul Sabatier"
+date = 2024-07-16
+location = "E350"
+title = "The Van Est isomorphism for higher stacks"
+abstract = "A classical theorem of Van Est relates the differentiable cohomology of a Lie group to the cohomology of its Lie algebra. I will discuss a version of this result for homotopy-theoretic variants of Lie group(oid)s, such as the string group, relating their cohomology to the cohomology of their (higher) Lie algebroids. The main challenge is to provide a well-behaved analogue of Lie differentiation for higher groupoids; I will discuss how one can use ideas from Lurie and Pridham to provide such a construction."
