@@ -1,4 +1,8 @@
 import tomllib
+import re
+
+strip = lambda s: re.sub("<[^>]*>", "", s)
+strip.__doc__ = "Remove HTML tags from string"
 
 with open("calendar.ics", "w") as c: 
     print("BEGIN:VCALENDAR\nVERSION:2.0", file=c)
@@ -8,8 +12,8 @@ with open("calendar.ics", "w") as c:
             date = entry['date'].strftime("%Y%m%d")
             print(f"DTSTART;VALUE=DATE:{date}T150000", file=c)
             print(f"DTEND;VALUE=DATE:{date}T160000", file=c)
-            print(f"SUMMARY:{entry['name']} ({entry['institution']}), {entry.get('title','TBA')}", file=c)
-            print(f"DESCRIPTION:{entry.get('abstract','TBA')}", file=c)
+            print(f"SUMMARY:{strip(entry['name'])} ({strip(entry['institution'])}), {strip(entry.get('title','TBA'))}", file=c)
+            print(f"DESCRIPTION:{strip(entry.get('abstract','TBA'))}", file=c)
             print("END:VEVENT", file=c)
     print("END:VCALENDAR", file=c)
 

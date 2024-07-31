@@ -7,14 +7,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
-* {
-  hyphens: auto;
-  font-family: "Open Sans", sans;
-}
 body{
   line-height:1.6;
   color:#444;
-  padding:0 10px
+  padding:0 10px;
+  font-family: "Open Sans", sans;
+  hyphens: auto;
 }
 @media screen and (min-width: 80rem) {
   body {
@@ -60,13 +58,10 @@ summary:before {
   transition: .25s transform ease;
 }
 
-
-.content {
-  padding: 0 18px;
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.2s ease-out;
-  background-color: #f1f1f1;
+iframe {
+  border: none;
+  width: 100%;
+  height: 600px;
 }
 </style>
 </head>
@@ -81,8 +76,7 @@ summary:before {
     style="background:url('https://raw.githubusercontent.com/niccokunzmann/open-web-calendar/master/static/img/loaders/circular-loader.gif') center center no-repeat;"
     src="https://open-web-calendar.hosted.quelltext.eu/calendar.html?language=eo&amp;prefer_browser_language=true&amp;url=https%3A%2F%2Fhertsmathphys.github.io%2Fcalendar.ics"
     sandbox="allow-scripts allow-same-origin allow-top-navigation"
-    allowTransparency="true" scrolling="no" 
-    frameborder="0" height="600px" width="100%"></iframe>
+    ></iframe>
 ####
 </body>
 </html>
