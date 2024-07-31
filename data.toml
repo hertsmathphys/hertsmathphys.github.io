@@ -81,7 +81,7 @@ abstract = "Abstract: ‘Give a child a hammer, and they will treat everything l
 date = 2024-04-17
 location = "C408"
 name = "Ján Pullman"
-institution = "University of Edinburgh"
+institution = "Oilthigh Dhùn Èideann"
 title = "Lagrangian relations, half‐densities and quantum L∞ algebras"
 abstract = "Lagrangian relations model maps and more general correspondences between physical systems. In Batalin–Vilkovisky formalism, it is natural to generalize Lagrangian relations to distributional half‐densities, as advocated by Ševera. We give a rigorous definition of linear distributional half‐densities and describe their composition, thus constructing a linear version of a quantum odd symplectic category. As an application, we describe the computation of the BV effective action as a composition in this category. Based on [arXiv:2401.06110], joint with B. Jurčo and M. Zika."
 
@@ -137,7 +137,7 @@ abstract = "This talk explores non‐relativistic geometry, a mathematical frame
 [d12]
 date = 2024-02-21
 name = "Nick Early"
-institution = "Max Planck institute"
+institution = "Max‐Planck‐Institut für Mathematik in den Naturwissenschaften"
 location = "1C117"
 title = "Scattering amplitudes and tilings of moduli spaces"
 abstract = "In 2013, Cachazo, He and Yuan (CHY) discovered a remarkable framework for scattering amplitudes in Quantum Field Theory (QFT) which mixes the real, complex and tropical geometry associated to the moduli space of 𝑛 points on the projective line, ℳ₀,ₙ.  By duality, this moduli space has a twin moduli space of 𝑛 generic points in Pⁿ⁻³, leading to dual realization of scattering amplitudes, using a generalization of the CHY formalism introduced in 2019 by Cachazo, Early, Guevara and Mizera (CEGM).  Any duality begs for an investigation: what structures lie between the twin moduli spaces?  CEGM developed a framework to answer the question for moduli spaces of $n$ points in any Pᵏ⁻¹, leading to the discovery of rich, recursive structures which seem to suggest a new frontier in the study of scattering amplitudes.  In this talk, we discuss recent joint work with Cachazo and Zhang which uses ideas from oriented matroids to construct color-dressed generalized biadjoint scalar amplitudes."
