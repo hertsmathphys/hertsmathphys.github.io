@@ -20,7 +20,7 @@ with open("calendar.ics", "w") as c:
 s = ""
 with open("data.toml", "rb") as f:
     for entry in sorted(tomllib.load(f).values(), key=lambda e: e['date']):
-        s += f"<details><summary>{entry['date']}: {entry['name']} ({entry['institution']}), {entry.get('title','TBA')}</summary>{entry.get('abstract','TBA')}</details>"
+        s += f"<details><summary><time datetime='{entry['date']}'>{entry['date']}</time>: {entry['name']} ({entry['institution']}), {entry.get('title','TBA')}</summary>{entry.get('abstract','TBA')}</details>"
 
 with open("index.html", "w") as f:
     print(open("template.html", "r").read().replace("####", s), file=f)
