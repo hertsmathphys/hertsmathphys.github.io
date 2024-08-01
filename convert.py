@@ -7,19 +7,19 @@ strip.__doc__ = "Remove HTML tags from string"
 
 stamp = datetime.datetime.now().strftime("%Y%m%dT%H%M%SZ")
 with open("calendar.ics", "w") as c: 
-    print("BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//hertsmathphys.github.io//calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH", file=c)
+    print("BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//hertsmathphys.github.io//calendar//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\n", file=c, end='')
     with open("data.toml", "rb") as f:
         for entry in tomllib.load(f).values():
-            print("BEGIN:VEVENT", file=c)
+            print("BEGIN:VEVENT\r\n", file=c, end='')
             date = entry['date'].strftime("%Y%m%d")
-            print(f"DTSTART;VALUE=DATE:{date}T150000", file=c)
-            print(f"DTEND;VALUE=DATE:{date}T160000", file=c)
-            print(f"SUMMARY:{strip(entry['name'])} ({strip(entry['institution'])}), {strip(entry.get('title','TBA'))}", file=c)
-            print(f"DESCRIPTION:{strip(entry.get('abstract','TBA'))}", file=c)
-            print(f"UID:{strip(entry['name']).replace(' ', '')+date}@hertsmathphys.github.io", file=c)
-            print(f"DTSTAMP:{stamp}", file=c)
-            print("STATUS:CONFIRMED\nTRANSP:TRANSPARENT\nSEQUENCE:0\nEND:VEVENT", file=c)
-    print("END:VCALENDAR", file=c)
+            print(f"DTSTART;VALUE=DATE:{date}T150000\r\n", file=c, end='')
+            print(f"DTEND;VALUE=DATE:{date}T160000\r\n", file=c, end='')
+            print(f"SUMMARY:{strip(entry['name'])} ({strip(entry['institution'])}), {strip(entry.get('title','TBA'))}\r\n", file=c, end='')
+            print(f"DESCRIPTION:{strip(entry.get('abstract','TBA'))}\r\n", file=c, end='')
+            print(f"UID:{strip(entry['name']).replace(' ', '')+date}@hertsmathphys.github.io\r\n", file=c, end='')
+            print(f"DTSTAMP:{stamp}\r\n", file=c, end='')
+            print("STATUS:CONFIRMED\r\nTRANSP:TRANSPARENT\r\nSEQUENCE:0\r\nEND:VEVENT\r\n", file=c, end='')
+    print("END:VCALENDAR\r\n", file=c, end='')
 
 s = ""
 with open("data.toml", "rb") as f:
