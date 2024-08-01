@@ -1,11 +1,13 @@
 import tomllib
+import datetime
 import re
 
 strip = lambda s: re.sub("<[^>]*>", "", s)
 strip.__doc__ = "Remove HTML tags from string"
 
+stamp = datetime.datetime.now().strftime("%Y%m%dT%H%M%SZ")
 with open("calendar.ics", "w") as c: 
-    print("BEGIN:VCALENDAR\nVERSION:2.0\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH", file=c)
+    print("BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//hertsmathphys.github.io//calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH", file=c)
     with open("data.toml", "rb") as f:
         for entry in tomllib.load(f).values():
             print("BEGIN:VEVENT", file=c)
@@ -15,6 +17,7 @@ with open("calendar.ics", "w") as c:
             print(f"SUMMARY:{strip(entry['name'])} ({strip(entry['institution'])}), {strip(entry.get('title','TBA'))}", file=c)
             print(f"DESCRIPTION:{strip(entry.get('abstract','TBA'))}", file=c)
             print(f"UID:{strip(entry['name']).replace(' ', '')+date}@hertsmathphys.github.io", file=c)
+            print(f"DTSTAMP:{stamp}", file=c)
             print("STATUS:CONFIRMED\nTRANSP:TRANSPARENT\nSEQUENCE:0\nEND:VEVENT", file=c)
     print("END:VCALENDAR", file=c)
 
