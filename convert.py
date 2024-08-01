@@ -14,6 +14,7 @@ with open("calendar.ics", "w") as c:
             print(f"DTEND;VALUE=DATE:{date}T160000", file=c)
             print(f"SUMMARY:{strip(entry['name'])} ({strip(entry['institution'])}), {strip(entry.get('title','TBA'))}", file=c)
             print(f"DESCRIPTION:{strip(entry.get('abstract','TBA'))}", file=c)
+            print(f"UID:{strip(entry['name']).replace(' ', '')+date}@hertsmathphys.github.io", file=c)
             print("STATUS:CONFIRMED\nTRANSP:TRANSPARENT\nSEQUENCE:0\nEND:VEVENT", file=c)
     print("END:VCALENDAR", file=c)
 
