@@ -37,6 +37,12 @@ location = "E350"
 title = "The Van Est isomorphism for higher stacks"
 abstract = "A classical theorem of Van Est relates the differentiable cohomology of a Lie group to the cohomology of its Lie algebra. I will discuss a version of this result for homotopy‐theoretic variants of Lie group(oid)s, such as the string group, relating their cohomology to the cohomology of their (higher) Lie algebroids. The main challenge is to provide a well‐behaved analogue of Lie differentiation for higher groupoids; I will discuss how one can use ideas from Lurie and Pridham to provide such a construction."
 
+[a00]
+name = "<span lang='no'>Eirik Eik Svanes</span>"
+institution = "<span lang='no'>Universitetet i Stavanger</span>"
+date = 2024-08-07
+location = "E350"
+
 [d0]
 name = "Daniel Waldram"
 institution = "Imperial College London"
