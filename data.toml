@@ -35,6 +35,11 @@ name = "<span lang='es'>Mario García-Fernández</span>"
 institution = "<span lang='es'>Instituto de Ciencias Matemáticas, Universidad Autónoma de Madrid</span>"
 date = 2024-10-30
 
+[a7]
+name = "<span lang='nl'>Pieter Bomans</span>"
+institution = "Oxford University"
+date = 2024-11-20
+
 [a0]
 name = "<span lang='nl'>Joost Nuiten</span>"
 institution = "<span lang='fr'>Université Toulouse Ⅲ Paul Sabatier</span>"
