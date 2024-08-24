@@ -1,9 +1,14 @@
 import tomllib
 import datetime
+import zoneinfo
 import re
 
 strip = lambda s: re.sub("<[^>]*>", "", s)
 strip.__doc__ = "Remove HTML tags from string"
+
+localise = lambda d: datetime.datetime.combine(d.date(), d.time(), zoneinfo.ZoneInfo('Europe/London'))
+localise.__doc__ = "Add Europe/London time zone to datetime objects"
+hour = datetime.timedelta(hours=1)
 
 stamp = datetime.datetime.now().strftime("%Y%m%dT%H%M%SZ")
 with open("calendar.ics", "w") as c: 
@@ -12,8 +17,10 @@ with open("calendar.ics", "w") as c:
         for entry in tomllib.load(f).values():
             print("BEGIN:VEVENT\r\n", file=c, end='')
             date = entry['date'].strftime("%Y%m%d")
-            print(f"DTSTART;VALUE=DATE:{date}T150000\r\n", file=c, end='')
-            print(f"DTEND;VALUE=DATE:{date}T160000\r\n", file=c, end='')
+            time_begin = entry['date'].strftime("%H%M%S")
+            time_end = (entry['date'] + hour).strftime("%H%M%S")
+            print(f"DTSTART;VALUE=DATE:{date}T{time_begin}\r\n", file=c, end='')
+            print(f"DTEND;VALUE=DATE:{date}T{time_end}\r\n", file=c, end='')
             print(f"SUMMARY:{strip(entry['name'])} ({strip(entry['institution'])}), {strip(entry.get('title','TBA'))}\r\n", file=c, end='')
             print(f"DESCRIPTION:{strip(entry.get('abstract','TBA'))}\r\n", file=c, end='')
             print(f"UID:{strip(entry['name']).replace(' ', '')+date}@hertsmathphys.github.io\r\n", file=c, end='')
