@@ -78,13 +78,15 @@ iframe {
 <p>Here is a <a rel="alternate" type="text/calendar" href="calendar.ics">subscribable iCalendar file</a> that you can import to Thunderbird, Outlook, or iCal.</p>
 </header>
 <main>
-<h2>Upcoming seminars for the academic year 2024/2025:</h2>
+<h2>Upcoming seminars for the academic year 2024/2025</h2>
+$current_year
 <iframe id="open-web-calendar" aria-label="calendar widget" 
     style="background:url('https://raw.githubusercontent.com/niccokunzmann/open-web-calendar/master/static/img/loaders/circular-loader.gif') center center no-repeat;"
     src="https://open-web-calendar.hosted.quelltext.eu/calendar.html?language=eo&amp;prefer_browser_language=true&amp;url=https%3A%2F%2Fhertsmathphys.github.io%2Fcalendar.ics"
     sandbox="allow-scripts allow-same-origin allow-top-navigation"
     ></iframe>
-####
+<h2>Past years’ seminars</h2>
+$past_years
 </main>
 </body>
 </html>

@@ -28,10 +28,18 @@ with open("calendar.ics", "w") as c:
             print("STATUS:CONFIRMED\r\nTRANSP:TRANSPARENT\r\nSEQUENCE:0\r\nEND:VEVENT\r\n", file=c, end='')
     print("END:VCALENDAR\r\n", file=c, end='')
 
-s = ""
+
+current_academic_year_start = datetime.datetime(datetime.datetime.now().year, month=7, day=1)
+
+current_year_entries = ""
 with open("data.toml", "rb") as f:
-    for entry in sorted(tomllib.load(f).values(), key=lambda e: e['date']):
-        s += f"<details><summary><time datetime='{entry['date']}'>{entry['date']}</time>: {entry['name']} ({entry['institution']}), {entry.get('title','TBA')}</summary>{entry.get('abstract','TBA')}</details>"
+    for entry in filter( lambda e: e['date'] >= current_academic_year_start, sorted(tomllib.load(f).values(), key=lambda e: e['date'], reverse=False)):
+        current_year_entries += f"<details><summary><time datetime='{entry['date']}'>{entry['date']}</time>: {entry['name']} ({entry['institution']}), {entry.get('title','TBA')}</summary>{entry.get('abstract','TBA')}</details>"
+
+past_year_entries = ""
+with open("data.toml", "rb") as f:
+    for entry in filter(lambda e: e['date'] < current_academic_year_start, sorted(tomllib.load(f).values(), key=lambda e: e['date'], reverse=False)):
+        past_year_entries += f"<details><summary><time datetime='{entry['date']}'>{entry['date']}</time>: {entry['name']} ({entry['institution']}), {entry.get('title','TBA')}</summary>{entry.get('abstract','TBA')}</details>"
 
 with open("index.html", "w") as f:
-    print(open("template.html", "r").read().replace("####", s), file=f)
+    print(open("template.html", "r").read().replace("$current_year", current_year_entries).replace("$past_years", past_year_entries), file=f)
