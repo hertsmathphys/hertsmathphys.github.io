@@ -55,6 +55,11 @@ name = "<span lang='nl'>Niklas Garner</span>"
 institution = "Oxford University"
 date = 2024-12-04T15:00:00
 
+[a10]
+name = "<span lang='hy-Latn'>Karapet Mkrtchyan</span> <span lang='hy'>Կարապետ Մկրտչյան</span>"
+institution = "Imperial College London"
+date = 2025-01-08T15:00:00
+
 [a0]
 name = "<span lang='nl'>Joost Nuiten</span>"
 institution = "<span lang='fr'>Université Toulouse Ⅲ Paul Sabatier</span>"
