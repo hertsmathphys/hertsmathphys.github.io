@@ -16,9 +16,11 @@ date = 2024-09-25T14:00:00
 
 # Martin Wolf to be scheduled for a double talk, per email chain 7/8 August 2024
 [a3a]
-name = "Martin Wolf"
+name = "<span lang='de'>Martin Wolf</span>"
 institution = "University of Surrey"
 date = 2024-09-25T15:00:00
+title = "Homotopy Algebra Perspective on Quantum Field Theory"
+abstract = "I will review recent progress on understanding perturbative quantum field theory within the realm of homotopy algebras."
 
 [a4]
 name = "<span lang='sk'>Martina Bártová</span>"
