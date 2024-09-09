@@ -28,11 +28,15 @@ abstract = "I will review recent progress on understanding perturbative quantum 
 name = "<span lang='sk'>Martina Bártová</span>"
 institution = "<span lang='ga'>Coláiste na Tríonóide, Baile Átha Cliath</span>"
 date = 2024-10-02T14:00:00
+title = "Introduction to Quantum Integrability"
+abstract = "This talk provides an accessible introduction to quantum integrability, exploring the mathematical structure of integrable quantum systems. We will discuss key concepts such as conserved quantities, exact solvability, and the role of symmetries."
 
 [a4b]
 name = "<span lang='sk'>Samuel Valach</span>"
 institution = "<span lang='ga'>Coláiste na Tríonóide, Baile Átha Cliath</span>"
 date = 2024-10-02T15:00:00
+title = "Thermal Correlators, Holography and Black Hole Singularity"
+abstract = "Black hole singularities in <abbr title='anti de Sitter space'>AdS</abbr> are reflected in the so‐called bouncing geodesics. In the dual <abbr title='conformal field theory'>CFT</abbr> this leads to the bouncing singularities in the thermal correlators. I will explain both sides of this problem and show how these singularities arise from the analytic properties of the stress tensor and its composites in the boundary <abbr title='conformal field theory'>CFT</abbr>."
 
 [a5]
 name = "<span lang='de'>Sonja Klitsch</span>"
