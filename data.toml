@@ -255,13 +255,17 @@ date = 2020-02-19T15:00:00
 name = "Charles Strickland‐Constable"
 institution = "University of Hertfordshire"
 date = 2021-02-17T15:00:00
-title = "Geodesics"
+title = "Generalised geodesics: the geometry of strings and branes"
+location = "https://herts-ac-uk.zoom.us/j/95781725839"
+abstract = "I will present recent work showing how the classical solutions of string and membrane sigma models can be understood as the analogue of integral curves of auto-parallel vector fields in generalised geometry.<p>I will try to make the first part of the talk accessible to a non-string-theory audience."
 
 [e6]
 name = "<span lang='it'>Tommaso Franzini</span>"
-title = "Thermodynamic Bethe Ansatz"
+title = "An introduction to Thermodynamic Bethe Ansatz with some applications"
 institution = "University of Hertfordshire"
 date = 2021-02-24T15:00:00
+location = "https://herts-ac-uk.zoom.us/j/95781725839"
+abstract = "Since the Thermodynamic Bethe Ansatz was first introduced, it has always been a powerful tool to investigate several properties of integrable quantum field theories. In this talk I will give an introduction to the topic, explaining a general method to derive the TBA equations and focusing on some of their most relevant aspects. In this context, I will also present the work I have done for my master thesis about the structure of the TBA for a theory with quantum group symmetry, as part of a collaboration with <abbr title='Professor'>Prof.</abbr> Ravanini from Bologna University and <abbr title='Professor'>Prof.</abbr> Ahn from Ewha University."
 
 [e7]
 name = "<span lang='pt'>Guilherme Almeida</span>"
@@ -278,6 +282,14 @@ date = 2021-05-12T15:00:00
 title =  "Towards an extended/higher correspondence – generalised geometry, bundle gerbes and global <math><mi>𝑇</mi></math>‐duality"
 location = "https://herts-ac-uk.zoom.us/j/95781725839"
 abstract = "Extended Geometry is the geometric framework which makes <math><mi>𝑇</mi></math>‐duality and <math><mi>𝑈</mi></math>‐duality manifest symmetries. This is realised by lifting generalised geometry to a higher dimensional space which is, at least locally, the space underlying the fundamental representation of the duality group. However, despite its relevance in M‐theory, the global aspects of Extended Geometry are still unclear. <p>I propose a global formulation of Extended Geometry via a generalisation of Kaluza–Klein principle which unifies a metric and a higher gauge field on a categorified principal bundle (e.g. a bundle gerbe). I will illustrate the relation of this formulation with usual generalised geometry and with the string <math><mi>𝜎</mi></math>‐model. Finally, I will discuss how a global notion of generalised fluxes (geometric and non‐geometric) emerges from this picture and how this is related to a higher gauge theory with the string 2‐group."
+
+[e8a]
+name = "Robert Gray"
+institution = "University of East Anglia"
+title = "Undecidability of the word problem for one-relator inverse monoids via right‐angled Artin subgroups of one‐relator groups"
+date = 2021-05-26T15:00:00
+location = "https://herts-ac-uk.zoom.us/j/92172057379?pwd=TEhRU0Y5clVNRU5rRzZhM09BWDJBZz09"
+abstract = " It is a classical result of Magnus proved in the 1930s that the word problem is decidable for one‐relator groups. This result inspired a series of investigations of the word problem in other one‐relator algebraic structures. For example, in the 1960s Shirshov proved the word problem is decidable in one‐relator Lie algebras. In contrast, it remains a longstanding open problem whether the word problem is decidable for one-relator monoids. An important class of algebraic structures lying in between monoids and groups is that of inverse monoids. In this talk I will speak about a recent result which shows that there exist one‐relator inverse monoids of the form <math><mi mathvariant='normal'>Inv</mi><mo>⟨</mo><mi>𝐴</mi><mo>|</mo><mi>𝑤</mi><mo>=</mo><mn>1</mn><mo>⟩</mo></math> with undecidable word problem. This answers a problem originally posed by Margolis, Meakin and Stephen in <time datetime='1987'>1987</time>. I will explain how this result relates to the word problem for one-relator monoids, the submonoid membership problem for one-relator groups, and to the question of which right-angled Artin groups arise as subgroups of one-relator groups."
 
 [e9]
 name = "Severin Bunk"
