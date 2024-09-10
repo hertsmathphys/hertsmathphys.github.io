@@ -368,7 +368,7 @@ abstract = "I will describe a class of structures, known as <math><mi>𝐺</mi><
 
 [e19]
 date = 2022-11-24T16:30:00
-name = "<span lang='sv'>Martin Cederwall</span>"
+name = "<span lang='sv'>Nils Martin Sten Cederwall</span>"
 institution = "<span lang='sv'>Chalmers tekniska högskola</span>"
 title = "Supersymmetry and Koszul duality"
 abstract = "The pure spinor superfield formalism is a very general method to construct supermultiplets, and in certain cases, Batalin—Vilkovisky actions for them, using extra variables inthe form of constrained spinors. The main focus has typically been on thecircumvention of old “no‐go theorems” against manifestly supersymmetric off‐shell formulation of maximally supersymmetric models, such as <math><mi>𝐷</mi><mo>=</mo><mn>10</mn></math> super‐Yang—Mills theory and <math><mi>𝐷</mi><mo>=</mo><mn>11</mn></math> supergravity. In this talk, I will briefly review the formalism, and then describe how the constrained spinors are Koszuldual to certain superalgebras, generically <math><msub><mi>𝐿</mi><mo>∞</mo></msub></math> algebras, constructed fromthe supermultiplets, and how these algebras introduce non‐linear structures on the supermultiplets. This is work in collaboration with <span lang='sv'>S. Jonsson</span>, <span lang='sv'>J. Palmkvist</span> and I. Saberi."
