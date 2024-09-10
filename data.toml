@@ -126,7 +126,7 @@ abstract = "Abstract: ‘Give a child a hammer, and they will treat everything l
 [d5]
 date = 2024-04-17T15:00:00
 location = "C408"
-name = "<span lang='sk'>Ján Pullman</span>"
+name = "<span lang='sk'>Ján Pulmann</span>"
 institution = "<span lang='gd'>Oilthigh Dhùn Èideann</span>"
 title = "Lagrangian relations, half‐densities and quantum <math><msub><mi>𝐿</mi><mo>∞</mo></msub></math> algebras"
 abstract = "Lagrangian relations model maps and more general correspondences between physical systems. In Batalin–Vilkovisky formalism, it is natural to generalize Lagrangian relations to distributional half‐densities, as advocated by <span lang='sk'>Ševera</span>. We give a rigorous definition of linear distributional half‐densities and describe their composition, thus constructing a linear version of a quantum odd symplectic category. As an application, we describe the computation of the <abbr title='Batalin–Vilkovisky'>BV</abbr> effective action as a composition in this category. Based on <a href='https://arxiv.org/abs/2401.06110'>[arXiv:2401.06110]</a>, joint with <span lang='sk'>B. Jurčo</span> and M. Zika."
@@ -134,7 +134,7 @@ abstract = "Lagrangian relations model maps and more general correspondences bet
 [d6]
 date = 2024-04-10T15:00:00
 location = "C400"
-name = "<span lang='es'>Carlos Shahbazi</span>"
+name = "<span lang='es'>Carlos S. Shahbazi Alonso</span>"
 institution = "<span lang='es'>Universidad Nacional de Educación a Distancia</span>"
 title = "The Heterotic‐Ricci flow and its three‐dimensional solitons"
 abstract = "I will introduce a novel curvature flow, the Heterotic‐Ricci flow, as the two‐loop renormalization group flow of the Heterotic string common sector and study its three‐dimensional compact solitons. The Heterotic‐Ricci flow is a coupled curvature evolution flow, depending on a non‐negative real parameter <math><mi>𝜅</mi></math>, for a complete Riemannian metric and a three‐form <math><mi>𝐻</mi></math> on a manifold <math><mi>𝑀</mi></math>. Its most salient feature is that it involves a term quadratic in the curvature tensor of a metric connection with skew‐symmetric torsion <math><mi>𝐻</mi></math>. When <math><mi>𝜅</mi><mo>=</mo><mn>0</mn></math> the Heterotic‐Ricci flow reduces to the generalized Ricci flow and hence it can be understood as an extension of the latter via a higher order correction prescribed by string theory, whereas when <math><mi>𝐻</mi><mo>=</mo><mn>0</mn></math> and <math><mi>𝜅</mi><mo>&gt;</mo><mn>0</mn></math> the Heterotic‐Ricci flow reduces to a constrained version of the RG‐2 flow and hence it can be understood as a generalization of the latter via the introduction of the three‐form <math><mi>𝐻</mi></math>. Solutions of Heterotic supergravity with trivial gauge bundle, which we call Heterotic solitons, define a particular class of self‐similar solutions of the Heterotic‐Ricci flow. I will present several structural results for three‐dimensional Heterotic solitons, providing the complete classification of three‐dimensional strong Heterotic solitons as quotients of the Heisenberg group equipped with a left‐invariant metric. Furthermore, I will prove that all Einstein three‐dimensional Heterotic solitons have constant dilaton, leaving as an open problem the construction of a Heterotic soliton with non‐constant dilaton. In this direction, I will prove that Heterotic solitons with constant dilaton are rigid and therefore they represent isolated points in moduli space that cannot be deformed into a soliton with non‐constant dilaton. Work in collaboration with Andrei Moroianu (Paris)."
@@ -350,7 +350,7 @@ date = 2022-09-07T13:30:00
 name = "<span lang='de'>Christian Sämann</span>"
 institution = "Heriot‐Watt University"
 title = "<math><mi>𝑇</mi></math>‐duality with categorified principal bundles"
-abstract = "The data appearing in the Buscher rules for <math><mi>𝑇</mi></math>‐duality, the Kalb–Ramond field and the metric, can be unified to a connection on a categorified principal bundle governing all geometric T‐dualities. Interestingly, this picture allows for a direct extension to <math><mi>𝑇</mi></math>‐dualities involving non‐geometric backgrounds. Before explaining all this, I will give a gentle introduction to categorified principal bundles."
+abstract = "The data appearing in the Buscher rules for <math><mi>𝑇</mi></math>‐duality, the Kalb–Ramond field and the metric, can be unified to a connection on a categorified principal bundle governing all geometric T‐dualities. Interestingly, this picture allows for a direct extension to <math><mi>𝑇</mi></math>‐dualities involving non‐geometric backgrounds. Before explaining all this, I will give a gentle introduction to categorified principal bundles. <a href='2022-09-07-Sämann.pdf'>(slides)</a>"
 
 [e17]
 name = "Emily Cliff"
