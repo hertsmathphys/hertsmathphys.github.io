@@ -70,7 +70,7 @@ date = 2025-01-08T15:00:00
 
 [a11]
 name = "<span lang='it'>Erica Bertolini</span>"
-institution = "Institiúid Ard-Léinn Bhaile Átha Cliath"
+institution = "<span lang='ga'>Institiúid Ard‐Léinn Bhaile Átha Cliath</span>"
 date = 2025-01-15T15:00:00
 
 [a0]
@@ -251,7 +251,7 @@ date = 2018-10-10T15:00:00
 title = "Hypergeometric integrals of motion and affine Gaudin Models"
 
 [e4]
-name = "<span lang='tr'>Ömer Gürdoğan</span>"
+name = "<span lang='tr'>Ömer C. Gürdoğan</span>"
 title = "Tropical geometry and scattering amplitudes in <math><mi>𝒩</mi><mo>=</mo><mn>4</mn></math> super Yang Mills"
 institution = "University of Oxford, University of Southampton"
 date = 2020-02-19T15:00:00
@@ -327,7 +327,7 @@ abstract = "I will describe a 2‐dimensional sigma model that is dual to self�
 location = "https://meet.google.com/ara-suqn-pwb"
 
 [e13]
-name = "Alexander Schenkel"
+name = "<span lang='de'>Alexander Schenkel</span>"
 date = 2022-04-20T13:30:00
 institution = "University of Nottingham"
 title = "<abbr title='Batalin–Vilkovisky'>BV</abbr> and <abbr title='Batalin–Fradkin–Vilkovisky'>BFV</abbr> formalism beyond perturbation theory"
@@ -344,7 +344,7 @@ abstract = "In almost all situations, the twist of a supersymmetric <abbr title=
 
 [e15]
 date = 2022-06-01T12:30:00
-name = "Kasia Rejzner"
+name = "<span lang='pl'>Katarzyna Anna Rejzner</span>"
 institution = "University of York"
 title = "Symmetries in mathematical perturbative quantum field theory"
 abstract = "In this talk I will give an overview of (perturbative) algebraic quantum field theory and explain how it can be applied to describe interacting <abbr title='quantum field theory'>QFT</abbr> models. I will then report on new progress in the description of renormalization group and symmetries, using nets of C*‐algebras."
