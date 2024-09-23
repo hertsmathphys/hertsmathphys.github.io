@@ -2,6 +2,7 @@
 name = "Nivedita"
 institution = "University of Oxford"
 date = 2024-11-06T15:00:00
+location = "B404"
 [a2]
 name = "<span lang='zh-Latn-pinyin'>Yang‐Hui He</span> <span lang='zh-Hans'>何杨辉</span>"
 institution = "University of Oxford; City, University of London"
@@ -13,6 +14,7 @@ abstract = "We summarize how <abbr title='artificial intelligence'>AI</abbr> can
 name = "Kymani Tieral Keden Armstrong‐Williams"
 institution = "Queen Mary University of London"
 date = 2024-09-25T15:00:00
+lcoation = "B404"
 title = "What can abelian gauge theories teach us about kinematic algebras?"
 abstract = "The last twenty years or so have given rise to an interesting relationship (known as the double copy) at the level of scattering amplitudes between non-abelian gauge theories (such as Yang–Mills theory) and quantum gravity theories. After half a decade, this duality was seen to be present in classical physics for exact solutions in classical Yang–Mills theory and general relativity. Arising from the Double Copy, the phenomenon of <abbr title='Bern–Carrasco–Johansson'>BCJ</abbr> duality implies that gauge theories are more complex than previously thought. They are now known to possess an abstract kinematic algebra, mirroring the non-abelian Lie algebra underlying the colour information. Although the nature of the kinematic algebra is known in certain cases, a full understanding is missing for arbitrary non‐abelian gauge theories, such that one typically works outwards from well‐known examples. In this talk, we explore using simpler abelian gauge theories to clarify our understanding of kinematic algebras. We first describe how classes of abelian gauge fields are associated with well‐defined subalgebras of the diffeomorphism algebra. By considering certain special subalgebras, we show that one may construct interacting theories, whose kinematic algebras are inherited from those already appearing in a related abelian theory. This talk will be based on work done in <a href='https://arxiv.org/abs/2401.10750'>arXiv:2401.10750</a>."
 
@@ -20,7 +22,8 @@ abstract = "The last twenty years or so have given rise to an interesting relati
 [a3a]
 name = "<span lang='de'>Martin Wolf</span>"
 institution = "University of Surrey"
-date = 2024-09-25T13:30:00
+date = 2024-09-25T14:00:00
+location = "B404"
 title = "Homotopy Algebra Perspective on Quantum Field Theory"
 abstract = "I will review recent progress on understanding perturbative quantum field theory within the realm of homotopy algebras."
 
@@ -28,6 +31,7 @@ abstract = "I will review recent progress on understanding perturbative quantum 
 name = "<span lang='sk'>Martina Bártová</span>"
 institution = "<span lang='ga'>Coláiste na Tríonóide, Baile Átha Cliath</span>"
 date = 2024-10-02T14:00:00
+location = "B404"
 title = "Introduction to Quantum Integrability"
 abstract = "This talk provides an accessible introduction to quantum integrability, exploring the mathematical structure of integrable quantum systems. We will discuss key concepts such as conserved quantities, exact solvability, and the role of symmetries."
 
@@ -35,6 +39,7 @@ abstract = "This talk provides an accessible introduction to quantum integrabili
 name = "<span lang='sk'>Samuel Valach</span>"
 institution = "<span lang='ga'>Coláiste na Tríonóide, Baile Átha Cliath</span>"
 date = 2024-10-02T15:00:00
+location = "B404"
 title = "Thermal Correlators, Holography and Black Hole Singularity"
 abstract = "Black hole singularities in <abbr title='anti de Sitter space'>AdS</abbr> are reflected in the so‐called bouncing geodesics. In the dual <abbr title='conformal field theory'>CFT</abbr> this leads to the bouncing singularities in the thermal correlators. I will explain both sides of this problem and show how these singularities arise from the analytic properties of the stress tensor and its composites in the boundary <abbr title='conformal field theory'>CFT</abbr>."
 
@@ -42,6 +47,7 @@ abstract = "Black hole singularities in <abbr title='anti de Sitter space'>AdS</
 name = "<span lang='de'>Sonja Klisch</span>"
 institution = "<span lang='gd'>Oilthigh Dhùn Èideann</span>"
 date = 2024-10-09T15:00:00
+location = "B404"
 title = "A double copy from twistor space"
 abstract = "In this talk I will present a new double copy relation at tree level between gauge theory and gravity amplitudes, graded by helicity. <p>Amplitudes in gauge theory and gravity in <math><mn>4</mn><mi>d</mi></math> can be partitioned into sectors according to their external helicity configurations. At tree level there are particularly beautiful expressions for these amplitudes coming from twistor strings known as the <abbr title='Roiban–Spradlin–Volovich–Witten'>RSVW</abbr> (Roiban–Spradlin–Volovich–Witten) formula for gauge theory, and Cachazo–Skinner formula for gravity. At the same time, the double copy gives an explicit relation between gauge theory and gravity amplitudes via <math><mtext>GR</mtext><mo>=</mo><msup><mrow><mo>(</mo><mtext>YM</mtext><mo>)</mo></mrow><mn>2</mn></msup></math>. However, the explicit representation of the Cachazo-Skinner formula as a double copy of the <abbr title='Roiban–Spradlin–Volovich–Witten'>RSVW</abbr> formula has long been unknown. <p>The question answered in this talk is therefore: how do these helicity graded amplitudes manifest the double copy? In the journey there we will discover a new twistorial representation of biadjoint scalars, a way towards the double copy on non‐trivial backgrounds, and the importance of trees."
 
@@ -50,31 +56,37 @@ abstract = "In this talk I will present a new double copy relation at tree level
 name = "<span lang='es'>Mario García‐Fernández</span>"
 institution = "<span lang='es'>Instituto de Ciencias Matemáticas, Universidad Autónoma de Madrid</span>"
 date = 2024-10-30T15:00:00
+location = "B404"
 
 [a7]
 name = "<span lang='nl'>Pieter Bomans</span>"
 institution = "University of Oxford"
 date = 2024-11-27T15:00:00
+location = "B404"
 
 [a8]
 name = "<span lang='zh-Latn-pinyin'>Jingxiang Wu</span>"
 institution = "University of Oxford"
 date = 2024-11-20T15:00:00
+location = "B404"
 
 [a9]
 name = "<span lang='nl'>Niklas Garner</span>"
 institution = "University of Oxford"
 date = 2024-12-04T15:00:00
+location = "B404"
 
 [a10]
 name = "<span lang='hy-Latn'>Karapet Mkrtchyan</span> <span lang='hy'>Կարապետ Մկրտչյան</span>"
 institution = "Imperial College London"
 date = 2025-01-08T15:00:00
+location = "B404"
 
 [a11]
 name = "<span lang='it'>Erica Bertolini</span>"
 institution = "<span lang='ga'>Institiúid Ard‐Léinn Bhaile Átha Cliath</span>"
 date = 2025-01-15T15:00:00
+location = "B404"
 
 [a0]
 name = "<span lang='nl'>Joost Nuiten</span>"
