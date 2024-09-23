@@ -209,7 +209,7 @@ name = "Georgios Papathanasiou <span lang='el'>Γεώργιος Παπαθανα
 institution = "City, University of London"
 location = "D118"
 title = "Evaluating Feynman integrals with the help of the Landau equations"
-abstract = "Feynman integrals are the core of theoretical physics predictions for collider experiments, and at the same time exhibit remarkably deep mathematical structure. In this talk, I will describe how the knowledge of their singularities, as captured by the Landau equations, may aid the formidable task of their evaluation much more than was previously expected. In particular, I will provide evidence that the latter equations capture the building blocks or ‘letters’ of the integrals, when recast as a polynomial of their variables known as the principal <math><mi>𝐴</mi></math>‐determinant."
+abstract = "Feynman integrals are the core of theoretical physics predictions for collider experiments, and at the same time exhibit remarkably deep mathematical structure. In this talk, I will describe how the knowledge of their singularities, as captured by the Landau equations, may aid the formidable task of their evaluation much more than was previously expected. In particular, I will provide evidence that the latter equations capture the building blocks or ‘letters’ of the integrals, when recast as a polynomial of their variables known as the principal <math><mi>𝐴</mi></math>‐determinant. <a href='2024-01-31-Papathanasiou.pdf'>(slides)</a>"
 
 [d15]
 date = 2024-01-24T15:00:00
