@@ -25,7 +25,7 @@ institution = "University of Surrey"
 date = 2024-09-25T14:00:00
 location = "B404"
 title = "Homotopy Algebra Perspective on Quantum Field Theory"
-abstract = "I will review recent progress on understanding perturbative quantum field theory within the realm of homotopy algebras."
+abstract = "I will review recent progress on understanding perturbative quantum field theory within the realm of homotopy algebras. <a href='2024-09-25-Wolf.pdf'>(slides)</a>"
 
 [a4]
 name = "<span lang='sk'>Martina Bártová</span>"
