@@ -88,6 +88,12 @@ institution = "<span lang='ga'>Institiúid Ard‐Léinn Bhaile Átha Cliath</spa
 date = 2025-01-15T15:00:00
 location = "B404"
 
+[a12]
+name = "<span lang='fa-Latn'>Mehran Jalali Farahani <span lang='fa'>مهران جلالی فراهاني</span>"
+institution = "Oilthigh Heriot‐Watt, Maxwell Institute for Mathematical Sciences"
+date = 2024-10-16T15:00:00
+location = "B404"
+
 [a0]
 name = "<span lang='nl'>Joost Nuiten</span>"
 institution = "<span lang='fr'>Université Toulouse Ⅲ Paul Sabatier</span>"
