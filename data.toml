@@ -89,11 +89,17 @@ date = 2025-01-15T15:00:00
 location = "B404"
 
 [a12]
-name = "<span lang='fa-Latn'>Mehran Jalali Farahani <span lang='fa'>مهران جلالی فراهاني</span>"
+name = "<span lang='fa-Latn'>Mehran Jalali Farahani</span> <span lang='fa'>مهران جلالی فراهاني</span>"
 institution = "Oilthigh Heriot‐Watt, Maxwell Institute for Mathematical Sciences"
 date = 2024-10-16T15:00:00
 location = "B404"
 title = "Principal Lie groupoid bundles with connection (and a bit beyond)"
+
+[a13]
+name = "<span lang='ru-Latn'>Fedor Leonidovich Levkovich‐Maslyuk</span> <span lang='ru'>Федор Леонидович Левкович‐Маслюк</span>"
+institution = "City, University of London"
+date = 2025-01-22T15:00:00
+location = "B404"
 
 [a0]
 name = "<span lang='nl'>Joost Nuiten</span>"
@@ -375,7 +381,7 @@ location = "https://meet.google.com/qsr-oqjn-dsj"
 [e16]
 date = 2022-09-07T13:30:00
 name = "<span lang='de'>Christian Sämann</span>"
-institution = "Heriot‐Watt University"
+institution = "Oilthigh Heriot‐Watt"
 title = "<math><mi>𝑇</mi></math>‐duality with categorified principal bundles"
 abstract = "The data appearing in the Buscher rules for <math><mi>𝑇</mi></math>‐duality, the Kalb–Ramond field and the metric, can be unified to a connection on a categorified principal bundle governing all geometric T‐dualities. Interestingly, this picture allows for a direct extension to <math><mi>𝑇</mi></math>‐dualities involving non‐geometric backgrounds. Before explaining all this, I will give a gentle introduction to categorified principal bundles. <a href='2022-09-07-Sämann.pdf'>(slides)</a>"
 
@@ -419,7 +425,7 @@ name = "James Waldron"
 institution = "University of Newcastle"
 date = 2023-03-29T13:30:00
 title = "Skew Hecke Algebras"
-abstract = "Given a finite group <math><mi>𝐺</mi></math>, a subgroup <math><mi>𝐻</mi></math>, and an action of <math><mi>𝐺</mi></math> on an algebra <math><mi>𝐴</mi></math>, we define an associated ‘skew Hecke algebra’. This construction provides a simultaneous generalisation ofHecke algebras of finite groups and of skew group algebras. I will explain someof the basic properties of these algebras, some results about their structure, and the relation to rings of invariants. I will also discuss the representationtheory of these algebras and their homological properties such as global dimension. If there is time I will explainthe relevance of these algebras to the study of quantum reference frames, andpossible analogues of skew Hecke algebras for von Neumann algebras. This is based on work inprogress, joint with Leon Loveridge (University of South‐Eastern Norway) and <span lang='pl'>Jan Głowacki</span> (PAN Centre for Theoretical Physics, Warsaw)."
+abstract = "Given a finite group <math><mi>𝐺</mi></math>, a subgroup <math><mi>𝐻</mi></math>, and an action of <math><mi>𝐺</mi></math> on an algebra <math><mi>𝐴</mi></math>, we define an associated ‘skew Hecke algebra’. This construction provides a simultaneous generalisation of Hecke algebras of finite groups and of skew group algebras. I will explain some of the basic properties of these algebras, some results about their structure, and the relation to rings of invariants. I will also discuss the representation theory of these algebras and their homological properties such as global dimension. If there is time I will explain the relevance of these algebras to the study of quantum reference frames, and possible analogues of skew Hecke algebras for von Neumann algebras. This is based on work inprogress, joint with Leon Loveridge (University of South‐Eastern Norway) and <span lang='pl'>Jan Głowacki</span> (PAN Centre for Theoretical Physics, Warsaw)."
 
 [e23]
 name = "Lewis Napper"
