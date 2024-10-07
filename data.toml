@@ -45,7 +45,7 @@ abstract = "Black hole singularities in <abbr title='anti de Sitter space'>AdS</
 
 [a5]
 name = "<span lang='de'>Sonja Klisch</span>"
-institution = "<span lang='gd'>Oilthigh Dhùn Èideann</span>"
+institution = "University of Edinburgh / <span lang='gd'>Oilthigh Dhùn Èideann</span>"
 date = 2024-10-09T15:00:00
 location = "B404"
 title = "A double copy from twistor space"
@@ -84,13 +84,13 @@ location = "B404"
 
 [a11]
 name = "<span lang='it'>Erica Bertolini</span>"
-institution = "<span lang='ga'>Institiúid Ard‐Léinn Bhaile Átha Cliath</span>"
+institution = "Dublin Institute for Advanced Studies / <span lang='ga'>Institiúid Ard‐Léinn Bhaile Átha Cliath</span>"
 date = 2025-01-15T15:00:00
 location = "B404"
 
 [a12]
 name = "<span lang='fa-Latn'>Mehran Jalali Farahani</span> <span lang='fa'>مهران جلالی فراهاني</span>"
-institution = "Oilthigh Heriot‐Watt, Maxwell Institute for Mathematical Sciences"
+institution = "Heriot‐Watt University / <span lang='gd'>Oilthigh Heriot‐Watt</span>, Maxwell Institute for Mathematical Sciences"
 date = 2024-10-16T15:00:00
 location = "B404"
 title = "Principal Lie groupoid bundles with connection (and a bit beyond)"
@@ -183,7 +183,7 @@ abstract = "I will introduce a novel curvature flow, the Heterotic‐Ricci flow,
 date = 2024-03-20T15:00:00
 location = "D118"
 name = "Donal O’Connell"
-institution = "<span lang='gd'>Oilthigh Dhùn Èideann</span>"
+institution = "University of Edinburgh / <span lang='gd'>Oilthigh Dhùn Èideann</span>"
 title = "Amplitudes and waveforms"
 abstract = "Waveforms are the most important precision observables in modern studies of general relativity. I will discuss how waveforms in gravitational scattering are closely very related to scattering amplitudes. The computation of next‐to‐leading order waveforms has revealed a number of interesting aspects of this connection, including generalisations of amplitudes, <abbr title='Bondi–Metzner–Sachs'>BMS</abbr> dependence of the waveform, and the importance of a new class of functions involving iterated integrals of Bessel functions."
 
@@ -388,7 +388,7 @@ location = "https://meet.google.com/qsr-oqjn-dsj"
 [e16]
 date = 2022-09-07T13:30:00
 name = "<span lang='de'>Christian Sämann</span>"
-institution = "Oilthigh Heriot‐Watt"
+institution = "Heriot‐Watt University / <span lang='gd'>Oilthigh Heriot‐Watt</span>"
 title = "<math><mi>𝑇</mi></math>‐duality with categorified principal bundles"
 abstract = "The data appearing in the Buscher rules for <math><mi>𝑇</mi></math>‐duality, the Kalb–Ramond field and the metric, can be unified to a connection on a categorified principal bundle governing all geometric T‐dualities. Interestingly, this picture allows for a direct extension to <math><mi>𝑇</mi></math>‐dualities involving non‐geometric backgrounds. Before explaining all this, I will give a gentle introduction to categorified principal bundles. <a href='2022-09-07-Sämann.pdf'>(slides)</a>"
 
