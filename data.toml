@@ -29,7 +29,7 @@ abstract = "I will review recent progress on understanding perturbative quantum 
 
 [a4]
 name = "<span lang='cs'>Martina Bártová</span>"
-institution = "<span lang='ga'>Coláiste na Tríonóide, Baile Átha Cliath</span>"
+institution = "Trinity College Dublin / <span lang='ga'>Coláiste na Tríonóide, Baile Átha Cliath</span>"
 date = 2024-10-02T14:00:00
 location = "B404"
 title = "Introduction to Quantum Integrability"
@@ -37,7 +37,7 @@ abstract = "This talk provides an accessible introduction to quantum integrabili
 
 [a4b]
 name = "<span lang='sk'>Samuel Valach</span>"
-institution = "<span lang='ga'>Coláiste na Tríonóide, Baile Átha Cliath</span>"
+institution = "Trinity College Dublin / <span lang='ga'>Coláiste na Tríonóide, Baile Átha Cliath</span>"
 date = 2024-10-02T15:00:00
 location = "B404"
 title = "Thermal Correlators, Holography and Black Hole Singularity"
