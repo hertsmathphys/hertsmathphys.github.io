@@ -108,6 +108,7 @@ institution = "University of Hertfordshire"
 date = 2024-10-23T15:00:00
 location = "B404"
 title = "Digraphs with caterpillar duality"
+abstract = "We search for the class of digraphs whose obstruction sets, in the digraph homomorphism problem, consist of caterpillars. The conjecture being that this class of digraphs should be the same as the class of digraphs that are preserved by majority and set function polymorphisms. This is work in progress."
 
 [a0]
 name = "<span lang='nl'>Joost Nuiten</span>"
