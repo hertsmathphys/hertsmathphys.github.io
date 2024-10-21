@@ -3,8 +3,8 @@ name = "Nivedita <span lang='hi-Deva'>निवेदिता</span> / <span la
 institution = "University of Oxford"
 date = 2024-11-06T15:00:00
 location = "B404"
-title = "Towards Models for 2‐Hilb and 3‐Hilb as targets for functorial field theories"
-abstract = "We introduce <math><mi>W</mi><mo>*</mo><mo>-Cat</mo></math>, the bicategory of <math><mi>W</mi><mo>*</mo></math>‐categories, functors and natural transformations and discuss its equivalence with the Morita category of von Neumann algebras (<math><mo>vN2</mo></math>). We highlight some analogies of W*-categories with Hilbert spaces. We introduce categorified von Neumann algebras, building up to a definition of a Bicommutant Category and discuss a string calculus for on a cylinder. We finally sketch some examples of bicommutant categories associated to chiral <abbr title='conformal field theories'>CFTs</abbr>."
+title = "Towards Models for <math><mo>2‐Hilb</mo></math> and <math><mo>3‐Hilb</mo></math> as targets for functorial field theories"
+abstract = "We introduce <math><mi>W</mi><mo>*</mo><mo>-Cat</mo></math>, the bicategory of <math><mi>W</mi><mo>*</mo></math>‐categories, functors and natural transformations and discuss its equivalence with the Morita category of von Neumann algebras (<math><mo>vN2</mo></math>). We highlight some analogies of <math><mi>W</mi><mo>*</mo></math>‐categories with Hilbert spaces. We introduce categorified von Neumann algebras, building up to a definition of a Bicommutant Category and discuss a string calculus on a cylinder. We finally sketch some examples of bicommutant categories associated to chiral <abbr title='conformal field theories'>CFTs</abbr>."
 [a2]
 name = "<span lang='zh-Latn-pinyin'>Yang‐Hui He</span> <span lang='zh-Hans'>何杨辉</span>"
 institution = "University of Oxford; City, University of London"
