@@ -59,6 +59,9 @@ name = "<span lang='es'>Mario García‐Fernández</span>"
 institution = "<span lang='es'>Instituto de Ciencias Matemáticas, Universidad Autónoma de Madrid</span>"
 date = 2024-10-30T15:00:00
 location = "B404"
+title = "Pluriclosed flow and the Hull–Strominger system"
+abstract = "I will overview joint work with Raúl González Molina and Jeffrey Streets in <a href='https://arxiv.org/abs/2408.11674'>arXiv:2408.11674</a> about a natural extension of pluriclosed flow, where the evolution of the hermitian metric on the complex manifold X is further coupled to a hermitian metric on a holomorphic vector bundle <math><mi>V</mi></math> over <math><mi>X</mi></math>. Flow lines are special solutions of the generalized Ricci flow in generalized geometry, and hence of the renormalization group flow in the heterotic sigma model. Using this, we interpret the flow as a version of Donaldson’s Hermitian–Yang–Mills flow in the realm of higher gauge theory. We will comment on the higher regularity structure of the flow and on global existence and convergence results on special backgrounds. If time allows, we will also discuss the relationship to the Hull–Strominger system and, conjecturally, to the geometrization of Reid’s fantasy."
+
 
 [a7]
 name = "<span lang='nl'>Pieter Bomans</span>"
