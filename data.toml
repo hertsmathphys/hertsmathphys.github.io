@@ -192,7 +192,7 @@ location = "D118"
 name = "Donal O’Connell"
 institution = "University of Edinburgh / <span lang='gd'>Oilthigh Dhùn Èideann</span>"
 title = "Amplitudes and waveforms"
-abstract = "Waveforms are the most important precision observables in modern studies of general relativity. I will discuss how waveforms in gravitational scattering are closely very related to scattering amplitudes. The computation of next‐to‐leading order waveforms has revealed a number of interesting aspects of this connection, including generalisations of amplitudes, <abbr title='Bondi–Metzner–Sachs'>BMS</abbr> dependence of the waveform, and the importance of a new class of functions involving iterated integrals of Bessel functions."
+abstract = "Waveforms are the most important precision observables in modern studies of general relativity. I will discuss how waveforms in gravitational scattering are closely very related to scattering amplitudes. The computation of next‐to‐leading order waveforms has revealed a number of interesting aspects of this connection, including generalisations of amplitudes, <abbr title='Bondi–Metzner–Sachs'>BMS</abbr> dependence of the waveform, and the importance of a new class of functions involving iterated integrals of Bessel functions. <a href='O’Connell-2024-03-20.pdf'>(slides)</a>"
 
 [d8]
 date = 2024-03-13T15:00:00
