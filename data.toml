@@ -10,7 +10,7 @@ name = "<span lang='zh-Latn-pinyin'>Yang‐Hui He</span> <span lang='zh-Hans'>�
 institution = "University of Oxford; City, University of London"
 date = 2024-11-13T15:00:00
 title = "The <abbr title='artificial intelligence'>AI</abbr> mathematician: from physics, to geometry, to number theory"
-abstract = "We summarize how <abbr title='artificial intelligence'>AI</abbr> can approach mathematics in three ways: theorem‐proving, conjecture formulation, and language processing. Inspired by initial experiments in geometry and string theory, we present a number of recent experiments on how various standard machine‐learning algorithms can help with pattern detection across disciplines ranging from algebraic geometry to representation theory, to combinatorics, and to number theory. At the heart of the programme is the question: how does <abbr title='artificial intelligence'>AI</abbr> help with mathematical discovery?"
+abstract = "We summarize how <abbr title='artificial intelligence'>AI</abbr> can approach mathematics in three ways: theorem‐proving, conjecture formulation, and language processing. Inspired by initial experiments in geometry and string theory, we present a number of recent experiments on how various standard machine‐learning algorithms can help with pattern detection across disciplines ranging from algebraic geometry to representation theory, to combinatorics, and to number theory. At the heart of the programme is the question: how does <abbr title='artificial intelligence'>AI</abbr> help with mathematical discovery? <a href='He-2024-11-13.pdf'>(slides)</a>"
 
 [a3]
 name = "Kymani Tieral Keden Armstrong‐Williams"
