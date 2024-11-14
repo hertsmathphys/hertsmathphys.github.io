@@ -68,6 +68,9 @@ name = "<span lang='nl'>Pieter Bomans</span>"
 institution = "University of Oxford"
 date = 2024-11-20T15:00:00
 location = "B404"
+title = "Unravelling the holomorphic twist"
+abstract = "In this talk I will introduce the holomorphic twist for generic 4d <math><mi>𝒩</mi><mo>=</mo><mn>1</mn></math> <abbr title='supersymmetric quantum field theories'>SQFTs</abbr> and discuss the infinite dimensional symmetry enhancement. Consequentially, holomorphically twisted theories come equipped with a variety of mathematical structures. After discussing the relevant structures, I will explain how to relate them to data in the physical theory. In particular. I will discuss how the central charges can be obtained from the ternary bracket. Time permitting, I will finish by demonstrating how the associated <abbr title='vertex operator algebra'>VOA</abbr> can be obtained from the holomorphic twist in the presence of extended supersymmetry."
+
 
 [a8]
 name = "<span lang='zh-Latn-pinyin'>Jingxiang Wu</span>"
