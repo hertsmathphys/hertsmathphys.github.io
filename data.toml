@@ -77,6 +77,8 @@ name = "<span lang='zh-Latn-pinyin'>Jingxiang Wu</span>"
 institution = "University of Oxford"
 date = 2024-11-27T15:00:00
 location = "B404"
+title = "Higher operations in quantum field theories"
+abstract = "I will give an overview of higher operations in quantum field theories which control their deformations, (generalized) OPEs, and anomalies. Particular attention is paid to holomorphic-topological theories where we can systematically describe and regularize the Feynman diagrams which compute these higher operations in free and perturbative scenarios, including examples with defects."
 
 [a9]
 name = "<span lang='nl'>Niklas Garner</span>"
