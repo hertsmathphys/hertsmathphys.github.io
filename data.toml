@@ -122,6 +122,12 @@ location = "B404"
 title = "Digraphs with caterpillar duality"
 abstract = "We search for the class of digraphs whose obstruction sets, in the digraph homomorphism problem, consist of caterpillars. The conjecture being that this class of digraphs should be the same as the class of digraphs that are preserved by majority and set function polymorphisms. This is work in progress. <a href='https://caterpillardualitysemigroupseminar.netlify.app/'>(slides)</a>"
 
+[a15]
+name = "Siani Smith"
+institution = "Loughborough University"
+date = 2024-02-05T15:00:00
+location = "B404"
+
 [a0]
 name = "<span lang='nl'>Joost Nuiten</span>"
 institution = "<span lang='fr'>Université Toulouse Ⅲ Paul Sabatier</span>"
