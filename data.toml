@@ -128,6 +128,12 @@ institution = "Loughborough University"
 date = 2025-02-05T15:00:00
 location = "B404"
 
+[a16]
+name = "Lewis Topley"
+institution = "University of Bath"
+date = 2025-02-19T15:00:00
+location = "B404"
+
 [a0]
 name = "<span lang='nl'>Joost Nuiten</span>"
 institution = "<span lang='fr'>Université Toulouse Ⅲ Paul Sabatier</span>"
