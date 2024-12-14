@@ -134,6 +134,12 @@ institution = "University of Bath"
 date = 2025-02-19T15:00:00
 location = "B404"
 
+[a17]
+name = "Victor Carmona"
+institution = "<span lang='de'>Max‐Planck‐Institut für Mathematik in den Naturwissenschaften Leipzig</span>"
+date = 2025-02-12T15:00:00
+location = "B404"
+
 [a0]
 name = "<span lang='nl'>Joost Nuiten</span>"
 institution = "<span lang='fr'>Université Toulouse Ⅲ Paul Sabatier</span>"
