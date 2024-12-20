@@ -146,6 +146,11 @@ institution = "<span lang='de'>Max‐Planck‐Institut für Mathematik in den Na
 date = 2025-02-12T15:00:00
 location = "B404"
 
+[a19]
+name = "Rachel Shaw"
+institution = "University of Southampton"
+date = 2024-02-26T15:00:00
+
 [a0]
 name = "<span lang='nl'>Joost Nuiten</span>"
 institution = "<span lang='fr'>Université Toulouse Ⅲ Paul Sabatier</span>"
