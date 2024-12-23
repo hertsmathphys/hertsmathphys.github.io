@@ -151,6 +151,12 @@ name = "Rachel Shaw"
 institution = "University of Southampton"
 date = 2025-02-26T15:00:00
 
+[a20]
+name = "<span lang='it'>Tancredi Schettini Gherardini</span>"
+institution = "Queen Mary University of London"
+date = 2025-01-22T15:00:00
+location = "B404"
+
 [a0]
 name = "<span lang='nl'>Joost Nuiten</span>"
 institution = "<span lang='fr'>Université Toulouse Ⅲ Paul Sabatier</span>"
