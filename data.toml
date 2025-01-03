@@ -92,13 +92,13 @@ abstract = "The Higgs and Coulomb branches of vacua are central objects in the m
 name = "<span lang='hy-Latn'>Karapet Mkrtchyan</span> <span lang='hy'>Կարապետ Մկրտչյան</span>"
 institution = "Imperial College London"
 date = 2025-01-08T15:00:00
-location = "B404"
+location = "A161"
 
 [a11]
 name = "<span lang='it'>Erica Bertolini</span>"
 institution = "Dublin Institute for Advanced Studies / <span lang='ga'>Institiúid Ard‐Léinn Bhaile Átha Cliath</span>"
 date = 2025-01-15T15:00:00
-location = "B404"
+location = "A166"
 
 [a12]
 name = "<span lang='fa-Latn'>Mehran Jalali Farahani</span> <span lang='fa'>مهران جلالی فراهانی</span>"
@@ -112,7 +112,7 @@ abstract = "In this talk, I present our recent work towards general theory of hi
 name = "<span lang='ru-Latn'>Fedor Leonidovich Levkovich‐Maslyuk</span> <span lang='ru'>Фёдор Леонидович Левкович‐Маслюк</span>"
 institution = "City, University of London"
 date = 2025-01-29T15:00:00
-location = "B404"
+location = "C152"
 
 [a14]
 name = "<span lang='pt'>Catarina Carvalho</span>"
@@ -126,36 +126,37 @@ abstract = "We search for the class of digraphs whose obstruction sets, in the d
 name = "Siani Smith"
 institution = "Loughborough University"
 date = 2025-02-05T15:00:00
-location = "B404"
+location = "B400"
 
 [a16]
 name = "Lewis Topley"
 institution = "University of Bath"
 date = 2025-02-19T15:00:00
-location = "B404"
+location = "B400"
 
 [a18]
 name = "<span lang='it'>Marco Billò</span>"
 institution = "<span lang='it'>Università degli Studi di Torino</span>"
 date = 2025-03-19T15:00:00
-location = "B404"
+location = "C152"
 
 [a17]
 name = "Victor Carmona"
 institution = "<span lang='de'>Max‐Planck‐Institut für Mathematik in den Naturwissenschaften Leipzig</span>"
 date = 2025-02-12T15:00:00
-location = "B404"
+location = "B400"
 
 [a19]
 name = "Rachel Shaw"
 institution = "University of Southampton"
 date = 2025-02-26T15:00:00
+location = "C152"
 
 [a20]
 name = "<span lang='it'>Tancredi Schettini Gherardini</span>"
 institution = "Queen Mary University of London"
 date = 2025-01-22T15:00:00
-location = "B404"
+location = "A161"
 title = "Exotic spheres from different angles"
 abstract = " In this talk, I will discuss different mathematical properties of exotic (<math><mn>7</mn></math>‐)spheres and their implications in physics. Namely, I will cover some known facts as well as recent results regarding:<ul> <li>The geometry of Milnor’s bundles and a number of analytic results obtained in <a href='https://arxiv.org/abs/2309.01703'>arXiv:2309.01703</a> (<abbr title='Journal of High Energy Physics'>J. High Energ. Phys.</abbr> 2023, 100) and <a href='https://arxiv.org/abs/2410.01909'>arXiv:2410.01909</a>; I will discuss the relevance of these results in the context of supergravity. <li>The differentiable structure of exotic spheres together with its conjectured implications in general relativity and shock waves (work in progress). <li>A numerical technique for finding and approximating Einstein metrics, to be applied eventually to the case of exotic spheres, which is based on state‐of‐the‐art machine learning tools (work in progress with Edward Hirst and Alex Stapleton). The possible uses of this numerical scheme in (super)gravity theories are also discussed.</li></ul>"
 
