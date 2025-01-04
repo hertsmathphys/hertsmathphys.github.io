@@ -29,7 +29,7 @@ with open("calendar.ics", "w") as c:
     print("END:VCALENDAR\r\n", file=c, end='')
 
 
-current_academic_year_start = datetime.datetime(datetime.datetime.now().year, month=7, day=1)
+current_academic_year_start = datetime.datetime((n:=datetime.datetime.now()).year - (n.month < 7), month=7, day=1)
 
 current_year_entries = ""
 with open("data.toml", "rb") as f:

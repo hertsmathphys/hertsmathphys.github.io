@@ -1,5 +1,5 @@
 [a1]
-name = "Nivedita <span lang='hi-Deva'>निवेदिता</span> / <span lang='pa-Guru'>ਨਿਵੇਦਿਤਾ</span>"
+name = "Nivedita <span lang='hi'>निवेदिता</span> / <span lang='pa'>ਨਿਵੇਦਿਤਾ</span>"
 institution = "University of Oxford"
 date = 2024-11-06T15:00:00
 location = "B404"
@@ -94,7 +94,7 @@ institution = "Imperial College London"
 date = 2025-01-08T15:00:00
 location = "A161"
 title = "Democratic approach to <math><mi>𝑝</mi></math>‐form dynamics"
-abstract = "We will summarize a recently developed approach to <math><mi>𝑝</mi></math>‐form dynamics, which allows for a democratic (treating electric and magnetic degrees of freedom on an equal footing) Lagrangian formulation for electrodynamics and generalization to (chiral) <math><mi>𝑝</mi></math>‐forms, including arbitrary abelian interactions. In particular, a Lagrangian for arbitrary duality‐symmetric non‐linear electrodynamics in <math><mn>3</mn><mo>+</mo><mn>1</mn></math> dimensions is derived where both <math><mi mathvariant='normal'>SO</mi><mo>(<mn>2</mn><mo>)</mo></math> duality and Lorentz covariance are manifest. Democratic formulation for (type Ⅱ) <abbr title='supergravity'>SUGRA</abbr> in 10d and 11d is also achieved. We also present a simple derivation of this formulation from a topological theory in one higher dimension. Time permitting, more discussion on an ongoing work on generalizations of these results will be provided."
+abstract = "We will summarize a recently developed approach to <math><mi>𝑝</mi></math>‐form dynamics, which allows for a democratic (treating electric and magnetic degrees of freedom on an equal footing) Lagrangian formulation for electrodynamics and generalization to (chiral) <math><mi>𝑝</mi></math>‐forms, including arbitrary abelian interactions. In particular, a Lagrangian for arbitrary duality‐symmetric non‐linear electrodynamics in <math><mn>3</mn><mo>+</mo><mn>1</mn></math> dimensions is derived where both <math><mi mathvariant='normal'>SO</mi><mo>(</mo><mn>2</mn><mo>)</mo></math> duality and Lorentz covariance are manifest. Democratic formulation for (type Ⅱ) <abbr title='supergravity'>SUGRA</abbr> in 10d and 11d is also achieved. We also present a simple derivation of this formulation from a topological theory in one higher dimension. Time permitting, more discussion on an ongoing work on generalizations of these results will be provided."
 
 [a11]
 name = "<span lang='it'>Erica Bertolini</span>"
