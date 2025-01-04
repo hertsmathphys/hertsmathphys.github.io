@@ -34,7 +34,7 @@ current_academic_year_start = datetime.datetime((n:=datetime.datetime.now()).yea
 current_year_entries = ""
 with open("data.toml", "rb") as f:
     for entry in filter( lambda e: e['date'] >= current_academic_year_start, sorted(tomllib.load(f).values(), key=lambda e: e['date'], reverse=False)):
-        current_year_entries += f"<details><summary><time datetime='{entry['date']}'>{entry['date'].strftime("%-d %B, %H:%M")}</time>: {entry['name']} ({entry['institution']}), {entry.get('title','TBA')}</summary>{entry.get('abstract','TBA')}</details>"
+        current_year_entries += f"<details><summary><time datetime='{entry['date']}'>{entry['date'].strftime("%-d %B, %H:%M")}</time>, {entry['location']}: {entry['name']} ({entry['institution']}), {entry.get('title','TBA')}</summary>{entry.get('abstract','TBA')}</details>"
 
 past_year_entries = ""
 with open("data.toml", "rb") as f:

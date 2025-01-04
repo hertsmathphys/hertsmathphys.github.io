@@ -9,6 +9,7 @@ abstract = "We introduce <math><mi>W</mi><mo>*</mo><mo>-Cat</mo></math>, the bic
 name = "<span lang='zh-Latn-pinyin'>Yang‐Hui He</span> <span lang='zh-Hant'>何楊輝</span>"
 institution = "University of Oxford; City, University of London"
 date = 2024-11-13T15:00:00
+location = "B404"
 title = "The <abbr title='artificial intelligence'>AI</abbr> mathematician: from physics, to geometry, to number theory"
 abstract = "We summarize how <abbr title='artificial intelligence'>AI</abbr> can approach mathematics in three ways: theorem‐proving, conjecture formulation, and language processing. Inspired by initial experiments in geometry and string theory, we present a number of recent experiments on how various standard machine‐learning algorithms can help with pattern detection across disciplines ranging from algebraic geometry to representation theory, to combinatorics, and to number theory. At the heart of the programme is the question: how does <abbr title='artificial intelligence'>AI</abbr> help with mathematical discovery? <a href='2024-11-13-He.pdf'>(slides)</a>"
 
@@ -16,7 +17,7 @@ abstract = "We summarize how <abbr title='artificial intelligence'>AI</abbr> can
 name = "Kymani Tieral Keden Armstrong‐Williams"
 institution = "Queen Mary University of London"
 date = 2024-09-25T15:00:00
-lcoation = "B404"
+location = "B404"
 title = "What can abelian gauge theories teach us about kinematic algebras?"
 abstract = "The last twenty years or so have given rise to an interesting relationship (known as the double copy) at the level of scattering amplitudes between non-abelian gauge theories (such as Yang–Mills theory) and quantum gravity theories. After half a decade, this duality was seen to be present in classical physics for exact solutions in classical Yang–Mills theory and general relativity. Arising from the Double Copy, the phenomenon of <abbr title='Bern–Carrasco–Johansson'>BCJ</abbr> duality implies that gauge theories are more complex than previously thought. They are now known to possess an abstract kinematic algebra, mirroring the non-abelian Lie algebra underlying the colour information. Although the nature of the kinematic algebra is known in certain cases, a full understanding is missing for arbitrary non‐abelian gauge theories, such that one typically works outwards from well‐known examples. In this talk, we explore using simpler abelian gauge theories to clarify our understanding of kinematic algebras. We first describe how classes of abelian gauge fields are associated with well‐defined subalgebras of the diffeomorphism algebra. By considering certain special subalgebras, we show that one may construct interacting theories, whose kinematic algebras are inherited from those already appearing in a related abelian theory. This talk will be based on work done in <a href='https://arxiv.org/abs/2401.10750'>arXiv:2401.10750</a>. <a href='2024-09-25-Armstrong‐Williams.pdf'>(slides)</a>"
 
