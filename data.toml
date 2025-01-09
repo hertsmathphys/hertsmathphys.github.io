@@ -132,6 +132,8 @@ name = "Siani Smith"
 institution = "Loughborough University"
 date = 2025-02-05T15:00:00
 location = "B400"
+title = "A complexity framework for forbidden subgraphs"
+abstract = "A common direction in algorithmic graph theory is to investigate the complexity of hard problems restricted to specific classes of graphs. This raises the question of whether large sets of such problems can be explained by common problem conditions. For a set of graphs <math><mi>ℋ</mi></math>, the class of <math><mi>ℋ</mi></math>‐subgraph‐free graphs is the class of all graphs not containing any graph from <math><mi>ℋ</mi></math> as a subgraph. We present a framework to classify the complexity of certain problems on <math><mi>ℋ</mi></math>‐subgraph‐free graph classes. In particular, we give a meta‐theorem classifying the complexity of problems satisfying three conditions."
 
 [a16]
 name = "Lewis Topley"
