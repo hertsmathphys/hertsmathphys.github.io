@@ -280,7 +280,7 @@ abstract = "Taking extrema of the six‐dimensional heterotic superpotential giv
 [d11]
 date = 2023-11-15T13:30:00
 location = "E351"
-name = "<span lang='de'>Julian Mateo Kupka</span>"
+name = "<span lang='de'>Julian Matteo Kupka</span>"
 institution = "University of Hertfordshire"
 title = "Non‐relativistic geometry and why you might care"
 abstract = "This talk explores non‐relativistic geometry, a mathematical framework allowing us to formulate Newtonian physics analogously to General Relativity, <abbr title='id est'>i.e.</abbr> geometrizing it. We will build the geometry and theory from the ground up and explain how exactly it encodes Newtonian gravity in a diffeomorphism invariant fashion. We will then connect it to null reductions, which allows us to relate non‐relativistic to relativistic physics with a special null direction, highlighting why you might encounter it in your applications. <a href='2023-11-15-Kupka.pdf'>(slides)</a>"
