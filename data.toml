@@ -158,6 +158,9 @@ name = "Rachel Shaw"
 institution = "University of Southampton"
 date = 2025-02-26T15:00:00
 location = "C152"
+title = "Power and Mobility Optimisation in a Multi‐Agent Game"
+abstract = "In the dynamic setting of competitive multi-agent systems, strategic decision‐making and resource allocation are key to achieving optimal outcomes. This research explores the optimisation of power and mobility in adversarial multi‐agent games, modelled as a Nash zero‐sum framework. By utilising advanced game‐theoretic methods, we analyse the interactions between the agents of two teams of autonomous vehicles, with decision variables encompassing communication, interference, and movement. The model incorporates power, movement, and minimum distance constraints, employing fixed‐point formulations and block‐descent algorithms to determine equilibrium strategies. Additionally, we introduce the concept of team preferences and discuss ongoing work on individual agent preference."
+
 
 [a20]
 name = "<span lang='it'>Tancredi Schettini Gherardini</span>"
