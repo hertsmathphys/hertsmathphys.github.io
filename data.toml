@@ -101,7 +101,7 @@ abstract = "We will summarize a recently developed approach to <math><mi>𝑝</m
 name = "<span lang='it'>Erica Bertolini</span>"
 institution = "Dublin Institute for Advanced Studies / <span lang='ga'>Institiúid Ard‐Léinn Bhaile Átha Cliath</span>"
 date = 2025-01-15T15:00:00
-location = "A166"
+location = "B400"
 title = "Fractons: a new covariant gauge field theory"
 abstract = "The concept of a fracton quasiparticle has recently emerged in many areas of physics, from mathematical physics to condensed matter and quantum information, unified by the general feature of restricted mobility.<p>In this seminar I will introduce the basic notion of fracton quasiparticles, focussing on the gauge field theory construction developed in Pretko's original papers [1604.05329,1606.08857], mentioning the physical applications in elasticity theory and connections with gravitational models. In the second part of the seminar I will then step into the building of a covariant model for fractons in which a strong relation with Linearized Gravity naturally emerges. The fracton phenomenology is reproduced from first principles of <abbr title='quantum field theory'>QFT</abbr> through a symmetry‐based approach, opening the doors to a new class of covariant gauge field theories. This formulation can be generalized to any spacetime dimension, allowing for instance the study of lower‐dimentional fracton models and showing relations with some condensed matter systems."
 
@@ -166,7 +166,7 @@ abstract = "In the dynamic setting of competitive multi-agent systems, strategic
 name = "<span lang='it'>Tancredi Schettini Gherardini</span>"
 institution = "Queen Mary University of London"
 date = 2025-01-22T15:00:00
-location = "A161"
+location = "B404"
 title = "Exotic spheres from different angles"
 abstract = " In this talk, I will discuss different mathematical properties of exotic (<math><mn>7</mn></math>‐)spheres and their implications in physics. Namely, I will cover some known facts as well as recent results regarding:<ul> <li>The geometry of Milnor’s bundles and a number of analytic results obtained in <a href='https://arxiv.org/abs/2309.01703'>arXiv:2309.01703</a> (<abbr title='Journal of High Energy Physics'>J. High Energ. Phys.</abbr> 2023, 100) and <a href='https://arxiv.org/abs/2410.01909'>arXiv:2410.01909</a>; I will discuss the relevance of these results in the context of supergravity. <li>The differentiable structure of exotic spheres together with its conjectured implications in general relativity and shock waves (work in progress). <li>A numerical technique for finding and approximating Einstein metrics, to be applied eventually to the case of exotic spheres, which is based on state‐of‐the‐art machine learning tools (work in progress with Edward Hirst and Alex Stapleton). The possible uses of this numerical scheme in (super)gravity theories are also discussed.</li></ul>"
 

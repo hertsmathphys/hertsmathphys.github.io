@@ -9,7 +9,7 @@ DTEND;VALUE=DATE:20241106T160000
 SUMMARY:Nivedita निवेदिता / ਨਿਵੇਦਿਤਾ (University of Oxford), Towards Models for 2‐Hilb and 3‐Hilb as targets for functorial field theories
 DESCRIPTION:We introduce W*-Cat, the bicategory of W*‐categories, functors and natural transformations and discuss its equivalence with the Morita category of von Neumann algebras (vN2). We highlight some analogies of W*‐categories with Hilbert spaces. We introduce categorified von Neumann algebras, building up to a definition of a Bicommutant Category and discuss a string calculus on a cylinder. We finally sketch some examples of bicommutant categories associated to chiral CFTs. (slides)
 UID:Niveditaनिवेदिता/ਨਿਵੇਦਿਤਾ20241106@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -20,7 +20,7 @@ DTEND;VALUE=DATE:20241113T160000
 SUMMARY:Yang‐Hui He 何楊輝 (University of Oxford; City, University of London), The AI mathematician: from physics, to geometry, to number theory
 DESCRIPTION:We summarize how AI can approach mathematics in three ways: theorem‐proving, conjecture formulation, and language processing. Inspired by initial experiments in geometry and string theory, we present a number of recent experiments on how various standard machine‐learning algorithms can help with pattern detection across disciplines ranging from algebraic geometry to representation theory, to combinatorics, and to number theory. At the heart of the programme is the question: how does AI help with mathematical discovery? (slides)
 UID:Yang‐HuiHe何楊輝20241113@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -31,7 +31,7 @@ DTEND;VALUE=DATE:20240925T160000
 SUMMARY:Kymani Tieral Keden Armstrong‐Williams (Queen Mary University of London), What can abelian gauge theories teach us about kinematic algebras?
 DESCRIPTION:The last twenty years or so have given rise to an interesting relationship (known as the double copy) at the level of scattering amplitudes between non-abelian gauge theories (such as Yang–Mills theory) and quantum gravity theories. After half a decade, this duality was seen to be present in classical physics for exact solutions in classical Yang–Mills theory and general relativity. Arising from the Double Copy, the phenomenon of BCJ duality implies that gauge theories are more complex than previously thought. They are now known to possess an abstract kinematic algebra, mirroring the non-abelian Lie algebra underlying the colour information. Although the nature of the kinematic algebra is known in certain cases, a full understanding is missing for arbitrary non‐abelian gauge theories, such that one typically works outwards from well‐known examples. In this talk, we explore using simpler abelian gauge theories to clarify our understanding of kinematic algebras. We first describe how classes of abelian gauge fields are associated with well‐defined subalgebras of the diffeomorphism algebra. By considering certain special subalgebras, we show that one may construct interacting theories, whose kinematic algebras are inherited from those already appearing in a related abelian theory. This talk will be based on work done in arXiv:2401.10750. (slides)
 UID:KymaniTieralKedenArmstrong‐Williams20240925@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -42,7 +42,7 @@ DTEND;VALUE=DATE:20240925T150000
 SUMMARY:Martin Wolf (University of Surrey), Homotopy Algebra Perspective on Quantum Field Theory
 DESCRIPTION:I will review recent progress on understanding perturbative quantum field theory within the realm of homotopy algebras. (slides)
 UID:MartinWolf20240925@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -53,7 +53,7 @@ DTEND;VALUE=DATE:20241002T150000
 SUMMARY:Martina Bártová (Trinity College Dublin / Coláiste na Tríonóide, Baile Átha Cliath), Introduction to Quantum Integrability
 DESCRIPTION:This talk provides an accessible introduction to quantum integrability, exploring the mathematical structure of integrable quantum systems. We will discuss key concepts such as conserved quantities, exact solvability, and the role of symmetries.
 UID:MartinaBártová20241002@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -64,7 +64,7 @@ DTEND;VALUE=DATE:20241002T160000
 SUMMARY:Samuel Valach (Trinity College Dublin / Coláiste na Tríonóide, Baile Átha Cliath), Thermal Correlators, Holography and Black Hole Singularity
 DESCRIPTION:Black hole singularities in AdS are reflected in the so‐called bouncing geodesics. In the dual CFT this leads to the bouncing singularities in the thermal correlators. I will explain both sides of this problem and show how these singularities arise from the analytic properties of the stress tensor and its composites in the boundary CFT.
 UID:SamuelValach20241002@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -75,7 +75,7 @@ DTEND;VALUE=DATE:20241009T160000
 SUMMARY:Sonja Klisch (University of Edinburgh / Oilthigh Dhùn Èideann), A double copy from twistor space
 DESCRIPTION:In this talk I will present a new double copy relation at tree level between gauge theory and gravity amplitudes, graded by helicity. Amplitudes in gauge theory and gravity in 4d can be partitioned into sectors according to their external helicity configurations. At tree level there are particularly beautiful expressions for these amplitudes coming from twistor strings known as the RSVW (Roiban–Spradlin–Volovich–Witten) formula for gauge theory, and Cachazo–Skinner formula for gravity. At the same time, the double copy gives an explicit relation between gauge theory and gravity amplitudes via GR=(YM)2. However, the explicit representation of the Cachazo-Skinner formula as a double copy of the RSVW formula has long been unknown. The question answered in this talk is therefore: how do these helicity graded amplitudes manifest the double copy? In the journey there we will discover a new twistorial representation of biadjoint scalars, a way towards the double copy on non‐trivial backgrounds, and the importance of trees. (slides)
 UID:SonjaKlisch20241009@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -86,7 +86,7 @@ DTEND;VALUE=DATE:20241030T160000
 SUMMARY:Mario García‐Fernández (Instituto de Ciencias Matemáticas, Universidad Autónoma de Madrid), Pluriclosed flow and the Hull–Strominger system
 DESCRIPTION:I will overview joint work with Raúl González Molina and Jeffrey Streets in arXiv:2408.11674 about a natural extension of pluriclosed flow, where the evolution of the hermitian metric on the complex manifold X is further coupled to a hermitian metric on a holomorphic vector bundle V over X. Flow lines are special solutions of the generalized Ricci flow in generalized geometry, and hence of the renormalization group flow in the heterotic sigma model. Using this, we interpret the flow as a version of Donaldson’s Hermitian–Yang–Mills flow in the realm of higher gauge theory. We will comment on the higher regularity structure of the flow and on global existence and convergence results on special backgrounds. If time allows, we will also discuss the relationship to the Hull–Strominger system and, conjecturally, to the geometrization of Reid’s fantasy. (slides)
 UID:MarioGarcía‐Fernández20241030@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -97,7 +97,7 @@ DTEND;VALUE=DATE:20241120T160000
 SUMMARY:Pieter Marc Bomans (University of Oxford), Unravelling the holomorphic twist
 DESCRIPTION:In this talk I will introduce the holomorphic twist for generic 4d 𝒩=1 SQFTs and discuss the infinite dimensional symmetry enhancement. Consequentially, holomorphically twisted theories come equipped with a variety of mathematical structures. After discussing the relevant structures, I will explain how to relate them to data in the physical theory. In particular. I will discuss how the central charges can be obtained from the ternary bracket. Time permitting, I will finish by demonstrating how the associated VOA can be obtained from the holomorphic twist in the presence of extended supersymmetry. (slides)
 UID:PieterMarcBomans20241120@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -108,7 +108,7 @@ DTEND;VALUE=DATE:20241127T160000
 SUMMARY:Jingxiang Wu (吴敬祥) (University of Oxford), Higher operations in quantum field theories
 DESCRIPTION:I will give an overview of higher operations in quantum field theories which control their deformations, (generalized) OPEs, and anomalies. Particular attention is paid to holomorphic-topological theories where we can systematically describe and regularize the Feynman diagrams which compute these higher operations in free and perturbative scenarios, including examples with defects.
 UID:JingxiangWu(吴敬祥)20241127@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -119,7 +119,7 @@ DTEND;VALUE=DATE:20241204T160000
 SUMMARY:Niklas Garner (University of Oxford),  Higgs and Coulomb branches from Superconformal Raviolo Vertex Algebras
 DESCRIPTION:The Higgs and Coulomb branches of vacua are central objects in the mathematics of three-dimensional 𝒩=4 supersymmetric quantum field theories and, in particular, three-dimensional mirror symmetry. In this talk, I will describe how these interesting (2‐shifted) Poisson schemes can be extracted by exploiting a natural action of an infinite‐dimensional Lie algebra that is a three‐dimensional analogue of the 𝒩=2 superconformal algebra familiar from two‐dimensional superconformal field theory. This is based off of joint work with S. Raghavendran and B. Williams. (slides)
 UID:NiklasGarner20241204@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -130,7 +130,7 @@ DTEND;VALUE=DATE:20250108T160000
 SUMMARY:Karapet Mkrtchyan Կարապետ Մկրտչյան (Imperial College London), Democratic approach to 𝑝‐form dynamics
 DESCRIPTION:We will summarize a recently developed approach to 𝑝‐form dynamics, which allows for a democratic (treating electric and magnetic degrees of freedom on an equal footing) Lagrangian formulation for electrodynamics and generalization to (chiral) 𝑝‐forms, including arbitrary abelian interactions. In particular, a Lagrangian for arbitrary duality‐symmetric non‐linear electrodynamics in 3+1 dimensions is derived where both SO(2) duality and Lorentz covariance are manifest. Democratic formulation for (type Ⅱ) SUGRA in 10d and 11d is also achieved. We also present a simple derivation of this formulation from a topological theory in one higher dimension. Time permitting, more discussion on an ongoing work on generalizations of these results will be provided. (slides)
 UID:KarapetMkrtchyanԿարապետՄկրտչյան20250108@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -141,7 +141,7 @@ DTEND;VALUE=DATE:20250115T160000
 SUMMARY:Erica Bertolini (Dublin Institute for Advanced Studies / Institiúid Ard‐Léinn Bhaile Átha Cliath), Fractons: a new covariant gauge field theory
 DESCRIPTION:The concept of a fracton quasiparticle has recently emerged in many areas of physics, from mathematical physics to condensed matter and quantum information, unified by the general feature of restricted mobility.In this seminar I will introduce the basic notion of fracton quasiparticles, focussing on the gauge field theory construction developed in Pretko's original papers [1604.05329,1606.08857], mentioning the physical applications in elasticity theory and connections with gravitational models. In the second part of the seminar I will then step into the building of a covariant model for fractons in which a strong relation with Linearized Gravity naturally emerges. The fracton phenomenology is reproduced from first principles of QFT through a symmetry‐based approach, opening the doors to a new class of covariant gauge field theories. This formulation can be generalized to any spacetime dimension, allowing for instance the study of lower‐dimentional fracton models and showing relations with some condensed matter systems.
 UID:EricaBertolini20250115@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -152,7 +152,7 @@ DTEND;VALUE=DATE:20241016T160000
 SUMMARY:Mehran Jalali Farahani مهران جلالی فراهانی (Heriot‐Watt University / Oilthigh Heriot‐Watt, Maxwell Institute for Mathematical Sciences), Principal Lie groupoid bundles with connection (and a bit beyond)
 DESCRIPTION:In this talk, I present our recent work towards general theory of higher principal bundles with connection. In particular, we developed the notion of principal groupoid‐bundles with connection using a new framework that is suitable for generalization. In this setup, principal bundles with connection are principal bundles without connection in a different category, namely the category of NQ‐manifolds. (slides)
 UID:MehranJalaliFarahaniمهرانجلالیفراهانی20241016@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -163,7 +163,7 @@ DTEND;VALUE=DATE:20250129T160000
 SUMMARY:Fedor Leonidovich Levkovich‐Maslyuk Фёдор Леонидович Левкович‐Маслюк (City, University of London), TBA
 DESCRIPTION:TBA
 UID:FedorLeonidovichLevkovich‐MaslyukФёдорЛеонидовичЛевкович‐Маслюк20250129@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -174,7 +174,7 @@ DTEND;VALUE=DATE:20241023T160000
 SUMMARY:Catarina Carvalho (University of Hertfordshire), Digraphs with caterpillar duality
 DESCRIPTION:We search for the class of digraphs whose obstruction sets, in the digraph homomorphism problem, consist of caterpillars. The conjecture being that this class of digraphs should be the same as the class of digraphs that are preserved by majority and set function polymorphisms. This is work in progress. (slides)
 UID:CatarinaCarvalho20241023@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -185,7 +185,7 @@ DTEND;VALUE=DATE:20250205T160000
 SUMMARY:Siani Smith (Loughborough University), A complexity framework for forbidden subgraphs
 DESCRIPTION:A common direction in algorithmic graph theory is to investigate the complexity of hard problems restricted to specific classes of graphs. This raises the question of whether large sets of such problems can be explained by common problem conditions. For a set of graphs ℋ, the class of ℋ‐subgraph‐free graphs is the class of all graphs not containing any graph from ℋ as a subgraph. We present a framework to classify the complexity of certain problems on ℋ‐subgraph‐free graph classes. In particular, we give a meta‐theorem classifying the complexity of problems satisfying three conditions.
 UID:SianiSmith20250205@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -196,7 +196,7 @@ DTEND;VALUE=DATE:20250219T160000
 SUMMARY:Lewis Topley (University of Bath), TBA
 DESCRIPTION:TBA
 UID:LewisTopley20250219@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -207,7 +207,7 @@ DTEND;VALUE=DATE:20250319T160000
 SUMMARY:Marco Billò (Università degli Studi di Torino), TBA
 DESCRIPTION:TBA
 UID:MarcoBillò20250319@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -218,7 +218,7 @@ DTEND;VALUE=DATE:20250212T160000
 SUMMARY:Víctor Carmona Sánchez (Max‐Planck‐Institut für Mathematik in den Naturwissenschaften Leipzig), TBA
 DESCRIPTION:TBA
 UID:VíctorCarmonaSánchez20250212@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -229,7 +229,7 @@ DTEND;VALUE=DATE:20250226T160000
 SUMMARY:Rachel Shaw (University of Southampton), Power and Mobility Optimisation in a Multi‐Agent Game
 DESCRIPTION:In the dynamic setting of competitive multi-agent systems, strategic decision‐making and resource allocation are key to achieving optimal outcomes. This research explores the optimisation of power and mobility in adversarial multi‐agent games, modelled as a Nash zero‐sum framework. By utilising advanced game‐theoretic methods, we analyse the interactions between the agents of two teams of autonomous vehicles, with decision variables encompassing communication, interference, and movement. The model incorporates power, movement, and minimum distance constraints, employing fixed‐point formulations and block‐descent algorithms to determine equilibrium strategies. Additionally, we introduce the concept of team preferences and discuss ongoing work on individual agent preference.
 UID:RachelShaw20250226@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -240,7 +240,7 @@ DTEND;VALUE=DATE:20250122T160000
 SUMMARY:Tancredi Schettini Gherardini (Queen Mary University of London), Exotic spheres from different angles
 DESCRIPTION: In this talk, I will discuss different mathematical properties of exotic (7‐)spheres and their implications in physics. Namely, I will cover some known facts as well as recent results regarding: The geometry of Milnor’s bundles and a number of analytic results obtained in arXiv:2309.01703 (J. High Energ. Phys. 2023, 100) and arXiv:2410.01909; I will discuss the relevance of these results in the context of supergravity. The differentiable structure of exotic spheres together with its conjectured implications in general relativity and shock waves (work in progress). A numerical technique for finding and approximating Einstein metrics, to be applied eventually to the case of exotic spheres, which is based on state‐of‐the‐art machine learning tools (work in progress with Edward Hirst and Alex Stapleton). The possible uses of this numerical scheme in (super)gravity theories are also discussed.
 UID:TancrediSchettiniGherardini20250122@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -251,7 +251,7 @@ DTEND;VALUE=DATE:20250326T160000
 SUMMARY:Markus Upmeier (University of Aberdeen / Oilthigh Obar Dheathain), TBA
 DESCRIPTION:TBA
 UID:MarkusUpmeier20250326@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -262,7 +262,7 @@ DTEND;VALUE=DATE:20250312T160000
 SUMMARY:Vera Posch (Trinity College Dublin / Coláiste na Tríonóide, Baile Átha Cliath), TBA
 DESCRIPTION:TBA
 UID:VeraPosch20250312@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -273,7 +273,7 @@ DTEND;VALUE=DATE:20240716T160000
 SUMMARY:Joost Nuiten (Université Toulouse Ⅲ Paul Sabatier), The Van Est isomorphism for higher stacks
 DESCRIPTION:A classical theorem of Van Est relates the differentiable cohomology of a Lie group to the cohomology of its Lie algebra. I will discuss a version of this result for homotopy‐theoretic variants of Lie group(oid)s, such as the string group, relating their cohomology to the cohomology of their (higher) Lie algebroids. The main challenge is to provide a well‐behaved analogue of Lie differentiation for higher groupoids; I will discuss how one can use ideas from Lurie and Pridham to provide such a construction.
 UID:JoostNuiten20240716@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -284,7 +284,7 @@ DTEND;VALUE=DATE:20240807T160000
 SUMMARY:Eirik Eik Svanes (Universitetet i Stavanger), Heterotic distance conjectures and symplectic cohomology
 DESCRIPTION:Deformations of the heterotic superpotential give rise to a topological holomorphic theory with similarities to both Kodaira–Spencer gravity and holomorphic Chern–Simons theory. Although the action is cubic, it is only quadratic in the complex structure deformations (the Beltrami differential). Treated separately, for large fluxes, or alternatively at large distances in the background complex structure moduli space, these fields can be integrated out to obtain a new field theory in the remaining fields, which describe the complexified hermitian and gauge degrees of freedom. We investigate properties of this new holomorphic theory, and in particular connections to the swampland distance conjecture in the context of heterotic string theory. In particular, the quadratic action gives rise to an elliptic complex, similar to the symplectic cohomologies of Tseng and Yau, but where the Beltrami differential of the large complex structure modulus plays the role of the symplectic form.
 UID:EirikEikSvanes20240807@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -295,7 +295,7 @@ DTEND;VALUE=DATE:20240508T160000
 SUMMARY:Daniel Waldram (Imperial College London), 𝑎‐maximisation and slope stability in generalised geometry
 DESCRIPTION:𝑎‐maximisation is a key property of 4d superconformal field theories that allows one to find the 𝑅‐symmetry and central charge. Understanding the generic gravitational dual of this process is a key question in holography. I will describe some work in progress with Anthony Ashmore, Stephanie Baines and Michela Petrini, where we argue that it can be understood in terms of a notion of slope stability for AdS backgrounds in generalised geometry, in a way that physically connects closely to renormalisation group flow. For simplicity we will focus on the special case of Sasaki–Einstein geometries, where, using SL⁡(𝑛+1) generalised geometry, one reproduces (and extends) the volume minimisation procedure of Martelli–Sparks–Yau. Very broadly one can view the dual field theory and generalised geometry formulations as algebraic and differential descriptions of the same underlying geometry.
 UID:DanielWaldram20240508@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -306,7 +306,7 @@ DTEND;VALUE=DATE:20240605T160000
 SUMMARY:Lukas Müller (Perimeter Institute for Theoretical Physics), Topological defects
 DESCRIPTION:Recently, the study of higher categories of topological defects in quantum field theory has gained significant attention due to their connection to categorical symmetries. These higher categories exhibit noteworthy additional structures, depending upon the specific theories and defects under consideration. For instance, in oriented 2‐dimensional field theories, they organize into a pivotal bicategory. Currently, we lack a comprehensive framework to systematically describe these intricate structures. In my talk I will argue that the theory of higher dagger categories provides such a framework. The talk is partially based on joint work in progress with Gio Ferrer, Brett Hungar, Theo Johnson‐Freyd, Cameron Krulewski, Nivedita, Dave Penneys, David Reutter, Claudia Scheimbauer, Luuk Stehouwer, and Chetan Vuppulury.
 UID:LukasMüller20240605@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -317,7 +317,7 @@ DTEND;VALUE=DATE:20240524T153000
 SUMMARY:Pavol Ševera (Université de Genève), On non‐topological boundary conditions of (perturbative) topological field theories
 DESCRIPTION:In Witten’s CS/WZW correspondence the chiral WZW model appears from the chiral boundary condition imposed on the CS theory. I will describe how similar boundary conditions of the CS theory and of its analogs (given by the AKSZ constructions) produce many other interesting examples and how they explain, in particular, Poisson–Lie 𝑇‐duality. Unlike the CS/WZW correspondence, this generalization is only perturbative; on the other hand, the perturbative renormalization leads to the generalized Ricci tensor and hopefully still hides many interesting things. Based on joint works with J. Pulmann, F. Valach, and D. Youmans.
 UID:PavolŠevera20240524@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -328,7 +328,7 @@ DTEND;VALUE=DATE:20240501T160000
 SUMMARY:Bruno Giménez Umbert (University of Southampton, Perimeter Institute for Theoretical Physics), 𝜙𝑝 amplitudes from the positive tropical Grassmannian
 DESCRIPTION:The global Schwinger formula, introduced by Cachazo and Early as a single integral over the positive tropical Grassmannian, provides a way to uncover properties of scattering amplitudes which are hard to see in their standard Feynman diagram formulation. In this talk I will review how partial biadjoint scalar amplitudes are computed using the global Schwinger formula, and also how one can recover amplitudes from it by using a limiting procedure on the kinematic invariants. Moreover, I will show how the regions in the positive tropical Grassmannian contributing to amplitudes are obtained from non‐crossing (𝑝−2)‐chord diagrams, which can be extended to objects whose triangulations are in bijection with Feynman diagrams. Finally, I will point out a connection between these extended diagrams and off‐diagonal partial amplitudes, implying that  amplitudes can be expressed as a sum of products of cubic amplitudes.
 UID:BrunoGiménezUmbert20240501@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -339,7 +339,7 @@ DTEND;VALUE=DATE:20240424T160000
 SUMMARY:Hyungrok Kim 김형록 (University of Hertfordshire), A witty title containing ‘homotopy algebras’, ‘scattering amplitudes’, ‘holography’ and ‘Schwinger–Keldysh’, such as this one
 DESCRIPTION:Abstract: ‘Give a child a hammer, and they will treat everything like a nail.’ As a child, the speaker was given homological perturbation theory (HPT) of 𝐿∞‐algebras, and he thus treats every perturbation theory as an instance of HPT. In particular, he will show how HPT naturally produces the Feynman diagrams of 𝑆‐matrices, the Witten diagrams of AdS/CFT, the cut diagrams of non‐time‐ordered Schwinger–Keldysh observables (as in the recent work by Caron‐Huot et al.) and more. He begs pardon for referring to himself in the third person. Based on ongoing joint work with Leron Borsten, David Simon Henrik Jonsson, Martin Wolf and (last but not least) Charles Alastair Stephen Young. (slides)
 UID:HyungrokKim김형록20240424@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -350,7 +350,7 @@ DTEND;VALUE=DATE:20240417T160000
 SUMMARY:Ján Pulmann (Oilthigh Dhùn Èideann), Lagrangian relations, half‐densities and quantum 𝐿∞ algebras
 DESCRIPTION:Lagrangian relations model maps and more general correspondences between physical systems. In Batalin–Vilkovisky formalism, it is natural to generalize Lagrangian relations to distributional half‐densities, as advocated by Ševera. We give a rigorous definition of linear distributional half‐densities and describe their composition, thus constructing a linear version of a quantum odd symplectic category. As an application, we describe the computation of the BV effective action as a composition in this category. Based on [arXiv:2401.06110], joint with B. Jurčo and M. Zika.
 UID:JánPulmann20240417@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -361,7 +361,7 @@ DTEND;VALUE=DATE:20240410T160000
 SUMMARY:Carlos Shahin Shahbazi Alonso (Universidad Nacional de Educación a Distancia), The Heterotic‐Ricci flow and its three‐dimensional solitons
 DESCRIPTION:I will introduce a novel curvature flow, the Heterotic‐Ricci flow, as the two‐loop renormalization group flow of the Heterotic string common sector and study its three‐dimensional compact solitons. The Heterotic‐Ricci flow is a coupled curvature evolution flow, depending on a non‐negative real parameter 𝜅, for a complete Riemannian metric and a three‐form 𝐻 on a manifold 𝑀. Its most salient feature is that it involves a term quadratic in the curvature tensor of a metric connection with skew‐symmetric torsion 𝐻. When 𝜅=0 the Heterotic‐Ricci flow reduces to the generalized Ricci flow and hence it can be understood as an extension of the latter via a higher order correction prescribed by string theory, whereas when 𝐻=0 and 𝜅&gt;0 the Heterotic‐Ricci flow reduces to a constrained version of the RG‐2 flow and hence it can be understood as a generalization of the latter via the introduction of the three‐form 𝐻. Solutions of Heterotic supergravity with trivial gauge bundle, which we call Heterotic solitons, define a particular class of self‐similar solutions of the Heterotic‐Ricci flow. I will present several structural results for three‐dimensional Heterotic solitons, providing the complete classification of three‐dimensional strong Heterotic solitons as quotients of the Heisenberg group equipped with a left‐invariant metric. Furthermore, I will prove that all Einstein three‐dimensional Heterotic solitons have constant dilaton, leaving as an open problem the construction of a Heterotic soliton with non‐constant dilaton. In this direction, I will prove that Heterotic solitons with constant dilaton are rigid and therefore they represent isolated points in moduli space that cannot be deformed into a soliton with non‐constant dilaton. Work in collaboration with Andrei Moroianu (Paris). (slides)
 UID:CarlosShahinShahbaziAlonso20240410@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -372,7 +372,7 @@ DTEND;VALUE=DATE:20240320T160000
 SUMMARY:Donal O’Connell (University of Edinburgh / Oilthigh Dhùn Èideann), Amplitudes and waveforms
 DESCRIPTION:Waveforms are the most important precision observables in modern studies of general relativity. I will discuss how waveforms in gravitational scattering are closely very related to scattering amplitudes. The computation of next‐to‐leading order waveforms has revealed a number of interesting aspects of this connection, including generalisations of amplitudes, BMS dependence of the waveform, and the importance of a new class of functions involving iterated integrals of Bessel functions. (slides)
 UID:DonalO’Connell20240320@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -383,7 +383,7 @@ DTEND;VALUE=DATE:20240313T160000
 SUMMARY:Silvia Nagy (Durham University), Asymptotic symmetries for subleading soft theorems
 DESCRIPTION:It is by now well understood how leading soft theorems follow as Ward identities of asymptotic symmetries defined at null infinity. For subleading infrared effects the connection is more subtle, but it turns out that this can be formalised, to all orders, by adapting the Stueckelberg procedure to construct an extended radiative phase space at null infinity. I will show this at all orders for self‐dual Yang–Mills, self‐dual gravity, and finally Yang–Mills.
 UID:SilviaNagy20240313@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -394,7 +394,7 @@ DTEND;VALUE=DATE:20240306T160000
 SUMMARY:Severin Bunk (University of Hertfordshire), Infinitesimal higher symmetries
 DESCRIPTION:Every bundle on a manifold has a universal symmetry group: for any Lie group 𝐺, giving a 𝐺‐equivariant structure on the bundle is equivalent to giving a Lie group homomorphism from 𝐺 to this universal symmetry group. The existence of non‐trivial equivariant structures is usually obstructed. In this talk we modify this idea in two ways: we consider the infinitesimal version of universal symmetries and allow higher, or categorified bundles. These appear, for instance, in supergravity, higher gauge theory, more generally in geometry and topology. We will use a family‐version of the fundamental theorem of derived deformation theory to construct the higher, infinitesimal analogues of universal symmetry groups. We use this to provide a unified definition of connections on any higher bundle and an algebraic formulation of differential cohomology. This extends work by Baez, Schreiber, Waldorf, Kapranov and others. Here, the curvature of a higher connection appears as the infinitesimal version of the aforementioned obstruction to equivariance. We elaborate in particular on the case of higher U(1)‐bundles, or 𝑛‐gerbes. This is joint work with Lukas Müller, Joost Nuiten and Richard Szabo. (slides)
 UID:SeverinBunk20240306@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -405,7 +405,7 @@ DTEND;VALUE=DATE:20231129T160000
 SUMMARY:Javier José Murgas Ibarra (Universitetet i Stavanger), A heterotic Kodaira–Spencer theory
 DESCRIPTION:Taking extrema of the six‐dimensional heterotic superpotential gives the so‐called 𝐹‐term constraints of the Hull–Strominger system. Starting at a solution, one can consider ‘off‐shell’ fluctuations of the structure in the superpotential. This gives rise to a theory with similar features to Kodaira–Spencer gravity. A natural next step is then to quantise this theory. I will discuss the computation of the one‐loop partition function and find it can be expressed as a product of holomorphic Ray–Singer torsions. Finally, I will discuss its potential metric anomaly.
 UID:JavierJoséMurgasIbarra20231129@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -416,7 +416,7 @@ DTEND;VALUE=DATE:20231115T143000
 SUMMARY:Julian Matteo Kupka (University of Hertfordshire), Non‐relativistic geometry and why you might care
 DESCRIPTION:This talk explores non‐relativistic geometry, a mathematical framework allowing us to formulate Newtonian physics analogously to General Relativity, i.e. geometrizing it. We will build the geometry and theory from the ground up and explain how exactly it encodes Newtonian gravity in a diffeomorphism invariant fashion. We will then connect it to null reductions, which allows us to relate non‐relativistic to relativistic physics with a special null direction, highlighting why you might encounter it in your applications. (slides)
 UID:JulianMatteoKupka20231115@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -427,7 +427,7 @@ DTEND;VALUE=DATE:20240221T160000
 SUMMARY:Nick Early (Max‐Planck‐Institut für Mathematik in den Naturwissenschaften), Scattering amplitudes and tilings of moduli spaces
 DESCRIPTION:In 2013, Cachazo, He and Yuan (CHY) discovered a remarkable framework for scattering amplitudes in Quantum Field Theory (QFT) which mixes the real, complex and tropical geometry associated to the moduli space of 𝑛 points on the projective line, ℳ0,𝑛.  By duality, this moduli space has a twin moduli space of 𝑛 generic points in ℙ𝑛−3, leading to dual realization of scattering amplitudes, using a generalization of the CHY formalism introduced in 2019 by Cachazo, Early, Guevara and Mizera (CEGM).  Any duality begs for an investigation: what structures lie between the twin moduli spaces?  CEGM developed a framework to answer the question for moduli spaces of 𝑛 points in any ℙ𝑘−1, leading to the discovery of rich, recursive structures which seem to suggest a new frontier in the study of scattering amplitudes.  In this talk, we discuss recent joint work with Cachazo and Zhang which uses ideas from oriented matroids to construct color‐dressed generalized biadjoint scalar amplitudes.
 UID:NickEarly20240221@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -438,7 +438,7 @@ DTEND;VALUE=DATE:20240207T160000
 SUMMARY:Ricardo Monteiro (Queen Mary University of London), On helicity violation in Yang–Mills and gravity
 DESCRIPTION:I will discuss topics related to helicity violation in Yang–Mills and gravity. Firstly, I will discuss the connection of helicity violation, well known from the context of scattering amplitudes, to the concept of electric–magnetic duality — and in particular to its failure. Secondly, I will focus on the self‐dual sectors of Yang–Mills and gravity. These sectors satisfy classically a version of the electric–magnetic duality, but this symmetry is anomalous, giving rise to the all‐plus one‐loop amplitudes. Finally, I will discuss some lessons and intriguing aspects.
 UID:RicardoMonteiro20240207@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -449,7 +449,7 @@ DTEND;VALUE=DATE:20240131T160000
 SUMMARY:Georgios Papathanasiou Γεώργιος Παπαθανασίου (City, University of London), Evaluating Feynman integrals with the help of the Landau equations
 DESCRIPTION:Feynman integrals are the core of theoretical physics predictions for collider experiments, and at the same time exhibit remarkably deep mathematical structure. In this talk, I will describe how the knowledge of their singularities, as captured by the Landau equations, may aid the formidable task of their evaluation much more than was previously expected. In particular, I will provide evidence that the latter equations capture the building blocks or ‘letters’ of the integrals, when recast as a polynomial of their variables known as the principal 𝐴‐determinant. (slides)
 UID:GeorgiosPapathanasiouΓεώργιοςΠαπαθανασίου20240131@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -460,7 +460,7 @@ DTEND;VALUE=DATE:20240124T160000
 SUMMARY:Ömer C. Gürdoğan (University of Southampton), Antipodal dualities: reading form factors backwards
 DESCRIPTION:Our understanding of scattering amplitudes is in a process of perpetual refinement where new results lead to new insights, which in turn enable even more ambitious calculations. I will report on a recent observation that certain amplitudes and form factors are mapped to each other under the antipode of the Hopf algebra of multiple polylogarithms. This observation is based on an eight‐loop calculation of form factors, which turns out to be very amenable to the symbol bootstrap approach.
 UID:ÖmerC.Gürdoğan20240124@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -471,7 +471,7 @@ DTEND;VALUE=DATE:20231206T143000
 SUMMARY:Benjamin Hoare (Durham University), Diamonds of integrable deformations
 DESCRIPTION:There are two well‐known origins of 2‐dimensional integrable QFTs from 4 dimensions — localisation of 4d Chern–Simons and symmetry reduction of 4d anti‐self‐dual Yang–Mills. It is a conjecture of Costello that these can be unified in a diamond of theories, starting from holomorphic Chern–Simons theory in 6 dimensions. It has been shown how this works for the simplest class of theories, including the principal chiral model with a Wess–Zumino term, by Bittleston and Skinner. In this talk I will discuss what happens if we try to deform and explore the new features that appear, including the role of novel boundary conditions in 4d Chern–Simons. This talk is based on work with Lewis Cole, Ryan Cullinan, Joaquín Liniado and Dan Thompson.
 UID:BenjaminHoare20231206@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -482,7 +482,7 @@ DTEND;VALUE=DATE:20231122T143000
 SUMMARY:Leron Borsten (University of Hertfordshire), Higher symmetries and homotopy algebras: scattering amplitudes, colour–kinematics duality, 𝐿∞‐ and BV∞◽️‐algebras, the double copy and M2‐branes models
 DESCRIPTION:The string of (possibly cryptic) words in the title will be discussed. Neither prior knowledge of, nor interest in, all of the terms is assumed. We hope there is something for everyone! Essentially, two currently pervasive ideas that we find interesting will be brought together:Scattering amplitudes are the most direct bridge between quantum field theory and particle collider experiments. They are also incredibly rich structures that provide deep physical/mathematical insights into the underlying theories. An example is provided by the colour–kinematics duality of gluon amplitudes. While in Yang–Mills theory the internal colour and spacetime Lorentz symmetries ostensibly live independent lives, it seems that they dance to the same tune in the scattering amplitudes. A consequence of this hidden property is that graviton scattering amplitudes are the “double copy” of amplitudes: Einstein=Yang–Mills squared! Homotopy algebras generalise familiar algebras (matrix, exterior, Lie…) by relaxing the defining identities up to homotopy. The homotopy maps form higher products in corresponding homotopy algebra. A key example is that of homotopy Lie algebras or 𝐿∞‐algebras. The violation of the familiar Lie bracket [–,–] Jacobi identity is controlled by a unary [–] and ternary bracket [–,–,–], which themselves satisfy nested Jacobi identities up to homotopies controlled by yet higher brackets and so on. They arise naturally and inevitably in a number of mathematical contexts, such as categorified symmetries. They also have deep connections to physics. Indeed, every perturbative Lagrangian quantum field theory corresponds to a homotopy Lie algebra, allowing one to move between the physics of scattering amplitudes and the mathematics of homotopy algebras.We shall first review the remarkable correspondence between perturbative quantum field theory and homotopical algebras. We will then illustrate how the colour–kinematics duality of scattering amplitudes can be realised at the level of the Batalin–Vilkovisky action: assuming tree‐level colour–kinematics duality of the physical 𝑆‐matrix, there exist an action principle manifesting colour–kinematics duality as a (possible anomalous) conventional symmetry. In homotopy algebraic terms, the associated homotopy commutative algebra (aka the “colour‐stripped” homotopy algebra) carries a homotopy BV◽️‐algebra structure. This observation, in turn, allows for simple proofs of (tree‐level) colour–kinematics for a variety of theories, some old, some new, and progress in characterising what is and isn’t possible at the loop‐level. For example, we give a concise proof that the BLG and ABJM M2‐brane models have tree‐level colour–kinematics duality. (slides)
 UID:LeronBorsten20231122@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -493,7 +493,7 @@ DTEND;VALUE=DATE:20180919T160000
 SUMMARY:Tomasz Łukowski (University of Hertfordshire), An introduction to Baxter 𝑄‐operators for integrable spin chains.
 DESCRIPTION:TBA
 UID:TomaszŁukowski20180919@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -504,7 +504,7 @@ DTEND;VALUE=DATE:20180926T160000
 SUMMARY:Tomasz Łukowski (University of Hertfordshire), An introduction to Baxter 𝑄‐operators for integrable spin chains. Part Ⅱ
 DESCRIPTION:TBA
 UID:TomaszŁukowski20180926@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -515,7 +515,7 @@ DTEND;VALUE=DATE:20181010T160000
 SUMMARY:Charles Alastair Stephen Young (University of Hertfordshire), Hypergeometric integrals of motion and affine Gaudin Models
 DESCRIPTION:TBA
 UID:CharlesAlastairStephenYoung20181010@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -526,7 +526,7 @@ DTEND;VALUE=DATE:20200219T160000
 SUMMARY:Ömer C. Gürdoğan (University of Oxford, University of Southampton), Tropical geometry and scattering amplitudes in 𝒩=4 super Yang Mills
 DESCRIPTION:TBA
 UID:ÖmerC.Gürdoğan20200219@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -537,7 +537,7 @@ DTEND;VALUE=DATE:20210217T160000
 SUMMARY:Charles Strickland‐Constable (University of Hertfordshire), Generalised geodesics: the geometry of strings and branes
 DESCRIPTION:I will present recent work showing how the classical solutions of string and membrane sigma models can be understood as the analogue of integral curves of auto‐parallel vector fields in generalised geometry.I will try to make the first part of the talk accessible to a non‐string‐theory audience.
 UID:CharlesStrickland‐Constable20210217@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -548,7 +548,7 @@ DTEND;VALUE=DATE:20210224T160000
 SUMMARY:Tommaso Franzini (University of Hertfordshire), An introduction to Thermodynamic Bethe Ansatz with some applications
 DESCRIPTION:Since the Thermodynamic Bethe Ansatz was first introduced, it has always been a powerful tool to investigate several properties of integrable quantum field theories. In this talk I will give an introduction to the topic, explaining a general method to derive the TBA equations and focusing on some of their most relevant aspects. In this context, I will also present the work I have done for my master thesis about the structure of the TBA for a theory with quantum group symmetry, as part of a collaboration with Prof. Ravanini from Bologna University and Prof. Ahn from Ewha University.
 UID:TommasoFranzini20210224@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -559,7 +559,7 @@ DTEND;VALUE=DATE:20210505T160000
 SUMMARY:Guilherme Almeida (Scuola Internazionale Superiore di Studi Avanzati), An overview of Dubrovin Frobenius manifolds
 DESCRIPTION:Dubrovin Frobenius manifold is a geometric interpretation of a remarkable system of differential equations, called WDVV equations. Since the beginning of the nineties, there has been a continuous exchange of ideas from fields that are not trivially related to each other, such as: Topological quantum field theory, non‐linear waves, singularity theory, random matrices theory, integrable hierarchies of KdV type, and Painlevé equations. Dubrovin Frobenius manifolds theory is the bridge between them. In the first part of the talk, I will review the notion of Dubrovin Frobenius manifolds and its relationship with finite reflection groups and its extensions, isomonodromic deformation equations and Integrable hierarchy of KdV type. In the second part of the seminar, I will review the differential geometry of Orbit spaces of reflection groups and its extensions, which are one of the main examples of Dubrovin Frobenius manifolds. Thereafter, I will present a new extension of finite reflection group, which its orbit space has a Dubrovin Frobenius structure. This work is based on the papers arXiv:1907.01436 and arXiv:2004.01780.
 UID:GuilhermeAlmeida20210505@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -570,7 +570,7 @@ DTEND;VALUE=DATE:20210512T160000
 SUMMARY:Luigi Alfonsi (Queen Mary University of London), Towards an extended/higher correspondence – generalised geometry, bundle gerbes and global 𝑇‐duality
 DESCRIPTION:Extended Geometry is the geometric framework which makes 𝑇‐duality and 𝑈‐duality manifest symmetries. This is realised by lifting generalised geometry to a higher dimensional space which is, at least locally, the space underlying the fundamental representation of the duality group. However, despite its relevance in M‐theory, the global aspects of Extended Geometry are still unclear. I propose a global formulation of Extended Geometry via a generalisation of Kaluza–Klein principle which unifies a metric and a higher gauge field on a categorified principal bundle (e.g. a bundle gerbe). I will illustrate the relation of this formulation with usual generalised geometry and with the string 𝜎‐model. Finally, I will discuss how a global notion of generalised fluxes (geometric and non‐geometric) emerges from this picture and how this is related to a higher gauge theory with the string 2‐group.
 UID:LuigiAlfonsi20210512@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -581,7 +581,7 @@ DTEND;VALUE=DATE:20210526T160000
 SUMMARY:Robert Gray (University of East Anglia), Undecidability of the word problem for one‐relator inverse monoids via right‐angled Artin subgroups of one‐relator groups
 DESCRIPTION: It is a classical result of Magnus proved in the 1930s that the word problem is decidable for one‐relator groups. This result inspired a series of investigations of the word problem in other one‐relator algebraic structures. For example, in the 1960s Shirshov proved the word problem is decidable in one‐relator Lie algebras. In contrast, it remains a longstanding open problem whether the word problem is decidable for one‐relator monoids. An important class of algebraic structures lying in between monoids and groups is that of inverse monoids. In this talk I will speak about a recent result which shows that there exist one‐relator inverse monoids of the form Inv⟨𝐴|𝑤=1⟩ with undecidable word problem. This answers a problem originally posed by Margolis, Meakin and Stephen in 1987. I will explain how this result relates to the word problem for one‐relator monoids, the submonoid membership problem for one‐relator groups, and to the question of which right‐angled Artin groups arise as subgroups of one‐relator groups.
 UID:RobertGray20210526@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -592,7 +592,7 @@ DTEND;VALUE=DATE:20211207T173000
 SUMMARY:Severin Bunk (University of Oxford), Symmetries of gerbes, anomalies, and topology
 DESCRIPTION:Gerbes are geometric objects which describe the third integer cohomology of a manifold and the 𝐵‐field in string theory. Infinitesimal symmetries of gerbes on a manifold 𝑀 are associated with algebroids on 𝑀. In this talk, we instead investigate finite symmetries of gerbes; we demonstrate how in the presence of a Lie group action on 𝑀, a gerbe on 𝑀 induces an extension of the acting Lie group by a 2‐group. These extensions have various applications: they contain all information about equivariant structures on gerbes, explain non‐associative magnetic translations, describe anomalies in QFTs in odd dimensions, and give rise to new models for the string group.
 UID:SeverinBunk20211207@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -603,7 +603,7 @@ DTEND;VALUE=DATE:20220309T143000
 SUMMARY:Congkao Wen 温从烤 (Queen Mary University of London), Integrated correlators in 𝒩=4 super Yang–Mills
 DESCRIPTION:In this talk, I will present an exact expression for an integrated correlator of four BPS operators in 𝒩=4 supersymmetric Yang–Mills (SYM) with any classical gauge group 𝐺𝑁. I will show that this can be expressed as a simple two‐dimensional lattice sum, which is a function of 𝑁 and of the complex Yang–Mills coupling 𝜏=𝜃/2π+i4π/𝑔YM2. This expression contains infinite orders of perturbative and non‐perturbative instanton terms, and manifests the Goddard–Nuyts–Olive duality of 𝒩=4 SYM. Furthermore, the integrated correlator satisfies a striking ‘Laplace difference’ equation, which determines the integrated correlator for all classical gauge groups in terms of the SU(2) correlator. I will also comment on matching our result with the standard Feynman diagram computation, and the relation to four‐graviton amplitude in type ⅡB superstring in AdS space.
 UID:CongkaoWen温从烤20220309@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -614,7 +614,7 @@ DTEND;VALUE=DATE:20220324T143000
 SUMMARY:Pietro Benetti Genolini (King’s College London), Localization of the action in AdS/CFT
 DESCRIPTION:I will introduce a simple formula for the action of supersymmetric solutions to minimal gauged supergravity in the context of the AdS/CFT correspondence. Such solutions are equipped with a Killing vector, and I will show that the holographically renormalized action may be expressed entirely in terms of the weights of this vector field at its fixed points, together with certain topological data. In this sense, the classical gravitational partition function localizes in the bulk, and depends only on the topology of the fixed point set.
 UID:PietroBenettiGenolini20220324@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -625,7 +625,7 @@ DTEND;VALUE=DATE:20220406T143000
 SUMMARY:Atul Sharma (University of Oxford), Twistors, gravity and celestial holography
 DESCRIPTION:I will describe a 2‐dimensional sigma model that is dual to self‐dual GR in 4‐dimensional flat space. Our sigma model governs holomorphic maps from the Riemann sphere to twistor space. Semiclassical correlators of the model take us beyond self‐dual GR and give rise to Hodges’ formula for tree‐level MHV graviton amplitudes. Whereas its 2d OPE algebra reproduces the infinite‐dimensional 𝑤1+∞ algebra recently discovered by Strominger to be the symmetry algebra of celestial holography.This talk is based on the works arXiv:2103.16984 and arXiv:2110.06066.
 UID:AtulSharma20220406@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -636,7 +636,7 @@ DTEND;VALUE=DATE:20220420T143000
 SUMMARY:Alexander Schenkel (University of Nottingham), BV and BFV formalism beyond perturbation theory
 DESCRIPTION:Modern approaches to quantum field theory, such as factorization algebras and homotopical AQFT, are based on cohomological methods in field theory that have been developed over the past decades in the context of the BV and BFV formalisms. While these techniques work pretty well for perturbative quantum field theories, they have intrinsic limitations to describe global features, such as the topology of the gauge group or moduli of bundles. Derived algebraic geometry is a powerful geometric framework in which one can attempt to globalize the BV and BFV formalisms. I will start this talk with a very basic introduction to derived algebraic geometry, focussing in particular on its more concrete and computational aspects. I will then illustrate the power and potential of this framework for new developments in mathematical physics by studying two applications: The non‐perturbative BV formalism for a function 𝑓:[𝑋∕𝐺]→𝑘 on a quotient stack, and the quantization of a derived cotangent stack T∗[𝑋∕𝐺] over a quotient stack, which is a global version of BFV quantization.This talk is based on joint works with Benini and Safronov [2104.14886] and Benini and Pridham [2201.10225].
 UID:AlexanderSchenkel20220420@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -647,7 +647,7 @@ DTEND;VALUE=DATE:20220525T143000
 SUMMARY:Brian R. Williams (University of Edinburgh), A holomorphic approach to fivebranes
 DESCRIPTION:In almost all situations, the twist of a supersymmetric QFT has the structure of a holomorphic QFT. I’ll review general aspects of holomorphic QFT while drawing parallels to the familiarsituation of chiral CFT. I will then define a holomorphic model which wepropose describes the minimal twist of the six‐dimensional superconformal theory associated to the Lie algebra 𝔰𝔩(2). A primary source of evidence forthis proposal is via an approach to holography in the twisted setting using Koszul duality.
 UID:BrianR.Williams20220525@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -658,7 +658,7 @@ DTEND;VALUE=DATE:20220601T133000
 SUMMARY:Katarzyna Anna Rejzner (University of York), Symmetries in mathematical perturbative quantum field theory
 DESCRIPTION:In this talk I will give an overview of (perturbative) algebraic quantum field theory and explain how it can be applied to describe interacting QFT models. I will then report on new progress in the description of renormalization group and symmetries, using nets of C*‐algebras.
 UID:KatarzynaAnnaRejzner20220601@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -669,7 +669,7 @@ DTEND;VALUE=DATE:20220907T143000
 SUMMARY:Christian Sämann (Heriot‐Watt University / Oilthigh Heriot‐Watt), 𝑇‐duality with categorified principal bundles
 DESCRIPTION:The data appearing in the Buscher rules for 𝑇‐duality, the Kalb–Ramond field and the metric, can be unified to a connection on a categorified principal bundle governing all geometric T‐dualities. Interestingly, this picture allows for a direct extension to 𝑇‐dualities involving non‐geometric backgrounds. Before explaining all this, I will give a gentle introduction to categorified principal bundles. (slides)
 UID:ChristianSämann20220907@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -680,7 +680,7 @@ DTEND;VALUE=DATE:20221116T143000
 SUMMARY:Emily Cliff (Université de Sherbrooke), Higher symmetries: smooth 2‐groups and their principal bundles
 DESCRIPTION:A 2‐group is acategorical generalization of a group: it’s a category with a multiplication operation which satisfies the usual group axioms only up to coherentisomorphisms. In this talk I will introduce the category of Lie groupoids and bibundles between them, in order to provide the definition of a smooth 2‐group. I will define principal bundles for such a smooth 2‐group and provide classification results that allow us to compare them to principal bundles for ordinary groups. I will conclude with some potential applications of these ideas to various areas, including string geometry, Chern–Simons theory, and equivariant elliptic cohomology. This talk is based on joint work with Dan Berwick‐Evans, Laura Murray, Apurva Nakade, and Emma Phillips. I will not assume any previous background on 2‐groups or Lie groupoids.
 UID:EmilyCliff20221116@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -691,7 +691,7 @@ DTEND;VALUE=DATE:20221130T143000
 SUMMARY:Fridrich Valach (Imperial College London), 𝐺‐algebroids, embedding tensors, and Poisson–Lie duality
 DESCRIPTION:I will describe a class of structures, known as 𝐺‐algebroids, which arises as a natural generalisation of the ordinary, generalised, and exceptional tangent bundles from ordinary, generalised, and exceptional geometry, respectively. I will discuss aclassification result in the exceptional case and show how to obtain the possible fluxes/twists of the bracket. In the M‐theory and ⅡB setups, the twists organise themselves naturally into connections and covariantly constant differential forms, while in the ⅡA case one in particular recovers both the Romans mass and the deformation of Howe–Lambert–West. Finally, I will show how to use these algebroids to answer a question about the realisability of embedding tensors (providing a new perspective on the result of Inverso ’17) and to give a joint description of the Poisson–Lie 𝑇‐ and 𝑈‐duality. This is ajoint work with M. Bugden, O. Hulik, and D. Waldram.
 UID:FridrichValach20221130@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -702,7 +702,7 @@ DTEND;VALUE=DATE:20221124T173000
 SUMMARY:Nils Martin Sten Cederwall (Chalmers tekniska högskola), Supersymmetry and Koszul duality
 DESCRIPTION:The pure spinor superfield formalism is a very general method to construct supermultiplets, and in certain cases, Batalin—Vilkovisky actions for them, using extra variables inthe form of constrained spinors. The main focus has typically been on thecircumvention of old “no‐go theorems” against manifestly supersymmetric off‐shell formulation of maximally supersymmetric models, such as 𝐷=10 super‐Yang—Mills theory and 𝐷=11 supergravity. In this talk, I will briefly review the formalism, and then describe how the constrained spinors are Koszuldual to certain superalgebras, generically 𝐿∞ algebras, constructed fromthe supermultiplets, and how these algebras introduce non‐linear structures on the supermultiplets. This is work in collaboration with S. Jonsson, J. Palmkvist and I. Saberi.
 UID:NilsMartinStenCederwall20221124@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -713,7 +713,7 @@ DTEND;VALUE=DATE:20230222T143000
 SUMMARY:Cheuk Yu Mak 麥焯如 (University of Southampton), Quantum cohomology and loop group action
 DESCRIPTION:Quantum cohomology is an invariant of symplectic manifolds. It is a commutative deformation of theusual cohomology as an algebra, where the deformation is controlled by counting certain holomorphic spheres. In this talk, we will first explain how it is related to the loop space, and to Floer cohomology. Then we will sketch that,in the presence of a Hamiltonian 𝐺‐action on a symplectic manifold 𝑀 with acompact Lie group 𝐺,  how we can obtain an action on the 𝐺‐‐equivariant quantum cohomology from the 𝐺‐equivariant Borel–Moore homology of the based loop space of 𝐺. No knowledge on symplectic geometry is assumed. This is a joint work with Eduardo González and Dan Pomerleano.
 UID:CheukYuMak麥焯如20230222@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -724,7 +724,7 @@ DTEND;VALUE=DATE:20230322T170000
 SUMMARY:Arthur Lipstein (Durham University), From amplitudes to cosmology
 DESCRIPTION:Whereas scattering amplitudes probe physics at the shortest distances, cosmology probes physics at the largest scales. Nevertheless, many concepts discovered in the study of scattering amplitudes generalise to cosmological observables. In this talk I will describe some aspects of this program which I have recently been investigating such as the double copy, scattering equations, and soft limits, and will discuss how these directions are interrelated.
 UID:ArthurLipstein20230322@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -735,7 +735,7 @@ DTEND;VALUE=DATE:20230329T143000
 SUMMARY:James Waldron (University of Newcastle), Skew Hecke Algebras
 DESCRIPTION:Given a finite group 𝐺, a subgroup 𝐻, and an action of 𝐺 on an algebra 𝐴, we define an associated ‘skew Hecke algebra’. This construction provides a simultaneous generalisation of Hecke algebras of finite groups and of skew group algebras. I will explain some of the basic properties of these algebras, some results about their structure, and the relation to rings of invariants. I will also discuss the representation theory of these algebras and their homological properties such as global dimension. If there is time I will explain the relevance of these algebras to the study of quantum reference frames, and possible analogues of skew Hecke algebras for von Neumann algebras. This is based on work inprogress, joint with Leon Loveridge (University of South‐Eastern Norway) and Jan Głowacki (PAN Centre for Theoretical Physics, Warsaw).
 UID:JamesWaldron20230329@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
@@ -746,7 +746,7 @@ DTEND;VALUE=DATE:20230426T143000
 SUMMARY:Lewis Napper (University of Surrey), Monge–Ampère Geometry and the Navier–Stokes equations
 DESCRIPTION:Partial differential equations of Monge–Ampère type have been shown to correspond to specific choices of differential form on the associated phase space. Furthermore, Lagrangian submanifolds of said space may be viewed as a generalisation of solutions to a Monge–Ampère equation. Building from the observation that the Poisson equation for the pressure of an incompressible, two‐dimensional, Navier–Stokes flow can be presented as an equationof Monge–Ampère type, this talk introduces a framework for studying fluid dynamics using properties of the aforementioned submanifolds. In particular, it is noted that such a submanifold may be equipped with a metric whose signature acts as a diagnostic for the dominance of vorticity and strain. We discuss how this approach may be extended to fluid flows on an arbitrary Riemannian manifold and to higher dimensions, through the use of higher (categorified) symplectic geometry. We conclude with some comments on how this facilitates symmetry reductions and some open questions.
 UID:LewisNapper20230426@hertsmathphys.github.io
-DTSTAMP:20250113T111735Z
+DTSTAMP:20250113T113955Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:0
