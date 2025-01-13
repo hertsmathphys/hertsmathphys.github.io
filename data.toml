@@ -171,11 +171,16 @@ title = "Exotic spheres from different angles"
 abstract = " In this talk, I will discuss different mathematical properties of exotic (<math><mn>7</mn></math>‐)spheres and their implications in physics. Namely, I will cover some known facts as well as recent results regarding:<ul> <li>The geometry of Milnor’s bundles and a number of analytic results obtained in <a href='https://arxiv.org/abs/2309.01703'>arXiv:2309.01703</a> (<abbr title='Journal of High Energy Physics'>J. High Energ. Phys.</abbr> 2023, 100) and <a href='https://arxiv.org/abs/2410.01909'>arXiv:2410.01909</a>; I will discuss the relevance of these results in the context of supergravity. <li>The differentiable structure of exotic spheres together with its conjectured implications in general relativity and shock waves (work in progress). <li>A numerical technique for finding and approximating Einstein metrics, to be applied eventually to the case of exotic spheres, which is based on state‐of‐the‐art machine learning tools (work in progress with Edward Hirst and Alex Stapleton). The possible uses of this numerical scheme in (super)gravity theories are also discussed.</li></ul>"
 
 [a21]
-name = "Markus Upmeier"
+name = "<span lang='de'>Markus Upmeier</span>"
 institution = "University of Aberdeen / <span lang='gd'>Oilthigh Obar Dheathain</span>"
 date = 2025-03-26T15:00:00
 location = "C152"
 
+[a22]
+name = "<span lang='de'>Vera Posch</span>"
+institution = "Trinity College Doublin / <span lang='ga'>Coláiste na Tríonóide, Baile Átha Cliath</span>"
+date = 2025-03-12T15:00:00
+location = "B400"
 
 [a0]
 name = "<span lang='nl'>Joost Nuiten</span>"
