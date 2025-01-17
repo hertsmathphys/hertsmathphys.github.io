@@ -188,6 +188,12 @@ institution = "University of Edinburgh / <span lang='gd'>Oilthigh Dhùn Èideann
 date = 2025-04-30T15:00:00
 location = "E350"
 
+[a24]
+name = "John Evans"
+institution = "University of Hertfordshire"
+date = 2025-04-23T15:00:00
+location = "B400"
+
 [a0]
 name = "<span lang='nl'>Joost Nuiten</span>"
 institution = "<span lang='fr'>Université Toulouse Ⅲ Paul Sabatier</span>"
