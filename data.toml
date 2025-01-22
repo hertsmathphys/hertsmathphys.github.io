@@ -194,6 +194,12 @@ institution = "University of Hertfordshire"
 date = 2025-04-23T15:00:00
 location = "B400"
 
+[a25]
+name = "<span lang='it'>Filippe Fila‐Robattino</span>"
+institution = "<span lang='it'>Scuola Internazionale Superiore di Studi Avanzati</span>"
+date = 2025-03-05T15:00:00
+location = "LC100"
+
 [a0]
 name = "<span lang='nl'>Joost Nuiten</span>"
 institution = "<span lang='fr'>Université Toulouse Ⅲ Paul Sabatier</span>"
