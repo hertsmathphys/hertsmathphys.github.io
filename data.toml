@@ -210,6 +210,12 @@ institution = "King’s College London"
 date = 2025-03-12T15:00:00
 location = "B400"
 
+[a27]
+name = "Rishi Mouland"
+institution = "Imperial College London"
+date = 2025-05-28T15:00:00
+location = "TBA"
+
 [a0]
 name = "<span lang='nl'>Joost Nuiten</span>"
 institution = "<span lang='fr'>Université Toulouse Ⅲ Paul Sabatier</span>"
