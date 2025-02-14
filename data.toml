@@ -142,6 +142,8 @@ name = "Lewis Topley"
 institution = "University of Bath"
 date = 2025-02-19T15:00:00
 location = "B400"
+title = "Twisted Yangians and even finite <math><mi>W</mi></math>‐algebras in classical types"
+abstract = " I will report on a work in progress, join with Kang Lu, Yang‐ning Peng, Lukas Tappeiner and Weiqiang Wang, which connects the two algebras in the title of this talk. Finite <math><mi>W</mi></math>‐algebras are an interesting family of algebras, built from a complex semisimple Lie algebra and a nilpotent element by a process of quantum Hamiltonian reduction. Twisted Yangians are a family of algebras of a totally different pedigree. They were introduced by Olshanskii in order to quantize the twisted current algebra coming from symmetric pairs, and they arise as coideal subalgebras of the Yangians studied extensively by Drinfeld. A famous theorem of Brundan and Kleshchev states that the finite <math><mi>W</mi></math>‐algebras of type A arise as quotients of the (shifted) Yangian associated to general linear algebras. For finite W-algebras associated to even nilpotent elements in types B, C, D it turns out that the (shifted) twisted Yangians are the correct replacement. Our work generalises results of Brown which dealt with the rectangular case. I will attempt to make the talk as accessible as possible."
 
 [a18]
 name = "<span lang='it'>Marco Billò</span>"
