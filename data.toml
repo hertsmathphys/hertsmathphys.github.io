@@ -223,6 +223,8 @@ name = "Georgios Papadopoulos <span lang='el'>Γεώργιος Παπαδόπο�
 institution = "King’s College London"
 date = 2025-03-12T15:00:00
 location = "B400"
+title = "Scale and conformal invariance in <math><mn>2</mn></math>‐dimensional sigma models"
+abstract = "I shall demonstrate that all scale invariant two‐dimensional sigma models with compact target space are conformally invariant. The proof relies on techniques developed by Perelman for the proof of the Poincaré conjecture that I shall review."
 
 [a27]
 name = "Rishi Mouland"
