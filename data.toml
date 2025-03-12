@@ -158,6 +158,8 @@ name = "<span lang='it'>Marco Billò</span>"
 institution = "<span lang='it'>Università degli Studi di Torino</span>"
 date = 2025-03-19T15:00:00
 location = "C152"
+title = "Localization in <math><mi>𝒩</mi><mo>=</mo><mn>2</mn></math> theories with non-zero <math><mi>𝛽</mi></math>-function"
+abstract = "Localization is a powerful technique that simplifies drastically  the evaluation of the path integrals defining certain protected observables in <math><mi>𝒩</mi><mo>=</mo><mn>2</mn></math> supersymmetric theories in <math><mi>𝑑</mi><mo>=</mo><mn>4</mn></math>. To apply localization, the theory must be defined on a compact space like <math><msub><mi>𝑆</mi><mn>4</mn></math>. For theories which are conformal also at the quantum level, the results on <math><msub><mi>𝑆</mi><mn>4</mn></math> can be mapped onto flat space. In recent works, we have been investigating the situation for theories with a non‐zero <math><mi>𝛽</mi></math> function. Naively one would expect the conformal anomaly to prevent the extension of localization results on <math><msub><mi>𝑆</mi><mn>4</mn></math> to flat space. However, we show that this is actually the case within in a well specified perturbative regime. We perform explicit checks with  flat space Feynman diagrams up to order <math><msup><mi>𝑔</mi><mn>6</mn></msup></math>  for observables like circular Wilson loops and correlators of chiral operators."
 
 [a17]
 name = "<span lang='es'>Víctor Carmona Sánchez</span>"
