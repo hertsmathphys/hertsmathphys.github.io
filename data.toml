@@ -250,6 +250,12 @@ location = "E350"
 title = "Heterotic distance conjectures and symplectic cohomology"
 abstract = "Deformations of the heterotic superpotential give rise to a topological holomorphic theory with similarities to both Kodaira–Spencer gravity and holomorphic Chern–Simons theory. Although the action is cubic, it is only quadratic in the complex structure deformations (the Beltrami differential). Treated separately, for large fluxes, or alternatively at large distances in the background complex structure moduli space, these fields can be integrated out to obtain a new field theory in the remaining fields, which describe the complexified hermitian and gauge degrees of freedom. We investigate properties of this new holomorphic theory, and in particular connections to the swampland distance conjecture in the context of heterotic string theory. In particular, the quadratic action gives rise to an elliptic complex, similar to the symplectic cohomologies of Tseng and Yau, but where the Beltrami differential of the large complex structure modulus plays the role of the symplectic form."
 
+[a28]
+name = "Alexandros Spyridion Arvanitakis <span lang='el'>Αλέξανδρος Σπυριδίων Αρβανιτάκης</span>"
+institution = "<span lang='hr'>Institut Ruđer Bošković</span>"
+date = 2025-04-09T15:00:00
+location = "C152"
+
 [d0]
 name = "Daniel Waldram"
 institution = "Imperial College London"
