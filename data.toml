@@ -190,7 +190,7 @@ abstract = "In this talk, I will discuss different mathematical properties of ex
 name = "<span lang='de'>Markus Upmeier</span>"
 institution = "University of Aberdeen / <span lang='gd'>Oilthigh Obar Dheathain</span>"
 date = 2025-03-26T15:00:00
-location = "C152"
+location = "SP3006"
 title = "<abbr title='Topological quantum field theories'>TQFTs</abbr> and <abbr title='Atiyah–Patodi–Singer'>APS</abbr> index theory"
 abstract = "Beginning with simple examples, my talk will introduce a new approach to understanding Atiyah–Patodi–Singer indices for manifolds with boundary that casts them within the framework of an associated topological quantum field theory. The main result interprets these indices in terms of the determinant line bundle of the induced differential operator over the boundary and proves a gluing property. Based on <a href='https://arxiv.orb/abs/2312.06818'>arXiv:2312.06818</a>."
 
