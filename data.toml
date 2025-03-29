@@ -199,6 +199,8 @@ name = "<span lang='de'>Vera Posch</span>"
 institution = "Trinity College Dublin / <span lang='ga'>Coláiste na Tríonóide, Baile Átha Cliath</span>"
 date = 2025-04-02T15:00:00
 location = "B400"
+title = "All <math><mn>4</mn><mo>×</mo><mn>4</mn></math> solutions of the quantum Yang–Baxter equation"
+abstract = "In this talk I get to tell you about my latest paper with my PhD advisor Marius de Leeuw in which we complete the classification of <math><mn>4</mn><mo>×</mo><mn>4</mn></math> solutions of the Yang–Baxter equation. Regular solutions were recently classified and in this paper we found the remaining non‐regular solutions. I will present some of these new solutions, then consider regular and non‐regular Lax operators and their relation to the quantum Yang–Baxter equation.  I will show that for regular solutions there is a correspondence, which is lost in the non‐regular case. In particular, we will see that the non‐regular Lax operators whose <math><mi>R</mi></math>‐matrix from the fundamental commutation relations is regular but does not satisfy the Yang–Baxter equation. These <math><mi>R</mi></math>‐matrices satisfy a modified Yang–Baxter equation instead."
 
 [a23]
 name = "Duncan Laurie"
