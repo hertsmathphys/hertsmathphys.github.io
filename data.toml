@@ -195,10 +195,10 @@ title = "<abbr title='Topological quantum field theories'>TQFTs</abbr> and <abbr
 abstract = "Beginning with simple examples, my talk will introduce a new approach to understanding Atiyah–Patodi–Singer indices for manifolds with boundary that casts them within the framework of an associated topological quantum field theory. The main result interprets these indices in terms of the determinant line bundle of the induced differential operator over the boundary and proves a gluing property. Based on <a href='https://arxiv.orb/abs/2312.06818'>arXiv:2312.06818</a>."
 
 [a22]
-name = "<span lang='de'>Vera Posch</span>"
+name = "<span lang='de-at'>Vera Posch</span>"
 institution = "Trinity College Dublin / <span lang='ga'>Coláiste na Tríonóide, Baile Átha Cliath</span>"
 date = 2025-04-02T15:00:00
-location = "B400"
+location = "C152"
 title = "All <math><mn>4</mn><mo>×</mo><mn>4</mn></math> solutions of the quantum Yang–Baxter equation"
 abstract = "In this talk I get to tell you about my latest paper with my PhD advisor Marius de Leeuw in which we complete the classification of <math><mn>4</mn><mo>×</mo><mn>4</mn></math> solutions of the Yang–Baxter equation. Regular solutions were recently classified and in this paper we found the remaining non‐regular solutions. I will present some of these new solutions, then consider regular and non‐regular Lax operators and their relation to the quantum Yang–Baxter equation.  I will show that for regular solutions there is a correspondence, which is lost in the non‐regular case. In particular, we will see that the non‐regular Lax operators whose <math><mi>R</mi></math>‐matrix from the fundamental commutation relations is regular but does not satisfy the Yang–Baxter equation. These <math><mi>R</mi></math>‐matrices satisfy a modified Yang–Baxter equation instead."
 
