@@ -245,7 +245,7 @@ abstract = "I shall demonstrate that all scale invariant two‐dimensional sigma
 name = "Ingmar Akira Saberi"
 institution = "<span lang='de'>Ruprecht‐Karls‐Universität Heidelberg<span>"
 date = 2025-05-21T15:00:00
-location = "TBA"
+location = "SP1006"
 title = "Superconformal algebras from superconformal structures"
 abstract = "The notion of a superconformal structure on a supermanifold goes back some forty years. I will discuss some recent work that shows how these structures and their deformations govern supersymmetric and superconformal field theories in geometric fashion. A superconformal structure equips a supermanifold with a sheaf of dg commutative algebras; the tangent sheaf of this dg ringed space reproduces the Weyl multiplet of conformal supergravity (equivalently, the superconformal stress tensor multiplet), in any dimension and with any amount of supersymmetry. This construction is uniform under twists, and thus provides a classification of relations between superconformal theories, chiral algebras, higher Virasoro algebras, and more exotic examples. "
 
