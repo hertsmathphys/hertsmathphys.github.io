@@ -597,3 +597,12 @@ institution = "University of Surrey"
 date = 2023-04-26T13:30:00
 title = "Monge–Ampère Geometry and the Navier–Stokes equations"
 abstract = "Partial differential equations of Monge–Ampère type have been shown to correspond to specific choices of differential form on the associated phase space. Furthermore, Lagrangian submanifolds of said space may be viewed as a generalisation of solutions to a Monge–Ampère equation. Building from the observation that the Poisson equation for the pressure of an incompressible, two‐dimensional, Navier–Stokes flow can be presented as an equationof Monge–Ampère type, this talk introduces a framework for studying fluid dynamics using properties of the aforementioned submanifolds. In particular, it is noted that such a submanifold may be equipped with a metric whose signature acts as a diagnostic for the dominance of vorticity and strain. We discuss how this approach may be extended to fluid flows on an arbitrary Riemannian manifold and to higher dimensions, through the use of higher (categorified) symplectic geometry. We conclude with some comments on how this facilitates symmetry reductions and some open questions."
+
+[e24]
+name = "Chandramouli Chowdhur"
+institution = "University of Southampton"
+date = 2025-09-24T15:00:00
+location = "TBA"
+title = "TBA"
+abstract = "TBA"
+
