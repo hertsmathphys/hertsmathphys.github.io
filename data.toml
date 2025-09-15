@@ -669,3 +669,11 @@ date = 2025-09-16T15:00:00
 location = "SP3004"
 title = "A supergeometric approach to (twisted) eleven-dimensional supergravity"
 abstract = "I will present a geometric perspective on superspace that proves fruitful for studying twisted supergravity, especially in eleven dimensions. This allows for a uniform description of the eleven-dimensional theory and its twists in terms of homotopy Poisson-Chern-Simons theory on appropriate superspaces. If time permits, I will further discuss higher symmetries in twisted supergravity theories and how they hint towards interesting global structures."
+
+[e33]
+name = "Neil Lambert"
+institution = "King's College London"
+date = 2025-10-29T15:00:00
+location = "TBA"
+title = "TBA"
+abstract = "TBA"
