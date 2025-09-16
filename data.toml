@@ -603,8 +603,8 @@ name = "Chandramouli Chowdhur"
 institution = "University of Southampton"
 date = 2025-09-24T15:00:00
 location = "B404"
-title = "TBA"
-abstract = "TBA"
+title = "Cosmological Graphs from Scattering Amplitudes"
+abstract = "We analyze cosmological (in-in) correlators and the wave function of the universe in dS at tree and loop levels. We demonstrate a hidden simplicity in the structure of in-in correlators arising by adding various building blocks, which allows us to obtain a new integral representation for the in-in correlators in terms of scattering amplitudes in flat space. Therefore, enabling us to study cosmological graphs by exploiting amplitude tools and derive new relations for in-in correlators. Since dS wave functions are equivalent to AdS correlators by analytic continuation, a part of the analysis is also valid for AdS correlators."
 
 [e25]
 name = "Ben Gripaios"
