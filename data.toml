@@ -685,3 +685,11 @@ date = 2025-10-01T15:00:00
 location = "B404"
 title = "TBA"
 abstract = "TBA"
+
+[e35]
+name = "Chris Hull"
+institution = "Imperial College London"
+date = 2025-10-22T15:00:00
+location = "B404"
+title = "TBA"
+abstract = "TBA"
