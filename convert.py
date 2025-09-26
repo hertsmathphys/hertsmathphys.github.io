@@ -25,22 +25,35 @@ localise.__doc__ = "Add Europe/London time zone to datetime objects"
 hour = datetime.timedelta(hours=1)
 
 stamp = datetime.datetime.now().strftime("%Y%m%dT%H%M%SZ")
-with open("calendar.ics", "w") as c: 
-    print("BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//hertsmathphys.github.io//calendar//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\n", file=c, end='')
+with open("calendar.ics", "w") as calendar_file:
+    calendar_file.writelines([
+            "BEGIN:VCALENDAR\n",
+            "VERSION:2.0\n",
+            "PRODID:-//hertsmathphys.github.io//calendar//EN\n",
+            "CALSCALE:GREGORIAN\n",
+            "METHOD:PUBLISHn\n",
+        ])
     with open("data.toml", "rb") as f:
         for entry in tomllib.load(f).values():
-            print("BEGIN:VEVENT\r\n", file=c, end='')
             date = entry['date'].strftime("%Y%m%d")
             time_begin = entry['date'].strftime("%H%M%S")
             time_end = (entry['date'] + hour).strftime("%H%M%S")
-            print(f"DTSTART;VALUE=DATE:{date}T{time_begin}\r\n", file=c, end='')
-            print(f"DTEND;VALUE=DATE:{date}T{time_end}\r\n", file=c, end='')
-            print(f"SUMMARY:{strip(entry['name'])} ({strip(entry['institution'])}), {strip(entry.get('title','TBA'))}\r\n", file=c, end='')
-            print(f"DESCRIPTION:{strip(entry.get('abstract','TBA'))}\r\n", file=c, end='')
-            print(f"UID:{strip(entry['name']).replace(' ', '')+date}@hertsmathphys.github.io\r\n", file=c, end='')
-            print(f"DTSTAMP:{stamp}\r\n", file=c, end='')
-            print("STATUS:CONFIRMED\r\nTRANSP:TRANSPARENT\r\nSEQUENCE:0\r\nEND:VEVENT\r\n", file=c, end='')
-    print("END:VCALENDAR\r\n", file=c, end='')
+
+            calendar_file.writelines([
+                "BEGIN:VEVENT\n",
+                f"DTSTART;VALUE=DATE:{date}T{time_begin}\n",
+                f"DTEND;VALUE=DATE:{date}T{time_end}\n",
+                f"SUMMARY:{strip(entry['name'])} ({strip(entry['institution'])}), {strip(entry.get('title','TBA'))}\n",
+                f"DESCRIPTION:{strip(entry.get('abstract', 'TBA'))}\n",
+                f"UID:{strip(entry['name']).replace(' ', '')+date}@hertsmathphys.github.io\n",
+                f"DTSTAMP:{stamp}\n"
+                "STATUS:CONFIRMED\n",
+                "TRANSP:TRANSPARENT\n",
+                "SEQUENCE:0\n",
+                "END:VEVENT\n",
+            ])
+
+        calendar_file.write("END:VCALENDAR\n")
 
 
 current_academic_year_start = datetime.datetime((n:=datetime.datetime.now()).year - (n.month < 7), month=7, day=1)
@@ -69,4 +82,7 @@ with open("data.toml", "rb") as f:
         )
 
 with open("index.html", "w") as f:
-    print(open("template.html", "r").read().replace("$current_year", current_year_entries).replace("$past_years", past_year_entries), file=f)
+    with open("template.html", "r") as template_file:
+        template = template_file.read()
+        index = template.replace("$current_year", current_year_entries).replace("$past_years", past_year_entries) + "\n"
+        f.write(index)
