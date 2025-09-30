@@ -1,6 +1,5 @@
 import tomllib
 import datetime
-import zoneinfo
 import re
 
 
@@ -21,8 +20,6 @@ def strip_html(html_string):
     return re.sub("<[^>]*>", "", html_string)
 
 
-localise = lambda d: datetime.datetime.combine(d.date(), d.time(), zoneinfo.ZoneInfo('Europe/London'))
-localise.__doc__ = "Add Europe/London time zone to datetime objects"
 hour = datetime.timedelta(hours=1)
 
 stamp = datetime.datetime.now().strftime("%Y%m%dT%H%M%SZ")
