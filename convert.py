@@ -16,9 +16,10 @@ def make_past_entry(date, name, institution, title, abstract):
     return (f"<details><summary>{summary}</summary>{abstract}</details>")
 
 
-strip = lambda s: re.sub("<[^>]*>", "", s)
+def strip_html(html_string):
+    """ Remove HTML tags from string """
+    return re.sub("<[^>]*>", "", html_string)
 
-strip.__doc__ = "Remove HTML tags from string"
 
 localise = lambda d: datetime.datetime.combine(d.date(), d.time(), zoneinfo.ZoneInfo('Europe/London'))
 localise.__doc__ = "Add Europe/London time zone to datetime objects"
@@ -43,9 +44,9 @@ with open("calendar.ics", "w") as calendar_file:
                 "BEGIN:VEVENT\n",
                 f"DTSTART;VALUE=DATE:{date}T{time_begin}\n",
                 f"DTEND;VALUE=DATE:{date}T{time_end}\n",
-                f"SUMMARY:{strip(entry['name'])} ({strip(entry['institution'])}), {strip(entry.get('title','TBA'))}\n",
-                f"DESCRIPTION:{strip(entry.get('abstract', 'TBA'))}\n",
-                f"UID:{strip(entry['name']).replace(' ', '')+date}@hertsmathphys.github.io\n",
+                f"SUMMARY:{strip_html(entry['name'])} ({strip_html(entry['institution'])}), {strip_html(entry.get('title','TBA'))}\n",
+                f"DESCRIPTION:{strip_html(entry.get('abstract', 'TBA'))}\n",
+                f"UID:{strip_html(entry['name']).replace(' ', '')+date}@hertsmathphys.github.io\n",
                 f"DTSTAMP:{stamp}\n"
                 "STATUS:CONFIRMED\n",
                 "TRANSP:TRANSPARENT\n",
