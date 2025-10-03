@@ -67,6 +67,7 @@ with open("data.toml", "rb") as f:
             entry.get('title', 'TBA'),
             entry.get('abstract', 'TBA')
         )
+        current_year_entries += "\n"
 
 past_year_entries = ""
 with open("data.toml", "rb") as f:
@@ -78,6 +79,7 @@ with open("data.toml", "rb") as f:
             entry.get('title', 'TBA'),
             entry.get('abstract', 'TBA')
         )
+        past_year_entries += "\n"
 
 with open("index.html", "w") as f:
     with open("template.html", "r") as template_file:
