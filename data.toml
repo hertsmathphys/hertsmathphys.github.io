@@ -632,11 +632,11 @@ abstract = "TBA"
 
 [e28]
 name = "Rishi Mouland"
-institution = "King’s College London"
+institution = "Imperial College London"
 date = 2025-10-08T13:00:00
 location = "B400"
-title = "TBA"
-abstract = "TBA"
+title = "Extremal Couplings and Gluons in AdS/CFT"
+abstract = "In AdS/CFT, extremal couplings induce a mixing between single- and double-trace operators. I will diagnose this mixing and compute it coefficient using the conformal block expansion of 4-point Witten diagrams involving extremal couplings. I will then study the simplest dual pair in which such couplings arise: 4d N=2 theories dual to AdS5 x S5 with some 7-branes. Summing a tower of extremal Witten diagrams provides the final piece of the gluon 4-point function to order 1/N^2."
 
 [e29]
 name = "Falk Hassler"
