@@ -643,8 +643,8 @@ name = "Falk Hassler"
 institution = "University of Wrocław"
 date = 2025-10-15T15:00:00
 location = "B404"
-title = "TBA"
-abstract = "TBA"
+title = "Strings, Membranes, and a Hidden Symmetry Algebra in Quantum Gravity"
+abstract = "Geometry underpins gravity, while the quantum world is governed by algebras of observables. In string theory, (super)gravity and its quantum corrections emerge from specific vibration modes of relativistic strings, described by vertex operator algebras in two-dimensional conformal field theories. However, the precise map between these two is highly non-trivial and is only known explicitly to the first orders in a perturbative expansion. I will reveal a new, infinite-dimensional symmetry algebra that at least reproduces the leading two orders of quantum corrections. Remarkably, it has the potential to evade a no-go theorem that rules out competing approaches to uncover hidden symmetries in supergravity beyond second-order corrections. Given that many of the algebraic structures encountered here have a natural generalization from strings to membranes, this suggests a similar approach to analyzing quantum corrections in 11-dimensional supergravity - the low-energy limit of M-theory. Beyond fundamental insights, these results have broad applications, including the construction of new supergravity solutions, the analysis of their spectrum, the computation of renormalization group flows in two-dimensional σ-models, and the study of integrable strings. A generalization of Cartan geometry is found on the mathematical side."
 
 [e30]
 name = "Ines Aniceto"
