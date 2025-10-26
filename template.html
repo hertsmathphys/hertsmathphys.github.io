@@ -99,6 +99,7 @@ iframe {
 </header>
 <main>
 <h2>Upcoming seminars for the academic year 2024/2025</h2>
+<div id="next-seminar"><h3>Next Seminar</h3></div>
 <iframe id="open-web-calendar" aria-label="calendar widget" 
     style="background:url('https://raw.githubusercontent.com/niccokunzmann/open-web-calendar/master/static/img/loaders/circular-loader.gif') center center no-repeat;"
     src="https://open-web-calendar.hosted.quelltext.eu/calendar.html?language=eo&amp;prefer_browser_language=true&amp;url=https%3A%2F%2Fhertsmathphys.github.io%2Fcalendar.ics"
@@ -108,5 +109,33 @@ $current_year
 <h2>Past years’ seminars</h2>
 $past_years
 </main>
+<script>
+  const today = new Date();
+  const yesterday = new Date(today);
+  yesterday.setDate(today.getDate() - 1);
+  const talks = [...document.querySelectorAll("details")];
+
+  const upcoming = talks.map(talk => {
+    const dateEl = talk.querySelector("time");
+    const isoDate = dateEl ? dateEl.getAttribute("datetime") : null;
+    return {
+      el: talk,
+      date: isoDate ? new Date(isoDate) : null
+    };
+  }).filter(t => t.date);
+
+
+  // Find the next upcoming talk
+  const nextTalk = upcoming
+    .filter(t => t.date >= yesterday)
+    .sort((a, b) => a.date - b.date)[0];
+
+  if (nextTalk) {
+    const container = document.getElementById("next-seminar");
+    container.appendChild(nextTalk.el.cloneNode(true));
+    nextTalk.el.style.outline = "4px solid rgba(2, 136, 209, 0.60)";
+    nextTalk.el.style.borderRadius = "6px";
+  }
+</script>
 </body>
 </html>
