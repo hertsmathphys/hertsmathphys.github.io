@@ -133,8 +133,9 @@ $past_years
   if (nextTalk) {
     const container = document.getElementById("next-seminar");
     container.appendChild(nextTalk.el.cloneNode(true));
-    nextTalk.el.style.outline = "4px solid rgba(2, 136, 209, 0.60)";
-    nextTalk.el.style.borderRadius = "6px";
+    nextSummary = nextTalk.el.querySelector("summary");
+    nextSummary.style.outline = "4px solid rgba(2, 136, 209, 0.60)";
+    nextSummary.style.borderRadius = "6px";
   }
 </script>
 </body>
