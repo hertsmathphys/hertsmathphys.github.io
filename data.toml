@@ -619,8 +619,8 @@ name = "Chettha Saelim"
 institution = "University of Surrey"
 date = 2025-11-19T15:00:00
 location = "B404"
-title = "TBA"
-abstract = "TBA"
+title = "Extremal Black Holes from Homotopy Algebras"
+abstract = "While strong uniqueness theorems hold for stationary, asymptotically flat black holes in four dimensions, the results break down in higher dimensions and when the asymptotically flat condition is relaxed. Nonetheless, there has been significant progress in classifying the near-horizon geometries of extremal black holes. Motivated by this, we start with near-horizon geometries, which are better understood, and deform them to obtain extremal black hole solutions.  We investigate whether a given near-horizon geometry uniquely corresponds to a black hole solution or if there are multiple black holes with the same near-horizon geometry. Our approach employs the homotopy algebraic framework, a powerful and increasingly influential framework in both classical and quantum field theory. Using homological perturbation theory, we recursively solve the deformation problem order by order. To illustrate the method, we present a concrete example of the deformation of the extremal Kerr horizon."
 
 [e27]
 name = "Chris White"
