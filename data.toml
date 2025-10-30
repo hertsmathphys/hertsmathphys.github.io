@@ -651,8 +651,11 @@ name = "Ines Aniceto"
 institution = "University of Southampton"
 date = 2025-11-05T15:00:00
 location = "B404"
-title = "TBA"
-abstract = "TBA"
+title = "Analytic approaches to the relativistic Boltzmann equation"
+abstract = """The emergence of a universal pre-hydrodynamic attractor behaviour during fluid thermalisation is an important feature in the study of ultra-relativistic nuclear collisions and cold atom experiments: highly non-hydrodynamic behaviour dictated by initial conditions quickly decays towards this attractor solution, with the resulting hydrodynamic system independent of the initial state.
+
+
+There are many approaches to study the emergence of this attractor. We will briefly review these approaches, then focusing on kinetic theory. Starting with the relativist Boltzmann equation in the so-called relaxation time approximation, we introduce a series of moments and their generating function, which we show solved a single PDE. We solve this PDE perturbatively for all moments, both in the small and large time approximations, and we then recover the free streaming and attractor regimes at each end via methods of analytic continuation."""
 
 [e31]
 name = "Jakub Opršal"
