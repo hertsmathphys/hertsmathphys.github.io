@@ -209,8 +209,6 @@ There are many approaches to study the emergence of this attractor. We will brie
 </main>
 <script>
   const today = new Date();
-  const yesterday = new Date(today);
-  yesterday.setDate(today.getDate() - 1);
   const talks = [...document.querySelectorAll("details")];
 
   const upcoming = talks.map(talk => {
@@ -225,7 +223,7 @@ There are many approaches to study the emergence of this attractor. We will brie
 
   // Find the next upcoming talk
   const nextTalk = upcoming
-    .filter(t => t.date >= yesterday)
+    .filter(t => t.date >= today)
     .sort((a, b) => a.date - b.date)[0];
 
   if (nextTalk) {
