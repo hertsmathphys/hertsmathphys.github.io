@@ -8,7 +8,13 @@ def make_current_entry(date, location, name, institution, title, abstract):
     coordinates = f"<coordinates>{time} - {location}</coordinates>"
     contents = f"<contents>{name} ({institution}): {title}</contents>"
     summary = f"<summary>{coordinates}{contents}</summary>"
-    return f"<details>{summary}<abstract>{abstract}</abstract></details>"
+    f_abstract = "\n".join(
+        map(
+            lambda paragraph: "<p>" + paragraph.strip() + "</>",
+            abstract.split("\n")
+        )
+    )
+    return f"<details>{summary}<abstract>{f_abstract}</abstract></details>"
 
 
 def make_past_entry(date, name, institution, title, abstract):
@@ -16,7 +22,13 @@ def make_past_entry(date, name, institution, title, abstract):
     coordinates = f"<coordinates>{time}</coordinates>"
     contents = f"<contents>{name} ({institution}): {title}</contents>"
     summary = f"<summary>{coordinates}{contents}</summary>"
-    return f"<details>{summary}<abstract>{abstract}</abstract></details>"
+    f_abstract = "\n".join(
+        map(
+            lambda paragraph: "<p>" + paragraph.strip() + "</>",
+            abstract.split("\n")
+        )
+    )
+    return f"<details>{summary}<abstract>{f_abstract}</abstract></details>"
 
 
 def strip_html(html_string):
