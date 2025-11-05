@@ -705,8 +705,17 @@ These issues greatly restrict the spacetimes that this action can be applied to.
 A new action is found that reduces to Sen’s in a certain limit but which has diffeomorphism symmetry together with further exotic symmetries and is background independent. As a result, it can be applied to any spacetime."""
 
 [e36]
-name = " Guillermo Arias-Tamargo"
+name = "Guillermo Arias-Tamargo"
 institution = "Imperial College London"
 date = 2025-11-12T15:00:00
 location = "B404"
 title = "TBA"
+abstract = "TBA"
+
+[e37]
+name = "Joseph Smith"
+institution = "University of Birmingham"
+date = 2026-02-11T15:00:00
+location = "B404"
+title = "TBA"
+abstract = "TBA"
