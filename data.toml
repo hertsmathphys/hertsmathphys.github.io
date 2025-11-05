@@ -625,7 +625,7 @@ abstract = "While strong uniqueness theorems hold for stationary, asymptotically
 [e27]
 name = "Chris White"
 institution = "Queen Mary University of London"
-date = 2025-11-12T15:00:00
+date = 2025-12-03T15:00:00
 location = "B404"
 title = "The magic of scattering amplitudes"
 abstract = "In recent years, a growing community of researchers have been applying ideas from Quantum Information / Computing theory to high energy physics. Entanglement is one such quantity, but there are by now many others. This talk will examine the property of “magic” (also known as “non-stabliserness”) which, roughly speaking, measures whether quantum systems have a genuine computational advantage over their classical counterparts. I will review the origin of this concept, before describing recent applications from both collider physics and scattering amplitudes research. No prior knowledge of quantum computing will be assumed."
