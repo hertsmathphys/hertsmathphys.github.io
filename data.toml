@@ -659,7 +659,7 @@ There are many approaches to study the emergence of this attractor. We will brie
 [e31]
 name = "Jakub Opršal"
 institution = "University of Birmingham"
-date = 2025-12-03T15:00:00
+date = 2025-12-10T15:00:00
 location = "B404"
 title = "A topological proof of the <math><mi>H</mi></math>-colouring dichotomy"
 abstract = """A colouring of a graph with <math><mi>k</mi></math> colours is an assignment of colours to vertices so that no edge is monochromatic. As it is well-known colouring with 2 colours is in P while colouring with <math><mi>k &gt; 2</mi></math> colours is NP-complete. This dichotomy was extended to the <it>graph homomorphism problem</it>, also called <math><mi>H</mi></math>-colouring, by Hell and Nešetřil [J. Comb. Theory B, 48(1):92-110, 1990]. More precisely, they proved that deciding whether there is a graph homomorphism from a given graph to a fixed graph <math><mi>H</mi></math> is in P if <math><mi>H</mi></math> is bipartite (or contains a self-loop), and is NP-complete otherwise. This dichotomy served as an important test-case for the Feder–Vardi dichotomy conjecture, and Bulatov–Zhuk dichotomy of complexity of finite-template CSPs.
