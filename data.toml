@@ -719,3 +719,11 @@ date = 2026-02-11T15:00:00
 location = "B404"
 title = "TBA"
 abstract = "TBA"
+
+[e38]
+name = "Yan Peresse"
+institution = "University of Hertfordshire"
+date = 2026-01-09T15:00:00
+location = "TBA"
+title = "TBA"
+abstract = "TBA"
