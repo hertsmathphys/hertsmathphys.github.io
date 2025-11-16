@@ -736,10 +736,18 @@ location = "B404"
 title = "TBA"
 abstract = "TBA"
 
-[e39]
+[e40]
 name = "Silvia Butti"
 institution = "King's College London"
 date = 2026-01-28T15:00:00
+location = "B404"
+title = "TBA"
+abstract = "TBA"
+
+[e41]
+name = "Filippo Revello"
+institution = "KU Leuven"
+date = 2026-03-11T15:00:00
 location = "B404"
 title = "TBA"
 abstract = "TBA"
