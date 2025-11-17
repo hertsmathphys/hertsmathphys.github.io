@@ -731,7 +731,7 @@ abstract = "TBA"
 [e39]
 name = "Rowan Wright"
 institution = "University of Southampton"
-date = 2026-01-14T15:00:00
+date = 2026-01-21T15:00:00
 location = "B404"
 title = "TBA"
 abstract = "TBA"
@@ -764,6 +764,14 @@ abstract = "TBA"
 name = "Devon Stockall"
 institution = "University of Southern Denmark"
 date = 2026-02-04T15:00:00
+location = "B404"
+title = "TBA"
+abstract = "TBA"
+
+[e44]
+name = "João Faria Martins"
+institution = "University of Leeds"
+date = 2026-01-14T15:00:00
 location = "B404"
 title = "TBA"
 abstract = "TBA"
