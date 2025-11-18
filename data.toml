@@ -611,8 +611,8 @@ name = "Ben Gripaios"
 institution = "University of Cambridge"
 date = 2025-11-26T15:00:00
 location = "B404"
-title = "TBA"
-abstract = "TBA"
+title = "Varieties of gauge theories"
+abstract = "I will describe the use of methods of arithmetic geometry to find gauge theories in 4 dimensions that are free of anomalies. In many cases, it is possible to find all such theories."
 
 [e26]
 name = "Chettha Saelim"
