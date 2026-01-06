@@ -725,8 +725,16 @@ name = "Yann Peresse"
 institution = "University of Hertfordshire"
 date = 2026-01-09T15:00:00
 location = "E350"
-title = "TBA"
-abstract = "TBA"
+title = "Semigroups Of Generalised Symmetries"
+abstract = """Symmetry is a recurring concept in both Science and Art. Upon hearing the term, one initially tends to think of rotations and reflections found in Geometry. However, if we recall that, formally, the symmetries of a geometric shape <math><mi>X</mi></math> are just the distance preserving bijections <math><mi>f</mi><mo>:</mo><mi>X</mi> <mo>&rarr;</mo> <mi>X</mi></math>, then we see that this idea naturally generalises from Geometry to virtually all areas of Mathematics: The symmetries of any kind of mathematical object <math><mi>X</mi></math> are the bijections <math><mi>f</mi><mo>:</mo><mi>X</mi> <mo>&rarr;</mo> <mi>X</mi></math> which preserve the structure of <math><mi>X</mi></math>.
+
+For example, the symmetries of a graph, group, or vector space are its automorphisms and the symmetries of a topological space its homeomorphisms. In each case, the symmetries of <math><mi>X</mi></math> form a subgroup of the symmetric group <math><mo>Sym</mo><mo>(</mo><mi>X</mi><mo>)</mo></math> of all permutations of <math><mi>X</mi></math>. By Cayley's Theorem, all groups are isomorphic to subgroups of symmetric groups, and so Group Theory is essentially the study of symmetries.
+
+There are two widely-studied and natural generalisations of the concept of symmetry above which correspond to generalisations of groups to semigroups and inverse semigroups, respectively. First, one might drop the requirement that symmetries need to be invertible. For example, one might consider all continuous transformations of some topological space <math><mi>X</mi></math>. This takes us from subgroups of <math><mo>Sym</mo><mo>(</mo><mi>X</mi><mo>)</mo></math> to subsemigroups of the <i>Full Transformation Monoid</i> <math><mi>X</mi><mo><sup></mo><mi>X</mi></sup></math> of all functions from <math><mi>X</mi></math> to <math><mi>X</mi></math>.
+
+Alternatively, one might be interested not just in the symmetries of the whole structure <math><mi>X</mi></math>, but also in partial symmetries, i.e. symmetries between substructures of <math><mi>X</mi></math>. This approach takes us to studying inverse subsemigroups of the <i>Symmetric Inverse Monoid</i> <math><mi>I</mi><sub><mi>X</mi></sub></math> consisting of all bijections between subsets of <math><mi>X</mi></math>.
+
+In this talk, we will consider <math><mo>Sym</mo><mo>(</mo><mi>X</mi><mo>)</mo></math>, <math><mi>X</mi><mo><sup></mo><mi>X</mi></sup></math>, and <math><mi>I</mi><sub><mi>X</mi></sub></math> on an infinite set <math><mi>X</mi></math>. I will present a variety of results which highlight the connections between semigroups (including groups and inverse semigroups) on the one hand and Set Theory, Model Theory, and Topology on the other. No previous knowledge of Semigroup Theory will be assumed."""
 
 [e39]
 name = "Rowan Wright"
