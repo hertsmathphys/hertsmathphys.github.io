@@ -751,8 +751,9 @@ name = "Silvia Butti"
 institution = "King's College London"
 date = 2026-01-28T15:00:00
 location = "B404"
-title = "TBA"
-abstract = "TBA"
+title = "Optimal Inapproximability of Promise Equations over Finite Groups"
+abstract = """A celebrated result of  Håstad established that, for any constant ε>0, it is NP-hard to find an assignment satisfying a (1/|G|+ε)-fraction of the constraints of a given 3-LIN instance over an Abelian group G even if one is promised that an assignment satisfying a (1−ε)-fraction of the constraints exists. Engebretsen, Holmerin, and Russell showed the same result for 3-LIN instances over any finite (not necessarily Abelian) group. In other words, for almost-satisfiable instances of 3-LIN the random assignment achieves an optimal approximation guarantee. In this talk, I will talk about a recent result showing that the random assignment algorithm is still best possible under a stronger promise that the 3-LIN instance is almost satisfiable over an arbitrarily more restrictive group.
+Joint work with Alberto Larrauri and Stanislav Živný."""
 
 [e41]
 name = "Filippo Revello"
