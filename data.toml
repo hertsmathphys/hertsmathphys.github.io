@@ -802,8 +802,13 @@ name = "Jonah Stalknecht"
 institution = "Charles University"
 date = 2026-02-04T16:00:00
 location = "B404"
-title = "TBA"
-abstract = "TBA"
+title = "Positive Geometry for Stringy Scalar Amplitudes"
+abstract = """The KLT double copy relates open string amplitudes to closed string amplitudes, which provides the string-theoretic version of the more familiar relation Gravity=(Yang-Mills)^2. This relation is mediated by the KLT Kernel. In field theory, this kernel is well-studied, and it is the inverse of a matrix of amplitudes in bi-adjoint scalar theory (BAS). These amplitudes have been central in many recent advances in the field of scattering amplitudes. Crucially, it is known that these amplitudes have a completely geometric description in terms of the ABHY associahedron.
+
+By contrast, much less is known about the string theory KLT kernel. Its inverse defines some α'-completion of BAS amplitudes, and exhibits intrinsically stringy properties. In this talk, I will show that these 'stringy BAS' amplitudes also admit a description from positive geometry. We will see how the stringy features emerge from this geometric description. Furthermore, I will argue that this geometry also contains all pion amplitudes in the Non-Linear Sigma Model, as well as mixed pion/BAS amplitudes. This gives us a first glimpse into how the positive geometry framework can be used to capture truly stringy features, and can be extended beyond the realm of rational functions.
+
+Based on: <a href="https://journals.aps.org/prl/abstract/10.1103/lb5l-twsb">Phys.Rev.Lett. 136 (2026) 1, 011601</a> and <a href="https://arxiv.org/abs/2508.20161">Arxiv: 2508.20161</a>
+"""
 
 
 [e47]
