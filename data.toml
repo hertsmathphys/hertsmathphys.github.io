@@ -816,8 +816,12 @@ name = "Alex Fink"
 institution = "Queen Mary University of London"
 date = 2026-02-18T15:00:00
 location = "B404"
-title = "TBA"
-abstract = "TBA"
+title = "Matroid subdivisions"
+abstract = """One of the dozens of pieces of data one can use to define a matroid is its <em>base polytope</em>, the convex hull of the zero-one vectors encoding the bases. A <em>matroid subdivision</em> is a way to subdivide a matroid polytope into other matroid polytopes. I've been studying matroid subdivisions since my PhD. I suppose I should mention my most recent work on them, with Andy Berget and with Chris Eur and Matt Larson, giving two proofs of a 2005 conjecture of Speyer on the maximal number of cells in a matroid subdivision.
+
+Matroid subdivisions that are obtained by projection from a polytope one dimension larger are in bijection with linear spaces in tropical geometry. More special yet, if <math><mi>K</mi></math> is a field with a non-Archimedean valuation and we have a linear subspace of <math><mi>K</mi><sup><mi>n</mi></sup>, then by applying the valuation to all maximal minors of the associated matrix, we get a matroid subdivision. The parameter spaces for these two constructions are called the <em>Dressian</em> and the <em>tropical Grassmannian</em>.
+
+The Dressian is strictly bigger than the tropical Grassmannian, and both are hard to explicitly compute; even constructing matroid subdivisions in other ways than by applying a valuation is hard. What's remarkable is that both spaces have a "totally positive" part, and the totally positive parts exactly agree. I'm aware the totally positive tropical Grassmannian is of interest in physics due to connections to amplitudes, and I can say a few things I understand to be of interest there (from conversations with Nick Early), but I'm sure you can tell me more!"""
 
 [e48]
 name = "Mariana Carrillo Gonzalez"
