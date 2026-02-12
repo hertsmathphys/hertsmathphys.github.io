@@ -680,7 +680,7 @@ institution = "King's College London"
 date = 2025-10-29T15:00:00
 location = "B404"
 title = "Quantum and Classical Properties of the Sen Acton for Self-Dual Fields"
-abstract = "Sen has proposed a novel action for self-dual fields that has been generalised by Hull to include two metrics. The resulting theory has many novel features including two independent diffeomorphism-like symmetries. Furthermore the action is quadratic in the fields and as a result the path-integral can be can be computed. We will discuss various aspect of this theory in two-dimensions such as the partition function and  modular invariance."
+abstract = "Sen has proposed a novel action for self-dual fields that has been generalised by Hull to include two metrics. The resulting theory has many novel features including two independent diffeomorphism-like symmetries. Furthermore the action is quadratic in the fields and as a result the path-integral can be can be computed. We will discuss various aspect of this theory in two-dimensions such as the partition function and  modular invariance. <a href='2025-10-29-Lambert.pdf'>(slides)</a>"
 
 [e34]
 name = "Mateo Galdeano"
