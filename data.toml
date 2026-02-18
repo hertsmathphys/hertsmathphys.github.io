@@ -734,7 +734,7 @@ There are two widely-studied and natural generalisations of the concept of symme
 
 Alternatively, one might be interested not just in the symmetries of the whole structure <math><mi>X</mi></math>, but also in partial symmetries, i.e. symmetries between substructures of <math><mi>X</mi></math>. This approach takes us to studying inverse subsemigroups of the <i>Symmetric Inverse Monoid</i> <math><mi>I</mi><sub><mi>X</mi></sub></math> consisting of all bijections between subsets of <math><mi>X</mi></math>.
 
-In this talk, we will consider <math><mo>Sym</mo><mo>(</mo><mi>X</mi><mo>)</mo></math>, <math><mi>X</mi><mo><sup></mo><mi>X</mi></sup></math>, and <math><mi>I</mi><sub><mi>X</mi></sub></math> on an infinite set <math><mi>X</mi></math>. I will present a variety of results which highlight the connections between semigroups (including groups and inverse semigroups) on the one hand and Set Theory, Model Theory, and Topology on the other. No previous knowledge of Semigroup Theory will be assumed."""
+In this talk, we will consider <math><mo>Sym</mo><mo>(</mo><mi>X</mi><mo>)</mo></math>, <math><mi>X</mi><mo><sup></mo><mi>X</mi></sup></math>, and <math><mi>I</mi><sub><mi>X</mi></sub></math> on an infinite set <math><mi>X</mi></math>. I will present a variety of results which highlight the connections between semigroups (including groups and inverse semigroups) on the one hand and Set Theory, Model Theory, and Topology on the other. No previous knowledge of Semigroup Theory will be assumed. <a href='2026-01-09-Peresse.pdf'>(slides)</a>"""
 
 [e39]
 name = "Rowan Wright"
