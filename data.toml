@@ -794,8 +794,9 @@ name = "Cyril Closset"
 institution = "University of Birmingham"
 date = 2026-02-25T15:00:00
 location = "B404"
-title = "TBA"
-abstract = "TBA"
+title = "Supersymmetric Quantum Mechanics, Defects and Quantum K-theory"
+abstract = """I will present two recent results about supersymmetric quantum mechanics with 2 supercharges (1d N=2). First, I will explain new Seiberg-like dualities between 1d SQCD-like theories, which are distinct 1d gauge theories with the same supersymmetric ground states. Then I will discuss the coupling of 1d N=2 quivers to 3d N=2 gauge theories in the context of the GLSM/Quantum K-theory correspondence, explaining how such line defects engineer interesting objects (the so-called Schubert classes) in the quantum K-theory of partial flag varieties.
+"""
 
 [e46]
 name = "Jonah Stalknecht"
