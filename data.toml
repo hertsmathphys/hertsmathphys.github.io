@@ -744,7 +744,7 @@ location = "B404"
 title = " Correlators of multiple light-like Wilson loops in N=4 supersymmetric Yang-Mills theory"
 abstract = """Planar scattering amplitudes in N=4 super Yang-Mills theory are famously dual to the expectation values of null polygonal Wilson loops, and there has been much recent interest in studying closely related objects, such as a Wilson loop with a Lagrangian operator insertion. 
 
-After presenting some motivation for studying such objects and reviewing amplitude-Wilson loop duality, I will present evidence that much of the same mathematical structure is also enjoyed by correlators of multiple loop operators. This includes very natural generalisations of the Q-bar equation and BCFW recursion relations, and expressions for one-loop leading singularities in terms of tree-level objects."""
+After presenting some motivation for studying such objects and reviewing amplitude-Wilson loop duality, I will present evidence that much of the same mathematical structure is also enjoyed by correlators of multiple loop operators. This includes very natural generalisations of the Q-bar equation and BCFW recursion relations, and expressions for one-loop leading singularities in terms of tree-level objects. <a href='2026-01-21-Wright.pdf'>(slides)</a>"""
 
 [e40]
 name = "Silvia Butti"
