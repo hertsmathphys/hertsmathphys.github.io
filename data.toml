@@ -776,8 +776,8 @@ name = "Devon Stockall"
 institution = "University of Southern Denmark"
 date = 2026-03-04T15:00:00
 location = "B404"
-title = "TBA"
-abstract = "TBA"
+title = "Continuous categorical gauging and symmetry breaking"
+abstract = """In the case of finite group G, the symmetries of 2d G gauge theories can be obtained using fusion categories and "higher representation-theoretic" methods.  However, gauge theories that appear in physics make use of Lie group symmetry.  In this talk, I will give a dictionary between gauge theory and category theory, and show how the fusion-categorical approach to gauge theory can be extended to recover the symmetries of flat continuous gauge theories in arbitrary dimension."""
 
 [e44]
 name = "João Faria Martins"
