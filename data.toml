@@ -856,3 +856,12 @@ date = 2026-03-25T15:00:00
 location = "B404"
 title = "TBA"
 abstract = "TBA"
+
+[e52]
+name = "Surya Raghavendran"
+institution = "Yale University"
+date = 2026-03-12T15:00:00
+location = "TBA"
+title = "TBA"
+abstract = "TBA"
+
