@@ -862,6 +862,6 @@ name = "Surya Raghavendran"
 institution = "Yale University"
 date = 2026-03-12T15:00:00
 location = "LF231"
-title = "TBA"
-abstract = "TBA"
+title = "Twisted D-branes and TQFTs valued in Calabi-Yau categories"
+abstract = "Recently, Bozec–Calaque–Scherotzke have articulated a noncommutative version of the AKSZ construction, which associates to a smooth Calabi–Yau category, a fully extended TQFT valued in a category of iterated Calabi–Yau cospans. In this talk, I will study a class of examples of such theories which arise in the context of conjectures of Costello and Li, which describe Type II strings in certain Ramond–Ramond backgrounds as topological strings. These TQFTs capture structural features of the BPS physics of D-branes that are universal in Chan–Paton factors. Conjecturally commutative limits of the values of such theories on closed manifolds can sometimes be geometrically quantized to yield algebraic structures with Hall-type products. Examples of this paradigm include CoHAs associated to complex 3-folds, CoHAs attached to local systems on 3-manifolds, and the categorified Hall algebras of Porta–Sala."
 
