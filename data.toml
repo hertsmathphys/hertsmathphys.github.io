@@ -768,8 +768,13 @@ name = "Xenia De La Ossa"
 institution = "University of Oxford"
 date = 2026-03-18T15:00:00
 location = "B404"
-title = "TBA"
-abstract = "TBA"
+title = "Periods, arithmetic and the Hodge structure of Calabi-Yau manifolds"
+abstract = """It is well known to mathematicians that there is a deep relationship between the arithmetic of algebraic varieties and their geometry.  
+These areas of mathematics have a fascinating connection with physical theories and vice versa.  Examples include Feynman graphs and black hole physics.  There are very many relationships however I will focus on the structure of black hole solutions of superstring theories on Calabi-Yau manifolds. 
+
+The main quantities of interest in the arithmetic context are the numbers of points of the variety, considered as varieties over finite fields, and how these numbers vary with the parameters of the varieties. The generating function for these numbers is the zeta function, about which much is known in virtue of the Weil conjectures. The first surprise, for a physicist, is that the numbers of these points, and so the zeta function, are given by expressions that involve the periods of the manifold.  These same periods determine also many aspects of the physical theory, including the properties of black hole solutions. 
+
+I will discuss a number of interesting topics related to the zeta function, the corresponding L-function, and the appearance of modularity for one parameter families of Calabi-Yau manifolds. I will focus on an example for which the quartic numerator of the zeta function of a one parameter family factorises into two quadrics at special values of the parameter. These special values, for which the underlying manifold is smooth, satisfy an algebraic equation with coefficients in Q, so independent of any particular prime.  The significance of these factorisations is that they are due to the existence of black hole attractor points in the sense of type II supergravity which predict the splitting of the Hodge structure over Q at these special values of the parameter.  Modular groups and modular forms arise in relation to these attractor points, in a way that is familiar to mathematicians as a consequence of the Langland’s Program, but which is a surprise to a physicist.  To our knowledge, the rank two attractor points that were  found together with Mohamed  Elmi and Duco van Straten by the application of  number theoretic techniques, provide the first explicit examples of such attractor points for Calabi-Yau manifolds."""
 
 [e43]
 name = "Devon Stockall"
