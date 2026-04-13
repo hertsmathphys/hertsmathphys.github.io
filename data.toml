@@ -851,8 +851,8 @@ name = "Kristina Asimi"
 institution = "Durham University"
 date = 2026-04-22T15:00:00
 location = "B404"
-title = "TBA"
-abstract = "TBA"
+title = "Quantified Constraint Satisfaction Problem and H-Free Algorithmics"
+abstract = "Let G be a graph, i.e., a relational structure with a single symmetric binary relation. The quantified constraint satisfaction problem, QCSP(G), asks whether some input sentence, whose quantifier-free part is positive conjunctive (i.e. a conjunction of positive atoms), is true on G. Each input sentence is associated with a graph, and we investigate the complexity of QCSP when certain substructures are forbidden in the input graph."
 
 [e51]
 name = "Paula Pilatus"
