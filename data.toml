@@ -876,5 +876,5 @@ name = "Piotr Kucharski"
 institution = "University of Warsaw"
 date = 2026-04-23T15:00:00
 location = "B160"
-title = "TBA"
-abstract = "TBA"
+title = "Quivers and BPS states in 3d and 4d"
+abstract = "The knot-quiver correspondence provided a picture of BPS state counts in 3d N=2 theories associated to symmetric quivers. On the other hand, we have another, well established construction of BPS states in 4d N=2 theories which also correspond to quivers, but not symmetric ones. In this talk I will give an answer for an obvious and long-standing question about the relation between these two perspectives."
