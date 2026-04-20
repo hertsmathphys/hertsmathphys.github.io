@@ -878,3 +878,11 @@ date = 2026-04-23T15:00:00
 location = "B160"
 title = "Quivers and BPS states in 3d and 4d"
 abstract = "The knot-quiver correspondence provided a picture of BPS state counts in 3d N=2 theories associated to symmetric quivers. On the other hand, we have another, well established construction of BPS states in 4d N=2 theories which also correspond to quivers, but not symmetric ones. In this talk I will give an answer for an obvious and long-standing question about the relation between these two perspectives."
+
+[e54]
+name = "CASE 2026, a pre-Amplitudes meeting"
+institution = "University of Hertfordshire"
+date = 2026-05-05T10:00:00
+location = "SP1004"
+title = "<a href='https://case2026.com/'>CASE 2026, a pre-Amplitudes meeting</a>" 
+abstract = """<b>Correlators and Amplitudes in the South East 2026</b> is a postgraduate meeting funded by the graduate school of the South East Physics Network (GRADnet). The goal is to bring together early-career researchers interested in correlators, scattering amplitudes and related areas of mathematical and theoretical physics. Everyone is welcome to give their contribution with a talk (20 to 30 minutes long) or a poster. We would like to create a friendly and informal environment where you can exchange ideas, discuss ongoing work, and build connections within the community. The meeting should also provide a good opportunity for people working in related areas to know each other ahead of Amplitudes 2026, which will take place at the end of June in Queen Mary University of London. The meeting will also feature one or two senior speakers TBD."""" 
