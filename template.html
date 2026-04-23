@@ -124,11 +124,18 @@ $past_years
     };
   }).filter(t => t.date);
 
-
   // Find the next upcoming talk
-  const nextTalk = upcoming
+  let nextTalk = upcoming
     .filter(t => t.date >= yesterday)
     .sort((a, b) => a.date - b.date)[0];
+
+  // Find if talk is scheduled for today (possible different from the one found before)
+  const todaysTalk = upcoming
+    .filter(t => t.date.getFullYear() === today.getFullYear() & t.date.getMonth() === today.getMonth() & t.date.getDate() == today.getDate())
+
+  if (todaysTalk.length > 0) {
+    nextTalk = todaysTalk[0]
+  }
 
   if (nextTalk) {
     const container = document.getElementById("next-seminar");
