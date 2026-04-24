@@ -843,8 +843,10 @@ name = "Jan Steinebrunner"
 institution = "University of Cambridge"
 date = 2026-04-29T15:00:00
 location = "B404"
-title = "TBA"
-abstract = "TBA"
+title = "Open-closed 2D topological field theories"
+abstract = """I will give an introduction to functorial 2-dimensional topological field theories (TFTs), starting with the classical result that closed 2D TFTs valued in vector spaces are commutative Frobenius algebras. Along the way, I will indicate higher categorical generalisations, such as how taking values in linear categories one arrives at a notion of a modular functor. In these higher categorical or derived settings, it is generally difficult to fully classify TFTs, but one can still extract interesting data such as representations of mapping class groups.
+
+Open-closed 2D TFTs are a generalisation where one allows surfaces with corners, and they offer a way of constructing closed 2D TFTs. In recent work with Barkan and Zhang, we classify open 2D TFTs and show that every open 2D TFT admits a canonical extension to an open-closed one. I will explain this statement and some of the ingredients that go into its proof."""
 
 [e50]
 name = "Kristina Asimi"
