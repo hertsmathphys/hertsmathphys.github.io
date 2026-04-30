@@ -10,7 +10,7 @@ def make_current_entry(date, location, name, institution, title, abstract):
     summary = f"<summary>{coordinates}{contents}</summary>"
     f_abstract = "\n".join(
         map(
-            lambda paragraph: "<p>" + paragraph.strip() + "</>",
+            lambda paragraph: "<p>" + paragraph.strip() + "</p>",
             abstract.split("\n")
         )
     )
@@ -24,7 +24,7 @@ def make_past_entry(date, name, institution, title, abstract):
     summary = f"<summary>{coordinates}{contents}</summary>"
     f_abstract = "\n".join(
         map(
-            lambda paragraph: "<p>" + paragraph.strip() + "</>",
+            lambda paragraph: "<p>" + paragraph.strip() + "</p>",
             abstract.split("\n")
         )
     )
