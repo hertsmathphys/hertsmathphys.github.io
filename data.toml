@@ -990,3 +990,64 @@ date = 2026-06-10T15:00:00
 location = "TBA"
 title = "TBA"
 abstract = "TBA"
+
+[e57]
+name = "2nd MTP Research Day"
+institution = "University of Hertfordshire"
+date = 2026-05-12T11:00:00
+location = "SP3006"
+title = "<a href='https://sites.google.com/view/severinbunk/organisation/mtp-research-day-12052026'>Schedule</a>"
+abstract = """
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Speaker</th>
+      <th>Title</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>11:00–11:35</td>
+      <td>Julian Kupka</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11:35–12:10</td>
+      <td>Stephen Kane</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="3"><strong>Lunch break</strong></td>
+    </tr>
+    <tr>
+      <td>13:10–13:45</td>
+      <td>Hyungrok Kim</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>13:45–14:20</td>
+      <td>Yaoqi Zhang</td>
+      <td>To ^2 or not to ^2: A journey from Amplitude to Amplitude^2</td>
+    </tr>
+    <tr>
+      <td>14:20–14:55</td>
+      <td>Severin Bunk</td>
+      <td>Towards bordism categories with topological defects</td>
+    </tr>
+    <tr>
+      <td colspan="3"><strong>Refreshments break</strong></td>
+    </tr>
+    <tr>
+      <td>15:35–16:10</td>
+      <td>Andres Klene</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>16:10–16:45</td>
+      <td>William Luciani</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+"""
