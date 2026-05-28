@@ -980,8 +980,8 @@ name = "Owen Gwilliam"
 institution = "University of Massachusetts"
 date = 2026-06-03T15:00:00
 location = "B160"
-title = "TBA"
-abstract = "TBA"
+title = "Locality for compactly supported mapping spaces"
+abstract = "We will examine what can be said about compactly supported maps into a pointed space, a question raised by Graeme Segal in exploring the locality of quantum field theory. The nonabelian Poincare duality theorem of Salvatore, Lurie, and Ayala-Francis, building on work of Segal, offers a partial answer to this question via factorization homology. We will describe work in progress with David Ayala in which we introduce novel Grothendieck topologies, offer a natural generalization of factorization homology, and give a clean answer to Segal's question. This topic has close connections with generalized global symmetries in quantum field theory and with the factorization algebra technology used in the geometric Langlands program, as we hope to explain."
 
 [e56]
 name = "Richard Szabo"
