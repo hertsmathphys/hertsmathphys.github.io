@@ -1057,6 +1057,6 @@ abstract = """
 name = "Sara Zeko"
 institution = "Ruđer Bošković Institute"
 date = 2026-06-17T15:00:00
-location = "TBA"
+location = "B160"
 title = "From Galilei to Carroll:  The Times They Are a-Changin'"
 abstract = """Recently, non-Lorentzian, i. e., nonrelativistic (Galilean) and ultrarelativistic (Carrollian), limits have attracted attention as decoupling limits of string and M-theory. In this talk, we argue that Galilean and Carrollian limits are, against common belief, closely related, and can be dealt with in a unifying manner. This allows one to show that properties of Galilean symmetries can be extended to Carrollian symmetries, as we will illustrate by focusing on particle toy models. In particular, we will show that there exist Carrollian counterparts of the facts that the Galilei algebra can be centrally extended to the Bargmann algebra, and that there exists a corresponding particle action. We will interpret our results in the context of decoupling limits of string theory and its timelike T-duals à la Hull."""
