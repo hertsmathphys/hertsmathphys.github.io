@@ -85,17 +85,19 @@ with open("data.toml", "rb") as f:
         )
         current_year_entries += "\n"
 
-past_year_entries = ""
+entries_by_year = dict()
 with open("data.toml", "rb") as f:
     for entry in filter(lambda e: e['date'] < current_academic_year_start, sorted(tomllib.load(f).values(), key=lambda e: e['date'], reverse=True)):
-        past_year_entries += make_past_entry(
+        entry_year = entry['date'].year
+        entries_by_year[entry_year] = entries_by_year.get(entry_year, "") + make_past_entry(
             entry['date'],
             entry['name'],
             entry['institution'],
             entry.get('title', 'TBA'),
             entry.get('abstract', 'TBA')
-        )
-        past_year_entries += "\n"
+        ) + "\n"
+
+past_year_entries = "\n".join(map(lambda e: f"<h2>{e[0]}:</h2>\n{e[1]}", entries_by_year.items()))
 
 with open("index.html", "w") as f:
     with open("template.html", "r") as template_file:
