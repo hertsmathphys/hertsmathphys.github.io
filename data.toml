@@ -1065,7 +1065,7 @@ abstract = """Recently, non-Lorentzian, i. e., nonrelativistic (Galilean) and ul
 name = "Fridrich Valach"
 institution = "Charles University"
 date = 2026-10-07T15:00:00
-location = "TBA"
+location = "C408"
 title = "TBA"
 abstract = "TBA"
 
@@ -1073,7 +1073,7 @@ abstract = "TBA"
 name = "Rhiannon Savage"
 institution = "University College London"
 date = 2026-10-21T15:00:00
-location = "TBA"
+location = "C408"
 title = "TBA"
 abstract = "TBA"
 
@@ -1081,7 +1081,7 @@ abstract = "TBA"
 name = "Alex Turzillo"
 institution = "University of Cambridge"
 date = 2026-11-18T15:00:00
-location = "TBA"
+location = "C408"
 title = "TBA"
 abstract = "TBA"
 
@@ -1089,7 +1089,7 @@ abstract = "TBA"
 name = "Milena Weiershausen"
 institution = "University of Göttingen"
 date = 2026-11-11T15:00:00
-location = "TBA"
+location = "C408"
 title = "TBA"
 abstract = "TBA"
 
@@ -1097,7 +1097,7 @@ abstract = "TBA"
 name = "Ulrich Pennig"
 institution = "University of Cardiff"
 date = 2026-11-25T15:00:00
-location = "TBA"
+location = "C408"
 title = "TBA"
 abstract = "TBA"
 
@@ -1105,6 +1105,6 @@ abstract = "TBA"
 name = "Joel Day"
 institution = "Loughborough University"
 date = 2026-12-16T15:00:00
-location = "TBA"
+location = "C408"
 title = "TBA"
 abstract = "TBA"
