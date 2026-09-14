@@ -1141,3 +1141,11 @@ date = 2026-10-14T15:00:00
 location = "C408"
 title = "TBA"
 abstract = "TBA"
+
+[e69]
+name = "Caleb Jonker"
+institution = "Charles University"
+date = 2026-10-08T15:00:00
+location = "TBA"
+title = "TBA"
+abstract = "TBA"
