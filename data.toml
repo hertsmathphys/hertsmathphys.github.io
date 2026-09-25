@@ -1101,6 +1101,14 @@ location = "C408"
 title = "TBA"
 abstract = "TBA"
 
+[e63a]
+name = "Martin Wolf"
+institution = "University of Surrey"
+date = 2026-11-25T13:00:00
+location = "TBA"
+title = "TBA"
+abstract = "TBA"
+
 [e64]
 name = "Joel Day"
 institution = "Loughborough University"
