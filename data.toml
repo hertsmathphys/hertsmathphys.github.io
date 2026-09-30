@@ -1065,7 +1065,7 @@ abstract = """Recently, non-Lorentzian, i. e., nonrelativistic (Galilean) and ul
 name = "Fridrich Valach"
 institution = "Charles University"
 date = 2026-10-07T16:00:00
-location = "TBA"
+location = "C408"
 title = "TBA"
 abstract = "TBA"
 
@@ -1130,7 +1130,7 @@ abstract = "TBA"
 name = "José Figuera-O'Farill"
 institution = "University of Edinburgh"
 date = 2026-10-28T16:00:00
-location = "TBA"
+location = "C408"
 title = "TBA"
 abstract = "TBA"
 
@@ -1154,6 +1154,6 @@ abstract = "TBA"
 name = "Caleb Jonker"
 institution = "Charles University"
 date = 2026-10-08T13:00:00
-location = "TBA"
+location = "C152"
 title = "TBA"
 abstract = "TBA"
