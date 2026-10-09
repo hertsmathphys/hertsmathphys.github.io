@@ -1147,8 +1147,8 @@ name = "Mattia Arundine"
 institution = "University of Amsterdam"
 date = 2026-10-14T15:00:00
 location = "C408"
-title = "TBA"
-abstract = "TBA"
+title = "Yang-Mills Correlators in the Cosmological Grassmannian"
+abstract = "In this talk, I will introduce the orthogonal Grassmannian as a novel kinematic space for describing correlators of massless spinning fields in de Sitter space. By automatically encoding the constraints of conformal symmetry and current conservation, the formalism drastically simplifies these correlators. At three points, the correlators are fixed by little group covariance. At four points, unitarity enforces the same factorization properties as for scattering amplitudes, which allows to easily bootstrap the answers. The expressions are astonishingly simple and reveal a close connection to the corresponding scattering amplitudes. Remarkably, at three and four points, Yang-Mills correlators arise as the canonical forms of positive regions in the orthogonal Grassmannian, naturally constructed in its Pfaffian embedding. These regions are defined by identifying the physical singularities of the correlators with geometric boundaries, and their canonical forms reproduce the required physical properties. This construction provides a concrete starting point for a geometric description of higher-point cosmological correlators."
 
 [e69]
 name = "Caleb Jonker"
