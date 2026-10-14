@@ -1074,8 +1074,8 @@ name = "Rhiannon Savage"
 institution = "University College London"
 date = 2026-10-21T15:00:00
 location = "C408"
-title = "TBA"
-abstract = "TBA"
+title = " C∞-bornological rings"
+abstract = "In this talk, we outline the development of a new model for derived differential geometry using an extension of C∞-rings that we call C∞-bornological rings. This new theory embeds into the theory of derived bornological geometry recently proposed by Ben-Bassat, Kelly, and Kremnizer. We also discuss how we can use an Artin-Lurie style representability theorem to show that the derived moduli stack of solutions to non-linear elliptic PDEs is representable by a derived C∞-bornological affine scheme."
 
 [e61]
 name = "Alex Turzillo"
