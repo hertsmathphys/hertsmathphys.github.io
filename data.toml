@@ -1128,13 +1128,13 @@ title = "TBA"
 abstract = "TBA"
 
 [e66]
-name = "José Figueroa-O'Farill"
+name = "José Figueroa-O'Farrill"
 institution = "University of Edinburgh"
 date = 2026-10-28T16:00:00
 location = "C408"
 title = "BMS strings"
-abstract = "The usual bosonic string is described classically as a sigma model: a theory of harmonic maps between a lorentzian “worldsheet” (often Wick rotated in the quantum theory) and a lorentzian target. There are however bosonic string theories where the worldsheet or the target (or both) are described by non-lorentzian geometries.
-The earlier such theory was the Gomis-Ooguri string which has a lorentzian worldsheet and a (stringy) galilean target. In this talk I will talk about bosonic strings whose worldsheet is carrollian (or galilean, which is equivalent in 2d) and hence the rôle of the Virasoro algebra in the usual bosonic string is now played by the BMS_3 algebra. I will concentrate on two such “BMS” strings: the ambitwistor string (which keeps the target lorentzian) and the Carroll string (which takes the target to be carrollian) and summarise the computation of their spectra using BRST methods."
+abstract = """The usual bosonic string is described classically as a sigma model: a theory of harmonic maps between a lorentzian “worldsheet” (often Wick rotated in the quantum theory) and a lorentzian target. There are however bosonic string theories where the worldsheet or the target (or both) are described by non-lorentzian geometries.
+The earlier such theory was the Gomis-Ooguri string which has a lorentzian worldsheet and a (stringy) galilean target. In this talk I will talk about bosonic strings whose worldsheet is carrollian (or galilean, which is equivalent in 2d) and hence the rôle of the Virasoro algebra in the usual bosonic string is now played by the BMS_3 algebra. I will concentrate on two such “BMS” strings: the ambitwistor string (which keeps the target lorentzian) and the Carroll string (which takes the target to be carrollian) and summarise the computation of their spectra using BRST methods."""
 
 [e67]
 name = "Ryan Cullinan"
