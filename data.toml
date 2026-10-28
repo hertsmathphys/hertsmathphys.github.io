@@ -1158,3 +1158,27 @@ date = 2026-10-08T13:00:00
 location = "C152"
 title = "Prequantization of pluriclosed Hermitian manifolds"
 abstract = "Pluriclosed (or SKT) manifolds, which arise as target spaces of σ-models with N=(1,2) supersymmetry and a Wess–Zumino term, form a natural class of Hermitian manifolds generalizing Kähler geometry. I will explain how geometric prequantization of Kähler manifolds can be extended to this class using holomorphic Hermitian gerbes. The key tool is a reformulation of pluriclosed geometries in the language of generalized geometry. Time permitting, I will describe how this framework gives prequantizations of generalized Kähler manifolds, which carry a metric which is pluriclosed with respect to two complex structures."
+
+[e70]
+name = "Ayngaran Thavanesan"
+institution = "University of Hertfordshire"
+date = 2026-12-16T15:00:00
+location = "C408"
+title = "TBA"
+abstract = "TBA"
+
+[e71]
+name = "Yaoqi Zhang"
+institution = "University of Hertfordshire"
+date = 2027-01-27T15:00:00
+location = "E350"
+title = "TBA"
+abstract = "TBA"
+
+[e72]
+name = "Rowan Wright"
+institution = "University of Hertfordshire"
+date = 2027-01-13T15:00:00
+location = "E350"
+title = "TBA"
+abstract = "TBA"
