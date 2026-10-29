@@ -1068,7 +1068,6 @@ date = 2026-10-07T16:00:00
 location = "C408"
 title = "On the general twist of type I supergravity"
 abstract = "We extend Costello and Li's conjectural description of the twist of N=1 supergravity on a Calabi-Yau 5-fold by constructing a candidate BCOV-type theory for an arbitrary supergravity background with flux. <a href='2026-10-07-Valach.pdf'>(slides)</a>"
-"
 
 [e60]
 name = "Rhiannon Savage"
@@ -1141,8 +1140,8 @@ name = "Ryan Cullinan"
 institution = "University of York"
 date = 2026-11-04T15:00:00
 location = "C408"
-title = "TBA"
-abstract = "TBA"
+title = "On the structure of higher-dimensional integrable field theories"
+abstract = """Four-dimensional Chern–Simons theory provides a systematic framework for constructing two-dimensional integrable field theories. I will describe a homological approach to extending this framework to higher dimensions using higher Chern–Simons theories, the Batalin–Vilkovisky formalism and cyclic L-infinity-algebras. After reviewing four-dimensional Chern–Simons theory as an illustrative example, I will show how to systematically construct higher-dimensional integrable field theories from higher Chern–Simons theories using homotopy transfer. Examples include the perturbative reconstruction of the principal chiral model with a Wess–Zumino term in two dimensions and a three-dimensional model obtained from five-dimensional 2-Chern–Simons theory. This talk is based on joint work with M. Benini, A. Schenkel and B. Vicedo."""
 
 [e68]
 name = "Mattia Arundine"
@@ -1159,3 +1158,27 @@ date = 2026-10-08T13:00:00
 location = "C152"
 title = "Prequantization of pluriclosed Hermitian manifolds"
 abstract = "Pluriclosed (or SKT) manifolds, which arise as target spaces of σ-models with N=(1,2) supersymmetry and a Wess–Zumino term, form a natural class of Hermitian manifolds generalizing Kähler geometry. I will explain how geometric prequantization of Kähler manifolds can be extended to this class using holomorphic Hermitian gerbes. The key tool is a reformulation of pluriclosed geometries in the language of generalized geometry. Time permitting, I will describe how this framework gives prequantizations of generalized Kähler manifolds, which carry a metric which is pluriclosed with respect to two complex structures."
+
+[e70]
+name = "Ayngaran Thavanesan"
+institution = "University of Hertfordshire"
+date = 2026-12-16T15:00:00
+location = "C408"
+title = "TBA"
+abstract = "TBA"
+
+[e71]
+name = "Yaoqi Zhang"
+institution = "University of Hertfordshire"
+date = 2027-01-27T15:00:00
+location = "E350"
+title = "TBA"
+abstract = "TBA"
+
+[e72]
+name = "Rowan Wright"
+institution = "University of Hertfordshire"
+date = 2027-01-13T15:00:00
+location = "E350"
+title = "TBA"
+abstract = "TBA"
