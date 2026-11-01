@@ -1090,8 +1090,8 @@ name = "Milena Weiershausen"
 institution = "University of Göttingen"
 date = 2026-11-11T15:00:00
 location = "C408"
-title = "TBA"
-abstract = "TBA"
+title = "Prequantization of shifted symplectic structures and transgression"
+abstract = """In the 1970s, Kostant and Souriau developed geometric quantization as a way to build a quantum system (given by a Hilbert space of states and linear operators on it) out of a classical one (given by a symplectic manifold). However, when the classical system in question has symmetries given by a Lie group action, it can happen that the orbit space is not itself a manifold anymore. To describe this kind of setting in a smooth way, we need to instead consider the action Lie groupoid of the system. For higher quotient type singularities, we might even have to consider higher Lie groupoids. There is a theory of shifted symplectic forms on these higher objects, as introduced to the smooth setting by Getzler about twelve years ago. This allows us to ask for a generalization of geometric quantization to shifted symplectic (higher) Lie groupoids. In this talk, I will explain some known results for the first step in this process – the analogue of prequantum line bundles for shifted symplectic structures. In the final part of the talk, I will discuss how some well-known objects in this story fit into a transgression picture."""
 
 [e63]
 name = "Ulrich Pennig"
