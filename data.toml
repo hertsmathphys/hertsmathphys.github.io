@@ -1082,8 +1082,8 @@ name = "Alex Turzillo"
 institution = "University of Cambridge"
 date = 2026-11-18T15:00:00
 location = "C408"
-title = "TBA"
-abstract = "TBA"
+title = "Distinguishing Topological Phases with Partition Functions"
+abstract = "I'll discuss a connection between topological field theories and topological phases of lattice models, which shows how partition functions of field theories can inspire order parameters for lattice models. After some generalities, I'll use this connection to develop, out of lens space partition functions, a novel order parameter for distinguishing two-dimensional symmetry protected topological (SPT) phases. The resulting procedure takes a wavefunction, such as a ground state of a lattice model, and detects its SPT invariants as expectation values of finitely supported operators, similar to how string order parameters work for 1D SPT phases."
 
 [e62]
 name = "Milena Weiershausen"
