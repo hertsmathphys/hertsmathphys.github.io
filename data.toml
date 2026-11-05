@@ -1182,3 +1182,11 @@ date = 2027-01-13T15:00:00
 location = "E350"
 title = "TBA"
 abstract = "TBA"
+
+[e73]
+name = "Alonso Perez"
+institution = "Max Planck Institute, Leipzig"
+date = 2026-12-08T14:00:00
+location = "TBA"
+title = "TBA"
+abstract = "TBA"
