@@ -1098,8 +1098,8 @@ name = "Ulrich Pennig"
 institution = "University of Cardiff"
 date = 2026-11-25T15:00:00
 location = "C408"
-title = "TBA"
-abstract = "TBA"
+title = "Equivariant higher twisted K-theory of SU(n)"
+abstract = "Loop groups have a rich representation theory encoded in their Verlinde ring, which is determined by their positive energy representations at a fixed level. A surprising connection links these to topology: twisted equivariant K-theory, a refinement of equivariant topological K-theory that allows for local coefficient systems called twists, can be used to recover this ring by deep results of Freed, Hopkins and Teleman. In this talk I will discuss an operator-algebraic model for equivariant non-classical twists over the groups SU(n) induced by exponential functors on the category of vector spaces. These twists are represented by Fell bundles, which can be viewed as operator-algebraic generalisations of bundle gerbes. The C*-algebraic picture allows a full computation of the associated K-groups. I will draw some parallels of our results with the FHT theorem. This is joint work with D. Evans."
 
 [e63a]
 name = "Martin Wolf"
