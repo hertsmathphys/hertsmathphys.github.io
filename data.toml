@@ -1198,3 +1198,11 @@ date = 2026-12-02T15:00:00
 location = "C408"
 title = "TBA"
 abstract = "TBA"
+
+[e75]
+name = "Alejandro Gil Garcia"
+institution = "Scuola Internazionale Superiore di Studi Avanzati"
+date = 2026-12-11T15:00:00
+location = "TBA"
+title = "TBA"
+abstract = "TBA"
