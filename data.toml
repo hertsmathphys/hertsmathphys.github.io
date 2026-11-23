@@ -1196,8 +1196,8 @@ name = "Lecheng Ren"
 institution = "Queen Mary University of London"
 date = 2026-12-02T15:00:00
 location = "C408"
-title = "TBA"
-abstract = "TBA"
+title = "The Analytic Structure of Cosmological Wavefunctions from a Graphical Coaction"
+abstract = "For conformally coupled scalars in power-law FRW cosmologies, the wavefunction coefficients — one per Feynman graph — expand in multiple polylogarithms around de Sitter space. We show that the wavefunction of the universe satisfies a graphical coaction, by means of which we can understand its complete analytic structure in terms of the acyclic minors of Feynman graphs, for all particle multiplicities and loop orders. Building on this, we present a closed-form expression for the symbol of the wavefunction coefficients, valid for any graph — both tree and loop level — to all orders in the expansion around de Sitter, as a sum over all flags of acyclic minors of the graph after it has been extended by a vertex at infinity. In the strict de Sitter limit, the chain and one-loop graphs are known at function level in terms of quadrangular polylogarithms, with the symbols compatible with A and B type cluster algebra."
 
 [e75]
 name = "Alejandro Gil Garcia"
