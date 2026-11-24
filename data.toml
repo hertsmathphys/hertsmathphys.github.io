@@ -1106,8 +1106,8 @@ name = "Martin Wolf"
 institution = "University of Surrey"
 date = 2026-11-25T13:00:00
 location = "E350"
-title = "TBA"
-abstract = "TBA"
+title = "Yang-Mills Theory as Chern-Simons Theory on Ambitwistor Space"
+abstract = "Building on the Movshev-Mason-Skinner proposal, I will present a rigorous, yet elementary construction of a twisted CR holomorphic Chern-Simons action on ambitwistor space for maximally supersymmetric Yang-Mills theory in four Euclidean dimensions. Using homotopy algebras, I prove that these two theories are semi-classically equivalent, confirming a conjecture, and recover Yang-Mills by homotopy transfer. The result is a simple new starting point for perturbative Yang-Mills theory."
 
 [e64]
 name = "Joel Day"
